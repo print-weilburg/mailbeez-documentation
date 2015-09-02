@@ -1,0 +1,39 @@
+---
+# http://learn.getgrav.org/content/headers
+title: copyright remover redirect
+slug: copyright_remover
+# menu: copyright remover redirect
+date: 13-09-2011
+published: true
+publish_date: 13-09-2011
+# unpublish_date: 13-09-2011
+# template: false
+# theme: false
+visible: true
+summary:
+    enabled: true
+    format: short
+    size: 128
+taxonomy:
+    migration-status: review
+    category: []
+    tag: []
+# added collection selector
+
+author:
+    name: admin
+metadata:
+    author: admin
+#      description: Your page description goes here
+#      keywords: HTML, CSS, XML, JavaScript
+#      robots: noindex, nofollow
+#      og:
+#          title: The Rock
+#          type: video.movie
+#          url: http://www.imdb.com/title/tt0117500/
+#          image: http://ia.media-imdb.com/images/rock.jpg
+#  cache_enable: false
+#  last_modified: true
+---
+
+
