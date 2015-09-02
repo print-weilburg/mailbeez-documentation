@@ -1,0 +1,2 @@
+# mailbeez-documentation
+public documentation
