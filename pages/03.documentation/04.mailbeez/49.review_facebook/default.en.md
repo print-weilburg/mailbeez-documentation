@@ -7,7 +7,7 @@ date: 04-06-2010
 published: true
 publish_date: 04-06-2010
 # unpublish_date: 04-06-2010
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'review_facebook'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2010/06/facebook_112.png'

@@ -7,7 +7,7 @@ date: 21-05-2010
 published: true
 publish_date: 21-05-2010
 # unpublish_date: 21-05-2010
-# template: false
+template: chapter
 # theme: false
 visible: true
 summary:
@@ -15,8 +15,8 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration-status: review
-    category: []
+    migration-status: done
+    category: [docs]
     tag: []
 # added collection selector
 
@@ -35,5 +35,6 @@ metadata:
 #  cache_enable: false
 #  last_modified: true
 ---
+# MailBeez Modules
 
-You’re in the right place to start exploring the Mailbeez modules! Automated, intelligent and sat within your existing store admin, the Mailbeez suite of rich email modules gives you the tools to properly manage the [life cycle of your customer relationships](http://www.mailbeez.com/documentation/tutorials/customer-life-cycle-management-and-how-mailbeez-can-help/ "Lifecycle management").
+You’re in the right place to start exploring the Mailbeez modules! Automated, intelligent and sat within your existing store admin, the Mailbeez suite of rich email modules gives you the tools to properly manage the [life cycle of your customer relationships](/documentation/tutorials/customer-life-cycle-management-and-how-mailbeez-can-help/ "Lifecycle management").

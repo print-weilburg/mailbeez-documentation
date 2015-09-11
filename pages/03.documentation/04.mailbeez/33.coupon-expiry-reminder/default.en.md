@@ -7,7 +7,7 @@ date: 03-09-2010
 published: true
 publish_date: 03-09-2010
 # unpublish_date: 03-09-2010
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,7 +16,7 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 # added collection selector
 
@@ -55,19 +55,19 @@ Like all MailBeez Modules the email content is taken from a template, which is v
 The shown themed email templates are not yet responsive, we plan to make that as soon as possible (support for responsive emails will require in any case the [responsive template manager](http://www.mailbeez.com/documentation/mailbeez/config_tmplmngr)). ****
 
  
-			#gallery-6 {
+			#gallery-3 {
 				margin: auto;
 			}
-			#gallery-6 .gallery-item {
+			#gallery-3 .gallery-item {
 				float: left;
 				margin-top: 10px;
 				text-align: center;
 				width: 50%;
 			}
-			#gallery-6 img {
+			#gallery-3 img {
 				border: 2px solid #cfcfcf;
 			}
-			#gallery-6 .gallery-caption {
+			#gallery-3 .gallery-caption {
 				margin-left: 0;
 			}
 			/* see gallery_shortcode() in wp-includes/media.php */

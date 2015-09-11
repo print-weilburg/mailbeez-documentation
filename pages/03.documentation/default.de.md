@@ -7,8 +7,8 @@ date: 21-05-2010
 published: true
 publish_date: 21-05-2010
 # unpublish_date: 21-05-2010
-# template: false
-theme: learn2
+template: docs
+theme: mailbeez_learn
 visible: true
 summary:
     enabled: true
@@ -16,7 +16,7 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 # added collection selector
 

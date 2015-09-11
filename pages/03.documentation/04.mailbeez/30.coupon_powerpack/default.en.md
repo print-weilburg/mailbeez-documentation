@@ -7,7 +7,7 @@ date: 16-09-2010
 published: true
 publish_date: 16-09-2010
 # unpublish_date: 16-09-2010
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'coupon_powerpack'
     category: [depreciated]
     compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: ''

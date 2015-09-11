@@ -7,7 +7,7 @@ date: 08-02-2012
 published: true
 publish_date: 08-02-2012
 # unpublish_date: 08-02-2012
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'coupon_review_shopauskunft'
     category: [mailbeez]
     compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/02/icon_641.png'

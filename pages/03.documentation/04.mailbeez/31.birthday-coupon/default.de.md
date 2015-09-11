@@ -7,7 +7,7 @@ date: 26-10-2010
 published: true
 publish_date: 26-10-2010
 # unpublish_date: 26-10-2010
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,7 +16,7 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 # added collection selector
 
@@ -52,19 +52,19 @@ Wie bei alle MailBeez Modulen üblich, so wird auch für dieses Module der Inhal
 Die gezeigten Design-Vorlagen sind noch nicht responsive, wir werden dies baldmöglichst anpassen (Damit MailBeez responsive Emails versenden kann, ist auf jeden Fall die [Responsive Vorlagen Verwaltung](http://www.mailbeez.de/dokumentation/mailbeez/config_tmplmngr)) erforderlich. ****
 
  
-			#gallery-5 {
+			#gallery-2 {
 				margin: auto;
 			}
-			#gallery-5 .gallery-item {
+			#gallery-2 .gallery-item {
 				float: left;
 				margin-top: 10px;
 				text-align: center;
 				width: 50%;
 			}
-			#gallery-5 img {
+			#gallery-2 img {
 				border: 2px solid #cfcfcf;
 			}
-			#gallery-5 .gallery-caption {
+			#gallery-2 .gallery-caption {
 				margin-left: 0;
 			}
 			/* see gallery_shortcode() in wp-includes/media.php */

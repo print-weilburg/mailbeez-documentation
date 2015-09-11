@@ -7,7 +7,7 @@ date: 02-03-2012
 published: true
 publish_date: 02-03-2012
 # unpublish_date: 02-03-2012
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'config_mailchimp'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/11/icon_64.png'

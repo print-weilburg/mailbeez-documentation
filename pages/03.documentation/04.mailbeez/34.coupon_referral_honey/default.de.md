@@ -7,7 +7,7 @@ date: 10-01-2012
 published: true
 publish_date: 10-01-2012
 # unpublish_date: 10-01-2012
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'coupon_referral_honey'
     category: [mailbeez]
     compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/01/icon_32.png'

@@ -7,7 +7,7 @@ date: 09-09-2011
 published: true
 publish_date: 09-09-2011
 # unpublish_date: 09-09-2011
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'config_copyright_remover'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/09/certificate_32.png'

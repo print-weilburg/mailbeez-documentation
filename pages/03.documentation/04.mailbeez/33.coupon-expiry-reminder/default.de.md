@@ -7,7 +7,7 @@ date: 03-09-2010
 published: true
 publish_date: 03-09-2010
 # unpublish_date: 03-09-2010
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,7 +16,7 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 # added collection selector
 
@@ -55,19 +55,19 @@ Wie alle MailBeez Kampagnen Module, so wird auch bei diesem Module der Inhalt de
 Die gezeigten Design-Vorlagen sind noch nicht responsive, wir werden dies baldmöglichst anpassen (Damit MailBeez responsive Emails versenden kann, ist auf jeden Fall die [Responsive Vorlagen Verwaltung](http://www.mailbeez.de/dokumentation/mailbeez/config_tmplmngr)) erforderlich. ****
 
  
-			#gallery-7 {
+			#gallery-4 {
 				margin: auto;
 			}
-			#gallery-7 .gallery-item {
+			#gallery-4 .gallery-item {
 				float: left;
 				margin-top: 10px;
 				text-align: center;
 				width: 50%;
 			}
-			#gallery-7 img {
+			#gallery-4 img {
 				border: 2px solid #cfcfcf;
 			}
-			#gallery-7 .gallery-caption {
+			#gallery-4 .gallery-caption {
 				margin-left: 0;
 			}
 			/* see gallery_shortcode() in wp-includes/media.php */

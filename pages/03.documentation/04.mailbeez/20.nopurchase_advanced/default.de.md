@@ -7,7 +7,7 @@ date: 07-10-2011
 published: true
 publish_date: 07-10-2011
 # unpublish_date: 07-10-2011
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'nopurchase_advanced'
     category: [mailbeez]
     compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/10/icon_321.png'
@@ -65,19 +66,19 @@ Dieses Modul gibt Ihnen ein automatisierbares Werkzeug, um neue Kunden mit Kunde
 Professionelle, ansprechend gestaltete Emails sind der beste Weg um die Inbox des Kunden zu erreichen. Hier hilft das Modul mit einer Reihe professionel gestalteter Vorlagen:
 
  
-			#gallery-3 {
+			#gallery-10 {
 				margin: auto;
 			}
-			#gallery-3 .gallery-item {
+			#gallery-10 .gallery-item {
 				float: left;
 				margin-top: 10px;
 				text-align: center;
 				width: 50%;
 			}
-			#gallery-3 img {
+			#gallery-10 img {
 				border: 2px solid #cfcfcf;
 			}
-			#gallery-3 .gallery-caption {
+			#gallery-10 .gallery-caption {
 				margin-left: 0;
 			}
 			/* see gallery_shortcode() in wp-includes/media.php */

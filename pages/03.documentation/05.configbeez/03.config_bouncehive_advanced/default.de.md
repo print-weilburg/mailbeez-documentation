@@ -1,13 +1,13 @@
 ---
 # http://learn.getgrav.org/content/headers
 title: BounceHive Rückläufer-Verarbeitung
-slug: bouncehive-rucklaufer-verarbeitung
+slug: config_bouncehive_advanced
 # menu: BounceHive Rückläufer-Verarbeitung
 date: 26-03-2012
 published: true
 publish_date: 26-03-2012
 # unpublish_date: 26-03-2012
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,8 +16,21 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
+download:
+    code: 'config_bouncehive_advanced'
+    category: [configbeez]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/05/icon_321.png'
+    pro: 'pro'
+    cert: 'true'
+    price: '99 EUR'
+    title_en: 'BounceHive Bounce Handling'
+    teaser_en: 'Process Bounce Emails automatically'
+    title_de: 'BounceHive R&uuml;ckl&auml;ufer-Verarbeitung'
+    teaser_de: 'Bounce Emails automatisch verarbeiten'
+    author: 'MailBeez.com'
 # added collection selector
 
 author:

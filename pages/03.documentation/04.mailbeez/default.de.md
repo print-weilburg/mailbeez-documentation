@@ -7,7 +7,7 @@ date: 21-05-2010
 published: true
 publish_date: 21-05-2010
 # unpublish_date: 21-05-2010
-# template: false
+template: chapter
 # theme: false
 visible: true
 summary:
@@ -15,8 +15,8 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration-status: review
-    category: []
+    migration-status: done
+    category: [docs]
     tag: []
 # added collection selector
 
@@ -35,5 +35,6 @@ metadata:
 #  cache_enable: false
 #  last_modified: true
 ---
+# MailBeez Module
 
-Hier sind Sie an der richtigen Stelle, um die Welt der MailBeez Module zu entdecken! Automatisierbar, intelligent und integriert bietet MailBeez Ihnen eine Reihe von Werkzeugen, um Ihre [Kundenbeziehung](http://www.mailbeez.de/dokumentation/tutorials/customer-life-cycle-management-and-how-mailbeez-can-help/ "Lifecycle management") zu optimieren
+Hier sind Sie an der richtigen Stelle, um die Welt der MailBeez Module zu entdecken! Automatisierbar, intelligent und integriert bietet MailBeez Ihnen eine Reihe von Werkzeugen, um Ihre [Kundenbeziehung](/dokumentation/tutorials/customer-life-cycle-management-and-how-mailbeez-can-help/ "Lifecycle management") zu optimieren

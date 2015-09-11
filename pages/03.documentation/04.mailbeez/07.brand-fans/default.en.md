@@ -7,7 +7,7 @@ date: 23-08-2011
 published: true
 publish_date: 23-08-2011
 # unpublish_date: 23-08-2011
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,7 +16,7 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 # added collection selector
 

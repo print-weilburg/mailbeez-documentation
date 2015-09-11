@@ -7,7 +7,7 @@ date: 27-05-2011
 published: true
 publish_date: 27-05-2011
 # unpublish_date: 27-05-2011
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'filter_check_group'
     category: [filterbeez]
     compatiblity: [comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/06/icon_32.png'

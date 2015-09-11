@@ -7,7 +7,7 @@ date: 03-01-2013
 published: true
 publish_date: 03-01-2013
 # unpublish_date: 03-01-2013
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'zc_testimonials'
     category: [mailbeez]
     compatiblity: []
     thumbnail: ''

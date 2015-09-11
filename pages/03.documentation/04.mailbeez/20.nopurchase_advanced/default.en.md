@@ -7,7 +7,7 @@ date: 07-10-2011
 published: true
 publish_date: 07-10-2011
 # unpublish_date: 07-10-2011
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'nopurchase_advanced'
     category: [mailbeez]
     compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/10/icon_321.png'
@@ -63,19 +64,19 @@ This highly useful eCommerce email add-on gives you the tools to automatically e
 **Includes professionally designed email templates**
 
  
-			#gallery-2 {
+			#gallery-9 {
 				margin: auto;
 			}
-			#gallery-2 .gallery-item {
+			#gallery-9 .gallery-item {
 				float: left;
 				margin-top: 10px;
 				text-align: center;
 				width: 50%;
 			}
-			#gallery-2 img {
+			#gallery-9 img {
 				border: 2px solid #cfcfcf;
 			}
-			#gallery-2 .gallery-caption {
+			#gallery-9 .gallery-caption {
 				margin-left: 0;
 			}
 			/* see gallery_shortcode() in wp-includes/media.php */

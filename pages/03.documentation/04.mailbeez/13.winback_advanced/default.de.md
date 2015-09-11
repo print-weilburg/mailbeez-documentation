@@ -7,7 +7,7 @@ date: 09-08-2011
 published: true
 publish_date: 09-08-2011
 # unpublish_date: 09-08-2011
-# template: false
+template: docs
 # theme: false
 visible: true
 summary:
@@ -16,9 +16,10 @@ summary:
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 download:
+    code: 'winback_advanced'
     category: [mailbeez]
     compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/09/icon_32.png'
@@ -78,19 +79,19 @@ Professionelle, ansprechend gestaltete Emails sind der beste Weg um die Inbox de
 Die gezeigten Design-Vorlagen sind noch nicht responsive, wir werden dies baldmöglichst anpassen (Damit MailBeez responsive Emails versenden kann, ist auf jeden Fall die [Responsive Vorlagen Verwaltung](http://www.mailbeez.de/dokumentation/mailbeez/config_tmplmngr)) erforderlich. ****
 
  
-			#gallery-1 {
+			#gallery-8 {
 				margin: auto;
 			}
-			#gallery-1 .gallery-item {
+			#gallery-8 .gallery-item {
 				float: left;
 				margin-top: 10px;
 				text-align: center;
 				width: 25%;
 			}
-			#gallery-1 img {
+			#gallery-8 img {
 				border: 2px solid #cfcfcf;
 			}
-			#gallery-1 .gallery-caption {
+			#gallery-8 .gallery-caption {
 				margin-left: 0;
 			}
 			/* see gallery_shortcode() in wp-includes/media.php */

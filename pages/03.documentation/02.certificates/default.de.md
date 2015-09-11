@@ -7,16 +7,16 @@ date: 08-10-2011
 published: true
 publish_date: 08-10-2011
 # unpublish_date: 08-10-2011
-# template: false
+template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
     size: 128
 taxonomy:
     migration-status: review
-    category: []
+    category: [docs]
     tag: []
 # added collection selector
 
