@@ -50,12 +50,12 @@ metadata:
 ### v3.1.2
 #### 11.08.2015
 
-1. [](#improved)
-    * framework refactoring for using constants
 1. [](#new)
-    * shopvoting 4.03
     * support for custom email main templates to avoide overwriting with updates  
  (default\_email.html.tpl will be overwritten -> rename into email.html.tpl)
+1. [](#improved)
+    * framework refactoring for using constants
+    * shopvoting 4.03
 3. [](#bugfix)
     * related to shopvoting module
 
@@ -70,9 +70,8 @@ metadata:
 ### v3.1.0
 #### 29.06.2015
 
-1. [](#new)
-    * integrated api framework config\_api
 1. [](#improved)  
+    * integrated api framework config\_api
     * shopvoting 4.0 responsive
 3. [](#bugfix)
     * removed php shorttag 
@@ -96,7 +95,7 @@ metadata:
 ### v3.0.1
 #### 11.06.2015
 
-1. [](#new)
+1. [](#improved)
     * dashboard loading and caching
 3. [](#bugfix)
     * tour on gambio 2.3
@@ -106,36 +105,37 @@ metadata:
 
 1. [](#new)
     * MailBeez Tour
-    * Dashboard Ajax widgets with caching to improve loading times
-    * framework 1. [](#new)
-    * template based customizable opt-out page (DE/EN)
     * Newsletter2Go bouncehandling
+1. [](#improved)
     * Modified-Shop 2.0 ready
-3. [](#bugfix)
-    * -
+    * framework enhancements
+    * template based customizable opt-out page (DE/EN)
+    * Dashboard Ajax widgets with caching to improve loading times
 
 ### v2.9.9-7
 #### 29.05.2015
 
 1. [](#new)
     * introduction of system status bar showing relevant number of customers
-    * exclude @marketplace.amazon customer from beeing counted for subscription
     * tour alpha / hopscotch
-    * framework 1. [](#new)
+1. [](#improved)
+    * exclude @marketplace.amazon customer from beeing counted for subscription
+    * framework enhancements
 3. [](#bugfix)
     * shoprating bug when module was installed and main module installed
 
 ### v2.9.9-6
 #### 06.05.2015
 
+1. [](#improved)
+    * shopvoting gambio compatibility improvements
 3. [](#bugfix)
     * smarty 3 backwards compatiblity fix
-    * shopvoting gambio compatibility improvements
 
 ### v2.9.9-6
 #### 30.04.2015
 
-1. [](#new)
+1. [](#improved)
     * Gambio 2.3 Integration ready
 3. [](#bugfix)
     * Newsletter2Go SenderName
@@ -144,7 +144,7 @@ metadata:
 ### v2.9.9-5
 #### 01.04.2015
 
-1. [](#new)
+1. [](#improved)
     * shopvoting V3.58
 3. [](#bugfix)
     * fixed issue with SSL
@@ -152,7 +152,7 @@ metadata:
 ### v2.9.9-4
 #### 25.03.2015
 
-1. [](#new)
+1. [](#improved)
     * improved EN language string in shopvoting module
     * support for osc2.3.3 config cache addon
 3. [](#bugfix)
@@ -162,14 +162,14 @@ metadata:
 ### v2.9.9-3
 #### 23.03.2015
 
-1. [](#new)
+1. [](#improved)
     * allover performance improvements
     * improved caching for apps.mailbeez.com API
     * improved commerce-seo compatiblity
     * improved Gambio Integration
     * improved customer insight V2.71
     * shopvoting V3.57
-    * framework 1. [](#new)
+    * framework enhancements
 3. [](#bugfix)
     * removed PHP5.4 warning
     * fixed bug when testing PHPMailer SMTP
@@ -178,11 +178,12 @@ metadata:
 #### 10.02.2015
 
 1. [](#new)
-    * added shoprating module latest version
     * added support for commerce-seo 2.1
     * added UTF-8 support (Gambio 2.1, osCommerce 2.3.4)
     * added missing language constants for Gambio 2.1
+1. [](#improved)
     * improved clicktracker integration instructions
+    * added shoprating module latest version
 3. [](#bugfix)
     * fixed issues with throttling
     * fixed typos
@@ -191,9 +192,11 @@ metadata:
 ### v2.9.8-7
 #### 05.01.2015
 
-1. [](#new)
-    * newsletter2go integration set up through api
+
+
+1. [](#improved)
     * renamed cloudbeez.com > apps.mailbeez.com
+    * newsletter2go integration set up through api
 3. [](#bugfix)
     * fixed issues with Gambio userclasses
     * fixed visual bug in statsbar
@@ -207,8 +210,8 @@ metadata:
 ### v2.9.8-5
 #### 12.12.2014
 
-1. [](#new)
-    * framework 1. [](#new)
+1. [](#improved)    
+    * framework enhancements
 3. [](#bugfix)
     * fixed session cache issue
 
@@ -221,7 +224,7 @@ metadata:
 ### v2.9.8-3
 #### 02.12.2014
 
-1. [](#new)
+1. [](#improved)
     * improved newsletter2go integration (UTF-8 support)
 3. [](#bugfix)
     * several
@@ -247,8 +250,10 @@ metadata:
 ### v2.9.8
 #### 20.11.2014
 
+
 1. [](#new)
     * warning when PHP5.4
+1. [](#improved)
     * check to avoid sending empty emails on PHP5.4
     * added smarty 3 as default template engine, compatibility with smarty 2.6
     * ready for cloudbeez.com beta testing
@@ -271,7 +276,7 @@ metadata:
 ### v2.9.7-1
 #### 20.09.2014
 
-1. [](#new)
+1. [](#improved)
     * improved versioncheck notifications
 3. [](#bugfix)
     * fixed query issue of data quality check
@@ -283,10 +288,11 @@ metadata:
     * added integration with Newsletter2Go
     * added DB query watchdog to automatically kill processes after 60s (configurable)
     * integrated cloudloader installer and updater
-    * improved customer insight order handling
-    * improved notification system
     * added data quality widget
     * allow overrides for $GLOBALS['mh\_template\_replace\_variables\_common']
+1. [](#improved)
+    * improved customer insight order handling
+    * improved notification system
 3. [](#bugfix)
     * fixed bug with clicktracker
 
@@ -296,13 +302,14 @@ metadata:
 silent release
 
 1. [](#new)
-    * improved Beez-O-Graph to show ordervalue per day
     * enable filterbeez to add preview-content in visual editor
     * added check for “DOMDocument” to system check
-    * improved version check
     * updated jquery flot, jquery timeago
     * fixed warning in kcfinder integration
-    * Framework 1. [](#new), preparing for cloudloader
+    * Framework enhancements, preparing for cloudloader
+1. [](#improved)
+    * improved Beez-O-Graph to show ordervalue per day
+    * improved version check
 3. [](#bugfix)
     * classloader warning
 
@@ -317,11 +324,12 @@ silent release
 #### 15.02.2014
 
 1. [](#new)
+    * admin menu plugin for osCommerce 2.3.3.x
+1. [](#improved)
     * improved mobile statistics
     * improved Commerce:SEO compatibility
     * improved template engine for upcoming integrations
-    * framework 1. [](#new)
-    * admin menu plugin for osCommerce 2.3.3.x
+    * framework enhancements
     * new simplified update procedure
 3. [](#bugfix)
     * fixed compatiblity with Gambio GX1
@@ -331,11 +339,12 @@ silent release
 
 1. [](#new)
     * commerce SEO V2Next compatibility
-    * framework 1. [](#new)
-    * improved CRE Loaded 6.x compatibility
     * support for ZenCart 1.5.2RC (mysqli)
     * smarty 3.1 support
+1. [](#improved)
+    * framework enhancements
     * improve html code parsing for Outlook compatibility (width and heights attributes are added if dimensions were given only in style attribute)
+    * improved CRE Loaded 6.x compatibility
 3. [](#bugfix)
     * fixed included birthday module
 
@@ -351,7 +360,7 @@ silent release
 ### v2.9.1
 #### 20.11.2013
 
-1. [](#new)
+1. [](#improved)
     * one bug down
 3. [](#bugfix)
     * fixed a bug with the “run module” button
@@ -365,10 +374,11 @@ Same as V2.8.10 – but fixing issue with version number
 #### 19.11.2013
 
 1. [](#new)
+    * added {$module\_code} template variable
+1. [](#improved)
     * compatibility improvements with responsive template manager
     * improved MailBeez Analytics summary to recognise Simulation/Production mode
     * improved support for https
-    * added {$module\_code} template variable
 3. [](#bugfix)
     * fixed bug that prevented updating modules (, / . version number)
     * fixed bug that caused layout incompatibility with Outlook
@@ -384,20 +394,19 @@ Same as V2.8.10 – but fixing issue with version number
     * fixed bug that prevented MailBeez from updating itself
  
 
-
 ### v2.8.8
 #### 30.10.2013
 
 1. [](#new)
-    * improved compatibility with Gambio
     * added suhosin compatibility fix (/mailhive/common/local/suhosin\_compatibility.php )
+1. [](#improved)
+    * improved compatibility with Gambio
 
 ### v2.8.7
 #### 29.10.2013
 
-1. [](#new)
+1. [](#improved)
     * improved framework
-
 3. [](#bugfix)
     * fixed an issue with mixing ssl, nonssl requests and servers with configure x-frame-options
 
@@ -405,19 +414,21 @@ Same as V2.8.10 – but fixing issue with version number
 #### 25.10.2013
 
 1. [](#new)
-    * improved framework
     * enhanced MailBeez Analytics to analyse and report Email openings on mobile devices
     * automatically generate txt version from html email if txt template is empty
+1. [](#improved)
+    * improved framework
 
 ### v2.8.5
 #### 20.10.2013
 
 1. [](#new)
-    * improved support for https in clicktracker
     * added support for upcoming pro features (visual editor, responsive emails, mobile preview)
     * dropped support for mailbeez 1.x template variables like “$firstname” (since 2.x {$firstname} )
+1. [](#improved)
+    * improved support for https in clicktracker
     * enhanced main template
-    * several framework 1. [](#new) for improved performance and support for upcoming premium features
+    * several framework enhancements for improved performance and support for upcoming premium features
 3. [](#bugfix)
     * fixed issue with clicktracker url rewrites
     * fixed character issues in dashboard news widget
@@ -428,6 +439,8 @@ Same as V2.8.10 – but fixing issue with version number
 
 1. [](#new)
     * added MailBeez Analytics Summary View on Dashboard
+    * BeezDesk CRM ready
+1. [](#improved)
     * improved clicktracker to support rewritten urls
     * improved clicktracker order tracking
     * Framework improvements: integrated firelogger / firephp support, systemcheck
@@ -435,7 +448,6 @@ Same as V2.8.10 – but fixing issue with version number
     * improved email engine
     * improved template engine to remove UTF-8 BOM and marker character in input, if present.
     * added DB index to improve performance
-    * BeezDesk CRM ready
 3. [](#bugfix)
     * fixed minor codeing errors
     * fixed zencart 1.5 compatibility issue
@@ -446,7 +458,7 @@ Same as V2.8.10 – but fixing issue with version number
 ### v2.7.5
 #### 12.03.2013
 
-1. [](#new)
+1. [](#improved)
     * improved version check (performance, more meaningful messages)
 3. [](#bugfix)
     * Google Analytics Dashboard Widget: fixed installation routine
@@ -457,7 +469,6 @@ Same as V2.8.10 – but fixing issue with version number
 #### 22.02.2013
 
 1. [](#new)
-    * improved Email Encoding handling (automatic detection / manual setting / adopted main template)
     * added PHPMailer Debug setting
     * added PHPMailer txt wordwrap configuration setting
     * added option to disable stylesheet to inline CSS conversion (requires PHP5)
@@ -466,6 +477,8 @@ Same as V2.8.10 – but fixing issue with version number
     * added option to control PHP Ignore User Abort
     * added check for inconsistent order db
     * added support for modified-shop
+1. [](#improved)
+    * improved Email Encoding handling (automatic detection / manual setting / adopted main template)
 3. [](#bugfix)
     * fixed icon path in admin which could cause php errorlog entries
     * fixed error where $request\_profiler is not defined
@@ -477,8 +490,9 @@ For updating Versions 2.7.2 and 2.7.3 please apply the upgrade pack for MailBeez
 #### 17.01.2013
 
 1. [](#new)
-    * Framework improvements for future features
     * allocated memory is shown in browser title when running mailhive.php manually
+1. [](#improved)
+    * Framework improvements for future features
 3. [](#bugfix)
     * removed warnings
     * fixed issues with check method
@@ -492,6 +506,7 @@ For updating please apply the upgrade pack for MailBeez V2.5 (even if you are ru
 
 1. [](#new)
     * support for Holbi Trueloaded oscommerce fork
+1. [](#improved)
     * Framework improvements for future features
 3. [](#bugfix)
     * **IMPORTANT:** fixed high memory usage
@@ -504,8 +519,9 @@ For updating please apply the upgrade pack for MailBeez V2.5 (even if you are ru
 
 1. [](#new)
     * json support for servers w/o json extension
-    * localization of documentation and update links (www.mailbeez.de for german users)
     * warning for incompatible modules
+1. [](#improved)
+    * localization of documentation and update links (www.mailbeez.de for german users)
 3. [](#bugfix)
     * module incompatibilities
 
@@ -515,16 +531,17 @@ For updating please apply the upgrade pack for MailBeez V2.5 (even if you are ru
 #### 30.11.2012
 
 1. [](#new)
-    * improved html basic template with http://htmlemailboilerplate.com/
     * generic UTF-8 encoding for email content & subject
     * added option to control UTF-8 encoding of subject
     * automatic literal-tags are added for stylesheets
     * added Emogrifier class to convert CSS to inline styles http://www.pelagodesign.com/sidecar/emogrifier/
     * added support for editor shortcodes for visual template editor
     * enhanced email engine to support custom message-ids
-    * general framework 1. [](#new) (added fineuploader, ckeditor, kcfinder, codemirror, jquery-easyui)
     * sending process does not stop on user abort
     * Gambio Menu xml Plugin
+1. [](#improved)
+    * improved html basic template with http://htmlemailboilerplate.com/
+    * general framework enhancements (added fineuploader, ckeditor, kcfinder, codemirror, jquery-easyui)
 3. [](#bugfix)
     * Bugfix Clicktracker – openings not captured
     * fixed issues with installation of dashboard modules
@@ -539,12 +556,13 @@ For updating please apply the upgrade pack for MailBeez V2.5 (even if you are ru
 #### 05.09.2012
 
 1. [](#new)
-    * Improved compatibility of PHPMailer
-    * Improved handling of invalid email addresses w/o stopping PHPMailer
     * PHP Mailer default Chartset UTF-8
+    * added index to tracking table (automatically)
+1. [](#improved)
+    * improved compatibility of PHPMailer
+    * improved handling of invalid email addresses w/o stopping PHPMailer
     * improved support for SSL
     * improved english wording (thanks to kelly)
-    * added index to tracking table (automatically)
 3. [](#bugfix)
     * bugfix for error on Dashboard
     * Respect the “Send copy” setting in simulation mode
@@ -591,12 +609,13 @@ MailBeez Version 2.6 is a major release with many improvements:
     * Control for opt-out link behaviour: Global or module
     * restart simulation from any page
     * Framework 1. [](#new), performance
-    * enhanced certificate management for premium modules
     * Mouseflow Integration pre-installed (find a coupon for 500 credits in the admin)
     * [Mouseflow Integration](http://www.mailbeez.com/documentation/configbeez/config_mouseflow/ "Mouseflow") pre-installed (find a coupon for 500 credits in the MailBeez configuration module)
-    * PHP5.3 ready
     * Compatibility with WP Online Store for WordPress
     * Compatibility with SEO Mercari
+1. [](#improved)
+    * enhanced certificate management for premium modules
+    * PHP5.3 ready
 3. [](#bugfix)
     * In Simulation Mode the “send test email” function did not accept the entered email address, but sent always to the configured copy-to / simulation-to email
     * Opt-Out links now contain the mode: Before the an opt-out coming from a production email was counted as simulation opt-out when MailBeez was switched back into simulation mode
@@ -614,15 +633,16 @@ MailBeez Version 2.6 is a major release with many improvements:
 1. [](#new)
     * “un-block” feature – customers can unblock in case of mistake
     * “Kill Process” Button to stop long sending processes in case of mistake (configuration > process control)
-    * design improvements and new icons
     * Status-Indicator production / simulation
-    * generic framework 1. [](#new)
     * new default layout, 600px width
     * ZenCart: option to override Zencarts email template system to give full layout control to MailBeez
     * ZenCart: With using Zencarts email templates the system tries to use email/email\_template\_mailbeez.html. If that does not exist, the email\_template\_default.html is applied
     * Support for CRE 6.2 (not tested)
     * Support for commerce:SEO
     * Copyright Footer, remove with [MailBeez Copyright Remover Certificate](http://www.mailbeez.com/documentation/configbeez/config_copyright_remover/ "MailBeez Copyright Remover Certificate")
+1. [](#improved)
+    * generic framework enhancements
+    * design improvements and new icons
 3. [](#bugfix)
     * option to try to fix “double-dot” bug (configuration > email engine)
 
@@ -646,26 +666,27 @@ MailBeez Version 2.6 is a major release with many improvements:
 #### 02.08.2011
 
 1. [](#new)
-    * technical framework enhancements (functionality, performance, refactoring)
     * MailBeez Process Control – avoids overlapping mailhive processes (technical)
     * support of complex modules (expand / collapse)
-    * improvements of the admin interface (translation & layout of common buttons)
     * review-o-meter: shows rate of reviews : customers on dashboard
     * Support for oscMax 2.5 and Gambio Gx 2
+1. [](#improved)
+    * technical framework enhancements (functionality, performance, refactoring)
+    * improvements of the admin interface (translation & layout of common buttons)
 3. [](#bugfix)
     * many minor bugs…
 
 ### v2.1
 #### 29.04.2011
 
-
 1. [](#new)
-    * technical framework enhancements (functionality, performance, refactoring)
-    * improvements of the admin interface
     * inline version checker (requires CURL)
     * new external version checker in popup
-    * “Filter”-tab renamed into “Filter & Helper”
+1. [](#improved)
+    * technical framework enhancements (functionality, performance, refactoring)
+    * improvements of the admin interface
     * moved “configuration” tab
+    * “Filter”-tab renamed into “Filter & Helper”
 3. [](#bugfix)
     * opt-url is now “URL rewriter save”
     * many minor bugs…
@@ -779,7 +800,7 @@ MailBeez Version 2.6 is a major release with many improvements:
     * initial Version of MailBeez
 
 ### v1.0 - productive Prototype
-#### 2010-01-20 
+#### 20.01.2010 
 
 1. [](#new)
     * First Automatic Trigger Email Campaign sent
