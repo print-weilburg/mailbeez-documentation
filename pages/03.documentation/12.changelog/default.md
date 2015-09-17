@@ -1,12 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Shopbewertung Profi
-slug: shopbewertung-profi
-# menu: Shopbewertung Profi
-date: 15-10-2011
+title: Changelog
+slug: changelog
+# menu: Changelog
+date: 30-05-2010
 published: true
-publish_date: 15-10-2011
-# unpublish_date: 15-10-2011
+publish_date: 30-05-2010
+# unpublish_date: 30-05-2010
 template: docs
 # theme: false
 visible: true
@@ -15,10 +15,13 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
-# added collection selector
+
+markdown_extra: true 
+process:
+    twig: true
 
 author:
     name: admin
@@ -35,5 +38,12 @@ metadata:
 #  cache_enable: false
 #  last_modified: true
 ---
+{{ 'core'|mailbeez_core_version }}
+{{ 'core'|mailbeez_core_date|date("d. M. Y") }}
+{{ 'core'|mailbeez_core_filesize|mailbeez_formatBytes }}
 
-Dieses Modul ist durch [Bitte zur Shopbewertung Profi](http://www.mailbeez.de/dokumentation/mailbeez/shoprating_advanced/) ersetzt worden.
+<hr>
+<div class="changelog" markdown="1" >    
+{{ 'core'|mailbeez_core_changelog|markdown }}
+</div>
+

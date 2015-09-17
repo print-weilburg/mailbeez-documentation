@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration-status: done
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector

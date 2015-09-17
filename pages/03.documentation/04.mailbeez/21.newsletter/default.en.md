@@ -15,11 +15,11 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration-status: review
+    migration_status: review
     category: [docs]
     tag: []
 download:
-    code: 'newsletter'
+    code: 'mb_newsletter'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/10/icon_32.png'

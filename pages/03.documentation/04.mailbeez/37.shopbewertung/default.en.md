@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration-status: review
+    migration_status: review
     category: [docs]
     tag: []
 download:
