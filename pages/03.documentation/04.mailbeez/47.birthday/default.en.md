@@ -17,7 +17,7 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
+    tag: [core]
 download:
     code: 'birthday'
     category: [mailbeez]
