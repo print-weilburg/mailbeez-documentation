@@ -11,7 +11,7 @@ MailBeez wurde von Grund auf so entwickelt, dass nur wenige Voraussetzungen für
 
 ### PHP Voraussetzungen
 
-Sehr wahrscheinlich läuft Ihr Shop bereits auf einem Server mit PHP 5.2 oder höher - das ist alles, was MailBeez benötigt
+Sehr wahrscheinlich läuft Ihr Shop bereits auf einem Server mit PHP 5.4 oder höher - das ist alles, was MailBeez benötigt
 
 
 
