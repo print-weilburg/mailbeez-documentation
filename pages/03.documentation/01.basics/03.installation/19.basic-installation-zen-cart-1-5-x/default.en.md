@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez works with Zen Cart v1.5.x running on PHP 5.2.11 and higher
+MailBeez works with **Zen Cart v1.5.x** running on PHP 5.2+
 
 
 The installation is straight forward and can be done in a couple of minutes by following these steps:
@@ -52,7 +52,6 @@ MailBeez is maintaining it’s own tables – the shops existing table stay as t
 copy following file to your admin-directory
 
 ```bash
-
  mailbeez.php
 
 ```
@@ -61,10 +60,8 @@ copy following file to your admin-directory
 copy following file and folder to your catalog-directory (where your index.php is located)
 
 ```bash
-
 mailhive (folder)
 mailhive.php
-
 
 ```
 
@@ -90,17 +87,3 @@ If would like MailBeez to use its own template system to generate MailBeez email
 
 This code change tells Zen Cart to check if the content contains a valid html tag, and if not, applies the Zen Cart template system.
 
-
-
-
-### Adoption of Zen-Cart
-
-**Quick Solution:** configure a SMTP Email Server in MailBeez > Configuration > Email Engine. This will bypass the zencart email function and give MailBeez full control for sending emails
-
-If would like MailBeez to use its own template system to generate MailBeez email (recommended), rather than integrating with and using Zen Cart’s email template system to generate MailBeez email (default), please do the following:
-
-- Using your FTP program, download includes/functions/functions\_email.php from your server to your local drive (i.e. your computer)
-- Using a text editing program such as Notepad or Notepad++, and change it as described on:
-- <http://www.zen-cart.com/showthread.php?158085-Mailbeez-After-Sales-Modules&p=1170912#post1170912>
-
-This code change tells Zen Cart to check if the content contains a valid html tag, and if not, applies the Zen Cart template system.

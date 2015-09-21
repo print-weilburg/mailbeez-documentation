@@ -2,6 +2,9 @@
 # http://learn.getgrav.org/content/headers
 title: Shopvote Invite
 slug: shoprating
+routes:
+    aliases: 
+        - /documentation/mailbeez/shopbewertung
 # menu: Shopvote Invite
 date: 13-05-2014
 published: true

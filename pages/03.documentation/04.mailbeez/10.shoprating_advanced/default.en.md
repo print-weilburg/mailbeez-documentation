@@ -2,6 +2,9 @@
 # http://learn.getgrav.org/content/headers
 title: Shopvoting Invitation Advanced
 slug: shoprating_advanced
+routes:
+    aliases: 
+        - /documentation/mailbeez/shopbewertung-profi
 # menu: Shopvoting Invitation Advanced
 date: 13-05-2014
 published: true

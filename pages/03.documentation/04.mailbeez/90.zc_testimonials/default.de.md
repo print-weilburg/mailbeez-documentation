@@ -1,12 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Shopbewertung
-slug: shopbewertung
-# menu: Shopbewertung
-date: 11-10-2011
+title: ZC Testimonials Erinnerung Einfach
+slug: zc_testimonials
+# menu: ZC Testimonials Erinnerung Einfach
+date: 03-01-2013
 published: true
-publish_date: 11-10-2011
-# unpublish_date: 11-10-2011
+publish_date: 03-01-2013
+# unpublish_date: 03-01-2013
 template: docs
 # theme: false
 visible: true
@@ -17,18 +17,18 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
+    tag: [ce]
 module:
-    code: 'shopbewertung'
-    category: [depreciated]
-    compatiblity: [comp_osc,comp_cre,comp_zencart,comp_xtc,comp_gambio]
-    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/05/icon_321.png'
+    code: 'zc_testimonials'
+    category: [mailbeez]
+    compatiblity: []
+    thumbnail: ''
     pro: ''
     cert: ''
     price: ''
-    title_en: 'Bitte zur Shopbewertung'
-    teaser_en: ''
-    title_de: 'Bitte zur Shopbewertung'
+    title_en: 'ZC Testimonials Reminder'
+    teaser_en: 'Ask your customers to write a testimonial'
+    title_de: 'Testimonials Manager Reminder - Einfach'
     teaser_de: ''
     author: 'MailBeez.com'
 # added collection selector
@@ -49,4 +49,4 @@ metadata:
 #  last_modified: true
 ---
 
-Diese Modul ist durch [Bitte zur Shopbewertung](/dokumentation/mailbeez/shoprating/ "Shopbewertung") ersetzt worden.
+Dieses Modul ist als Ergänzung zum [Zencart Testimonial Manager](http://www.zen-cart.com/downloads.php?do=file&id=299) gedacht. Es wird Ihre Kunden automatisch an die Abgabe einer Bewertung erinnern.

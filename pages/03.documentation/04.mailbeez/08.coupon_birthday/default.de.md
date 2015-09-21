@@ -17,9 +17,20 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
-# added collection selector
-
+    tag: [pro,coupon]
+module:
+    code: 'coupon_birthday'
+    category: [mailbeez]
+    compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/10/coupon_32.png'
+    pro: 'pro'
+    cert: 'true'
+    price: '99 EUR'
+    title_en: 'Birthday Coupon'
+    teaser_en: ''
+    title_de: 'Gutschein zum Geburtstag'
+    teaser_de: ''
+    author: 'MailBeez.com'
 author:
     name: admin
 metadata:

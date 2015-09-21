@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-Die Installation ist erfolgreich mit *commerce:SEO v2next CE 2.4.5* getestet
+MailBeez arbeitet problemlos mit *commerce:SEO v2next CE 2.4.x*.
 
 Die Installation ist in wenigen Schritten erledigt:
 

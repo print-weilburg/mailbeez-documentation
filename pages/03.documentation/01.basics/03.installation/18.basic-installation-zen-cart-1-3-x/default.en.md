@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez works with Zen Cart v1.3.8 and v1.3.9f-h, running on PHP 5.2.11 and higher
+MailBeez works with **Zen Cart v1.3.8 and v1.3.9x**, running on PHP 5.2+
 
 
 The installation is straight forward and can be done in a couple of minutes by following these steps:
@@ -52,7 +52,6 @@ MailBeez is maintaining it’s own tables – the shops existing table stay as t
 copy following file to your admin-directory
 
 ```bash
-
  mailbeez.php
 
 ```
@@ -61,10 +60,8 @@ copy following file to your admin-directory
 copy following file and folder to your catalog-directory (where your index.php is located)
 
 ```bash
-
 mailhive (folder)
 mailhive.php
-
 
 ```
 

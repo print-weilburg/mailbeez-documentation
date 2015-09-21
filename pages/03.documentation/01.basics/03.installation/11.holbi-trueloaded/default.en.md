@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez worsk with Holbi TrueLoaded, running on PHP 5.2+
+MailBeez works with Holbi TrueLoaded, running on PHP 5.2+
 
 The installation is straight forward and can be done in a couple of minutes by following these two steps:
 

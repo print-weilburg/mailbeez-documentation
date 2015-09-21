@@ -9,7 +9,7 @@ publish_date: 24-08-2010
 # unpublish_date: 24-08-2010
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with * *DigiStore 4.0, running on PHP 5.2.11
+MailBeez works with *DigiStore 4.0*, running on PHP 5.2+
 
 The installation is straight forward and can be done in a couple of minutes by following these two steps:
 

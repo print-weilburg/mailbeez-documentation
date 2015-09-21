@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with *xtc-modified / modified-shop* 1.05, running on PHP 5.2.11
+MailBeez works with **xtc-modified / modified-shop* 1.05**, running on PHP 5.2+
 
 The installation is straight forward and can be done in a couple of minutes by following these steps:
 

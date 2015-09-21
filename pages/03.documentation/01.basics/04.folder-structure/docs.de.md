@@ -7,9 +7,9 @@ taxonomy:
 
 Mailbeez ist natlos in Ihr vorhandenes Shopsystem integrierbar. Das Hauptverzeichnis von Mailbeez ist `mailhive. Es befindet sich in Ihrem Shop Hauptverzeichnis (Root). Bei Shopversionen, welche Mailbeez bereits vorinstalliert haben, befindet sich das Mailbeez-Hauptverzeichnis in folgendem Ordner: 
 - **Gambio 2.3+**: `ext/mailhive` 
-- **Modified-Shop 2.+**: `external/mailhive`
+- **Modified-Shop 2.+**: `includes/external/mailhive`
 
-Im Ordner `mailhive` befinden sich folgende Ordner:
+Im Ordner `mailhive` befinden sich folgende Unter-Ordner:
 
 ```bash
 /common

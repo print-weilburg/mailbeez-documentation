@@ -2,6 +2,10 @@
 # http://learn.getgrav.org/content/headers
 title: Bitte zur Shopbewertungen
 slug: shoprating
+routes:
+    aliases: 
+        - /dokumentation/mailbeez/shopbewertung
+    
 # menu: Bitte zur Shopbewertungen
 date: 13-05-2014
 published: true

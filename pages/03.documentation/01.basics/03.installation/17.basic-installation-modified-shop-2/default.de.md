@@ -35,4 +35,4 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez ist in Modified-Shop V2.x vorintegriert - bitte aktivieren Sie das MailBeez Modul in der Shop-Administration.
+MailBeez ist in **Modified-Shop V2.x vorintegriert** - bitte aktivieren Sie das MailBeez Modul in der Shop-Administration.

@@ -9,7 +9,7 @@ publish_date: 22-09-2011
 # unpublish_date: 22-09-2011
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with * *DigiStore 4.1, running on PHP 5.2.11
+MailBeez workswith *DigiStore 4.1*, running on PHP 5.2+
 
 If MailBeez is not included in your DigiStore 4.1+ release please follow these instructions
 

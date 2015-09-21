@@ -17,7 +17,7 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
+    tag: [ce]
 module:
     code: 'zc_testimonials'
     category: [mailbeez]

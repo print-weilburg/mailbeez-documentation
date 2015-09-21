@@ -2,6 +2,9 @@
 # http://learn.getgrav.org/content/headers
 title: Bitte zur Shopbewertung Profi
 slug: shoprating_advanced
+routes:
+    aliases: 
+        - /dokumentation/mailbeez/shopbewertung-profi
 # menu: Bitte zur Shopbewertung Profi
 date: 13-05-2014
 published: true

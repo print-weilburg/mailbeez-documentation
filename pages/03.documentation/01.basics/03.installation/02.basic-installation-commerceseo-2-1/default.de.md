@@ -37,7 +37,7 @@ metadata:
 ---
 
 
-Die Installation ist erfolgreich mit *Commerce:SEO v2.1.1.7 CE* getestet
+MailBeez arbeitet problemlos mit*Commerce:SEO v2.1.x CE*.
 
 Die Installation ist in wenigen Schritten erledigt:
 

@@ -17,7 +17,7 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
+    tag: [core]
 # added collection selector
 
 author:
@@ -36,7 +36,6 @@ metadata:
 #  last_modified: true
 ---
 
-Dieses Modul ist in MailBeez ab Version 2.9.6 enthalten
 
 relevant für: xtcommerce basierende Shopsysteme
 

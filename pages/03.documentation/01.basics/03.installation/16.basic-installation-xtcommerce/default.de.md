@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-Die Installation ist erfolgreich mit *xt:Commerce Version* 3.04 getestet
+MailBeez arbeitet problemlos auf **xt:Commerce Version 3.04**.
 
 Die Installation ist in wenigen Schritten erledigt:
 
