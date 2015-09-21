@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,60 +36,65 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with *xt:Commerce Version* 3.04, running on PHP 5.2.11
+Die Installation ist erfolgreich mit *xt:Commerce Version* 3.04 getestet
 
-The installation is straight forward and can be done in a couple of minutes by following these steps:
+Die Installation ist in wenigen Schritten erledigt:
 
-- copy new files
-- add permission (half automatic)
-- Install MailBeez
+- Die neuen Dateien übertragen
+- Menü-Eintrag anlegen
+- Zugriffs-Rechte für den Admin vergeben (halb automatisch)
+- MailBeez per Button-Klick installieren
 
-MailBeez is maintaining it’s own tables – the shops existing table stay as they are.
+MailBeez verwaltet eigene Tabellen - die vorhandenen Shop-Tabellen werden nicht verändert.
 
-## Step 1 – copy new files
 
-copy following file to your admin-directory
+## Schritt 1 - Die neuen Dateien übertragen
 
-> mailbeez.php
+folgende Datei in das admin-Verzeichnis kopieren
 
-copy following file and folder to your catalog-directory (where your index.php is located)
+```
+catalog/admin/mailbeez.php
 
-> mailhive (folder)
-> 
-> mailhive.php
+```
 
-## Step 2 – modify existing files
+folgende Dateien und Ordner in den Shop-Root kopieren
+
+```
+catalog/mailhive (Ordner)  
+catalog/mailhive.php
+
+```
+
+## Schritt 2 - Menü-Eintrag anlegen
 
 ### 1. Add a menu entry
 
-located and open the file
+folgende Datei öffnen:
 
-> admin/includes/column\_left.php
+```bash
+admin/includes/column_top.php
 
-find
+```
+danach folgendes einfügen
 
-> ' . BOX_IMPORT . '</a><br>';
 
-add
+```
+ if (($_SESSION['customers_status']['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '"> -MailBeez</a></li>';
+ 
+```
 
-> if (($_SESSION['customers_status']
->     ['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '"> -MailBeez</a></li>';
 
-this will add the menu-entry “MailBeez” to your Tools-Box. Feel free to place this link whereever you want.
+## Schritt 3 - Zugriffsrechte vergeben
 
-## Step 3 – add permission
+einmalig im Browser
 
-run
+```bash
 
-> (shop)/mailhive.php
+ (shop-url)/mailhive.php
 
-this will add the required permission for MailBeez for the primary admin account.
+```
 
-If necessary add admin permission for MailBeez for secondary admin accounts as well
+aufrufen.
 
-## Weitere Schritte
-
-Nach der Grund-Installation hilft das Tutorial [Schnelleinstieg](/dokumentation/tutorials/schnelleinstieg/) weiter, die Grundlagen von MailBeez zu verstehen.
-
-Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration einfach](/dokumentation/tutorials/mailbeez-konfiguration-einfach/)  
- Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration ausführlich](/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)
+Hierdurch werden die erforderlichen Admin-Rechten für den HAUPT-Admin vergeben.
+Falls erforderlich dann Zugriffs-Rechte im Admin System für weitere Admin-user vergeben

@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,9 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-erfordert MailBeez V2.9.3+
-
-Die Installation ist erfolgreich mit *commerce:SEO v2next CE 2.4.5* getested
+Die Installation ist erfolgreich mit *commerce:SEO v2next CE 2.4.5* getestet
 
 Die Installation ist in wenigen Schritten erledigt:
 
@@ -53,12 +51,18 @@ MailBeez verwaltet eigene Tabellen - die vorhandenen Shop-Tabellen werden nicht 
 
 folgende Datei in das admin-Verzeichnis kopieren
 
-> catalog/admin/mailbeez.php
+```
+catalog/admin/mailbeez.php
+
+```
 
 folgende Dateien und Ordner in den Shop-Root kopieren
 
-> catalog/mailhive (Ordner)  
->  catalog/mailhive.php
+```
+catalog/mailhive (Ordner)  
+catalog/mailhive.php
+
+```
 
 ## Schritt 2 - Menü-Eintrag anlegen
 
@@ -68,19 +72,25 @@ folgende Dateien und Ordner in den Shop-Root kopieren
 
 folgende Datei öffnen:
 
-> admin/includes/column\_top.php
+```bash
+admin/includes/column_top.php
+
+```
 
 z.B. in der Zeile vor
 
- 
-    <!-- Gutscheine -->
+```html
+ <!-- Gutscheine -->
 
+```
 
 den folgenden Code eintragen:
 
- 
-    <li><a href="mailbeez.php">MailBeez</a></li>
+```html
 
+<li><a href="mailbeez.php">MailBeez</a></li>
+
+```
 
 ### Option 2: Admin Menü Eintrag mit Admin-Menü Addon anlegen
 
@@ -88,18 +98,17 @@ den folgenden Code eintragen:
 
 Bitte hierzu Commerce:SEO kontaktieren.
 
-## Step 3 - Zugriffsrechte vergeben
+## Schritt 3 - Zugriffsrechte vergeben
 
 einmalig im Browser
 
-> (shop-url)/mailhive.php
+```bash
+
+ (shop-url)/mailhive.php
+
+```
 
 aufrufen.
 
 Hierdurch werden die erforderlichen Admin-Rechten für den HAUPT-Admin vergeben.
-
 Falls erforderlich dann Zugriffs-Rechte im Admin System für weitere Admin-user vergeben
-
-## Weitere Schritte
-
- Nach der Grund-Installation hilft das Tutorial [Schnelleinstieg](/dokumentation/tutorials/schnelleinstieg/) weiter, die Grundlagen von MailBeez zu verstehen. Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration einfach](/dokumentation/tutorials/mailbeez-konfiguration-einfach/) Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration ausführlich](/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)

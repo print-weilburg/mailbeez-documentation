@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,93 +36,49 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with osCommerce ms2.2 / rca2, running on PHP 5.2.11
+MailBeez arbeitet problemlos mit osCommerce ms2.2 / rca2, auf PHP 5.2+
 
-The installation is straight forward and can be done in a couple of minutes by following these two steps:
+Die Installation ist in wenigen Schritten erledigt:
+- Die neuen Dateien übertragen
+- Menü-Eintrag anlegen
 
-- copy new files
-- modify existing files
+## Schritt 1: Neue Dateien
 
-## Step 1 – copy new files
+folgende Dateien und Ordner aus dem entpackten Zip-Archiv auf den Shop-Server übertragen:
 
-copy following file to your admin-directory
+```bash
+admin/mailbeez.php
+mailhive/
+mailhive.php
 
-> mailbeez.php
 
-copy following file and folder to your catalog-directory (where your index.php is located)
+```
 
-> mailhive (folder)
-> 
-> mailhive.php
 
-## Step 2 – modify existing files
+## Schritt 2 - Menü-Eintrag anlegen
 
-### 1. Add a menu entry
 
-located and open the file
+folgende Datei öffnen:
 
-> admin/includes/boxes/tools.php
+```bash
+admin/includes/boxes/tools.php
+```
 
-find
 
-> BOX_TOOLS_WHOS_ONLINE . '</a>'
+finde
 
-add
+```
+BOX_TOOLS_WHOS_ONLINE . '</a>'
+```
 
-> . '<br><a href="' . tep_href_link(FILENAME_MAILBEEZ, '', 'NONSSL') . '">MailBeez</a><br>'
 
-this will add the menu-entry “MailBeez” to your Tools-Box.
+Danach in einer neuen Zeile folgendes einfügen:
 
-Feel free to place this link whereever you want.
 
-**please continue with [Basic Configuration](http://localhost/wordpress_mailbeez_EOL/documentation/installation/config_queen/)**
+```
+. '<br><a href="' . tep_href_link(FILENAME_MAILBEEZ, '', 'NONSSL') . '">MailBeez</a><br>'
+```
 
-## Optional
 
-If you would like to have access to MailBeez core files & tables from other pages you need to add the following global DataBase and Filename definitions:
+hierdurch wird der Menü-Eintrag “MailBeez” in die Tools-Box gesetzt.
 
-### Add the Database table definition
-
-located and open the file
-
-> admin/includes/database\_tables.php
-
-add e.g. at the end
-
-> define('TABLE_MAILBEEZ_TRACKING', 'mailbeez_tracking');
->     define('TABLE_MAILBEEZ_BLOCK', 'mailbeez_block');
-
-do the same for your catalog:
-
-> includes/database\_tables.php
-
-add
-
-> define('TABLE_MAILBEEZ_TRACKING', 'mailbeez_tracking');
->     define('TABLE_MAILBEEZ_BLOCK', 'mailbeez_block');
-
-### Add the filename definition
-
-located and open the file
-
-> admin/includes/filenames.php
-
-add e.g. at the end
-
-> define('FILENAME_MAILBEEZ', 'mailbeez.php');
->     define('FILENAME_HIVE', 'mailhive.php');
-
-do almost the same for your catalog:
-
-> includes/filenames.php
-
-add
-
-> define('FILENAME_HIVE', 'mailhive.php');
-
-## Weitere Schritte
-
-Nach der Grund-Installation hilft das Tutorial [Schnelleinstieg](/dokumentation/tutorials/schnelleinstieg/) weiter, die Grundlagen von MailBeez zu verstehen.
-
-Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration einfach](/dokumentation/tutorials/mailbeez-konfiguration-einfach/)  
- Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration ausführlich](/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)

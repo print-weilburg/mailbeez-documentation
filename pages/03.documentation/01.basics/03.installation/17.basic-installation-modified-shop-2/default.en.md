@@ -1,15 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Installation
-slug: installation
-routes:
-  default: /dokumentation/installation
-# menu: Installation
-date: 21-05-2010
+title: modified-shop 2.x
+slug: basic-installation-modified-shop-2
+date: 12-09-2010
 published: true
-publish_date: 21-05-2010
-# unpublish_date: 21-05-2010
-template: chapter
+publish_date: 12-09-2010
+# unpublish_date: 12-09-2010
+template: docs
 # theme: false
 visible: true
 summary:
@@ -17,7 +14,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    category: docs
+    migration_status: done
+    category: [docs]
+    tag: []
 # added collection selector
 
 author:
@@ -36,8 +35,4 @@ metadata:
 #  last_modified: true
 ---
 
-# Installation
-
-Bitte wählen Sie Ihr Shop-System aus der folgenden Liste.
-
-Falls Ihr Shop-System nicht aufgeführt ist, aber auf osCommerce basiert, werden Sie die besten Chancen mit der Grund Installation für osCommerce haben.
+MailBeez is pre-integrated with Modified-Shop V2.x - please activate the MailBeez module through the store administration interface.

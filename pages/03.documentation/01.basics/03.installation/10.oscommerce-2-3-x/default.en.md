@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,30 +36,31 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with osCommerce 2.3.1, running on PHP 5.2.11
+MailBeez works with osCommerce 2.3.1, running on PHP 5.2+
 
 The installation is straight forward and can be done in a couple of minutes by following these two steps:
 
 - copy new files
 - add menu entry
 
-### Requirements
 
-If not yet done, please [download the quickstart package](http://www.mailbeez.com/quickstart/?id=1&lang=en). You need to be able to upload new files to your osCommerce Shop and modify existing ones.
-
-> FTP access to your osCommerce Installation
 
 ## Step 1 – copy new files
 
 copy following file to your admin-directory
 
-> mailbeez.php
+```bash
+mailbeez.php
+```
+
 
 copy following file and folder to your catalog-directory (where your index.php is located)
 
-> mailhive (folder)
-> 
-> mailhive.php
+```bash
+mailhive (folder)
+mailhive.php
+```
+
 
 ## Step 2 – add menu entry
 
@@ -69,36 +70,48 @@ depending on your version you can either use the admin plugin or manually add th
 
 since oscommerce 2.3.3 a plugin system for adding admin entries is available. For this version please copy
 
-> extra\_files/extras\_osc\_233x/admin/includes/boxes/customers\_mailbeez.php
+```bash
+extra_files/extras_osc_233x/admin/includes/boxes/customers/mailbeez.php
+```
 
 into your oscommerce system:
 
-> admin/includes/boxes/customers\_mailbeez.php
+```bash
+admin/includes/boxes/customers_mailbeez.php
+```
+
 
 ### B. Add a menu entry
 
 located and open the file
 
-> admin/includes/boxes/tools.php
+```bash
+admin/includes/boxes/tools.php
+```
 
 find
 
-> array(
->         'code' => FILENAME_WHOS_ONLINE,
->         'title' => BOX_TOOLS_WHOS_ONLINE,
->         'link' => tep_href_link(FILENAME_WHOS_ONLINE)
->     )
+```
+    array(
+        'code' => FILENAME_WHOS_ONLINE,
+        'title' => BOX_TOOLS_WHOS_ONLINE,
+        'link' => tep_href_link(FILENAME_WHOS_ONLINE)
+    )
+```
 
 add
 
-> // mailbeez
->     ,
->     array(
->         'code' => 'mailbeez.php',
->         'title' => 'MailBeez',
->         'link' => tep_href_link('mailbeez.php')
->     )
->     // - mailbeez
+```
+// mailbeez
+     ,
+     array(
+         'code' => 'mailbeez.php',
+         'title' => 'MailBeez',
+         'link' => tep_href_link('mailbeez.php')
+     )
+     // - mailbeez
+```
+
 
 this will add the menu-entry “MailBeez” to your Tools-Box.
 
@@ -106,11 +119,3 @@ Feel free to place this link whereever you want.
 
 Open the MailBeez System and start exploring!
 
- 
-
-## Next Steps
-
-Now that your MailBeez installation is complete, you are encouraged to visit our [ Guide to Getting Started](/documentation/tutorials/guide-to-getting-started/) to familiarize yourself with MailBeez features and functionality, and to learn how to configure and customize your MailBeez installation to suit your needs.
-
-No thanks, just take me to the [Quick Start Configuration tutorial](/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)  
- No thanks, just take me to the [Comprehensive Configuration tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)

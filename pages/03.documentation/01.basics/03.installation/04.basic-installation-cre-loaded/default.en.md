@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with CRE\_Loaded\_PCI\_CE\_v6.4.1a, running on PHP 5.2.11
+MailBeez works with CRE_Loaded_PCI_CE_v6.4.1a, running on PHP 5.2.11
 
 The installation is straight forward and can be done in a couple of minutes by following this single step:
 
@@ -50,22 +50,28 @@ The “Quickstart Packag” Zip-File contains several folders. The Folder “cat
 
 Copy following file and folder to your Shop Root (where your index.php is located)
 
-> catalog/admin/mailbeez.php -> admin/mailbeez.php  
->  catalog/mailhive -> mailhive (folder)  
->  catalog/mailhive.php -> mailhive.php
+```bash
+catalog/admin/mailbeez.php -> admin/mailbeez.php  
+catalog/mailhive -> mailhive (folder)  
+catalog/mailhive.php -> mailhive.php
+
+```
 
 and the CRE Loaded specific “drop-in installation files” located in
 
-> (MailBeez package) / extras\_creloaded
+```bash
+ (MailBeez package) / extras_creloaded
+
+```
 
 into their locations:
 
-> admin/includes/runtime/applicationtop/MAILBEEZ\_applicationtop\_bottom.php  
->  admin/includes/runtime/marketing/MAILBEE\_marketing\_boxesbottom.php  
->  includes/runtime/applicationtop/MAILBEEZ\_applicationtop\_bottom.php
+```bash
+admin/includes/runtime/applicationtop/MAILBEEZ_applicationtop_bottom.php  
+admin/includes/runtime/marketing/MAILBEE_marketing_boxesbottom.php  
+includes/runtime/applicationtop/MAILBEEZ_applicationtop_bottom.php
 
-please continue with [Basic Configuration](http://localhost/wordpress_mailbeez_EOL/documentation/installation/config_queen/)
-
+```
  
 
 ## Step 2 (CRE Loaded B2B) – add admin rights
@@ -79,9 +85,3 @@ the B2B version of CRE Loaded supports admin rights. After copying the files int
 
 Now you find the Menu item “MailBeez” under “Marketing” in the admin menu
 
-## Next Steps
-
-Now that your MailBeez installation is complete, you are encouraged to visit our [ Guide to Getting Started](/documentation/tutorials/guide-to-getting-started/) to familiarize yourself with MailBeez features and functionality, and to learn how to configure and customize your MailBeez installation to suit your needs.
-
-No thanks, just take me to the [Quick Start Configuration tutorial](/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)  
- No thanks, just take me to the [Comprehensive Configuration tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)

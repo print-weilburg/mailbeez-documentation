@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with osCMax v2.0.25, running on PHP 5.2.11
+MailBeez works with osCMax v2.0.25, running on PHP 5.2+
 
 The installation is straight forward and can be done in a couple of minutes by following these three steps:
 
@@ -48,13 +48,17 @@ The installation is straight forward and can be done in a couple of minutes by f
 
 copy following file to your admin-directory
 
-> mailbeez.php
+```bash
+mailbeez.php
+```
+
 
 copy following file and folder to your catalog-directory (where your index.php is located)
 
-> mailhive (folder)
-> 
-> mailhive.php
+```bash
+mailhive (folder)
+mailhive.php
+```
 
 ## Step 2 – modify existing files
 
@@ -62,34 +66,59 @@ copy following file and folder to your catalog-directory (where your index.php i
 
 located and open the file
 
-> admin/includes/filenames.php
+```bash
+admin/includes/filenames.php
+
+```
+
 
 add e.g. at the end
 
-> define('FILENAME_MAILBEEZ', 'mailbeez.php');
->     define('FILENAME_HIVE', 'mailhive.php');
+```bash
+define('FILENAME_MAILBEEZ', 'mailbeez.php');
+define('FILENAME_HIVE', 'mailhive.php');
+
+```
+
 
 do almost the same for your catalog:
 
-> includes/filenames.php
+```bash
+includes/filenames.php
+
+```
+
 
 add
 
-> define('FILENAME_HIVE', 'mailhive.php');
+```bash
+define('FILENAME_HIVE', 'mailhive.php');
+
+```
+
 
 ### 2. Add a menu entry
 
 located and open the file
 
-> admin/includes/boxes/tools.php
+```bash
+admin/includes/boxes/tools.php
+
+```
+
 
 find
 
-> tep_admin_files_boxes(FILENAME_WHOS_ONLINE, BOX_TOOLS_WHOS_ONLINE, TOP));
+```
+tep_admin_files_boxes(FILENAME_WHOS_ONLINE, BOX_TOOLS_WHOS_ONLINE, TOP));
+```
 
 replace with
 
-> tep_admin_files_boxes(FILENAME_WHOS_ONLINE, BOX_TOOLS_WHOS_ONLINE, TOP) . tep_admin_files_boxes(FILENAME_MAILBEEZ, 'MailBeez', TOP));
+```
+tep_admin_files_boxes(FILENAME_WHOS_ONLINE, BOX_TOOLS_WHOS_ONLINE, TOP) . tep_admin_files_boxes(FILENAME_MAILBEEZ, 'MailBeez', TOP));
+```
+
 
 this will add the menu-entry “MailBeez” to your Tools-Box. Feel free to place this link whereever you want.
 
@@ -110,10 +139,3 @@ Administrator > Member Groups
 4. Check mailbeez.php in section “Tools”
 
 repeat for any group you would like to give access to MailBeez
-
-## Next Steps
-
-Now that your MailBeez installation is complete, you are encouraged to visit our [ Guide to Getting Started](/documentation/tutorials/guide-to-getting-started/) to familiarize yourself with MailBeez features and functionality, and to learn how to configure and customize your MailBeez installation to suit your needs.
-
-No thanks, just take me to the [Quick Start Configuration tutorial](/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)  
- No thanks, just take me to the [Comprehensive Configuration tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)

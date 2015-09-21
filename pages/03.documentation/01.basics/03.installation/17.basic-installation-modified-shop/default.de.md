@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -51,11 +51,14 @@ MailBeez verwaltet eigene Datenbank-Tabellen – die Tabellen des Shop-Systemes 
 
 Aus dem Ordner “catalog” folgende Dateien in das Root-Verzeichnis des Shops  (dort, wo sich die index.php befindet) kopieren
 
-> /admin/mailbeez.php
+```bash
 
-> /mailhive (folder)
-> 
-> /mailhive.php
+ /admin/mailbeez.php
+
+ /mailhive (folder)
+ /mailhive.php
+
+```
 
 ## Schritt 2 – Datei anpassen
 
@@ -64,50 +67,90 @@ Aus dem Ordner “catalog” folgende Dateien in das Root-Verzeichnis des Shops 
 **Modified Shop bis V1.05**  
  folgende Datei finden und öffnen:
 
-> /admin/includes/column\_left.php
+ 
+```bash
+
+ /admin/includes/column_left.php
+
+
+``
 
 dort
 
-> ' . BOX_IMPORT . '</a><br>';
+```bash
+
+
+ ' . BOX_IMPORT . '</a><br>';
+
+
+```
 
 finden und folgendes danach einfügen:
 
-> if (($_SESSION['customers_status']
->     ['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '" class="menuBoxContentLink" > -MailBeez</a></li>';
+```bash
+
+
+if (($_SESSION['customers_status']['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '" class="menuBoxContentLink" > -MailBeez</a></li>';
+
+
+```
 
 **Modified Shop ab V1.06**  
  folgende Datei finden und öffnen:
 
-> /admin/includes/column\_left.php
+```bash
+
+
+ /admin/includes/column_left.php
+ 
+
+```
+
 
 dort
 
-> //----HILFSPROGRAMME
+```
+
+
+ //----HILFSPROGRAMME
+
+
+```
 
 finden und folgendes vor der Zeile
 
+
+```
  
-    echo ('</ul>');
+ 
+echo ('</ul>');
+
+
+```
+
 
 einfügen:
 
-> if (($_SESSION['customers_status']
->     ['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '" class="menuBoxContentLink" > -MailBeez</a></li>';
 
-hiermit wird ein neuer Menü-Eintrag “MailBeez” in das “Hilfsprogramme”-Menü eingefügt. Dieser Link kann natürlich nach Belieben auch in andere Obermenüs eingetragen werden.
+```
 
-## Schritt 3 – Admin Rechte setzen
+if (($_SESSION['customers_status']['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '" class="menuBoxContentLink" > -MailBeez</a></li>';
 
-als allererstes folgende URL aufrufen
 
-(shop)/mailhive.php
+```
 
-Hiermit werden die Admin-Rechten für den Haupt-Admin (!) gesetzt.  
- Bei Bedarf Admin-Rechte für weitere Admins manuell setzen.
+## Schritt 3 - Zugriffsrechte vergeben
 
-## Weitere Schritte
+einmalig im Browser
 
-Nach der Grund-Installation hilft das Tutorial [Schnelleinstieg](/dokumentation/tutorials/schnelleinstieg/) weiter, die Grundlagen von MailBeez zu verstehen.
+```bash
 
-Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration einfach](/dokumentation/tutorials/mailbeez-konfiguration-einfach/)  
- Nein Danke, bitte gleich zum Tutorial [MailBeez Konfiguration ausführlich](/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)
+ (shop-url)/mailhive.php
+ 
+
+```
+
+aufrufen.
+
+Hierdurch werden die erforderlichen Admin-Rechten für den HAUPT-Admin vergeben.
+Falls erforderlich dann Zugriffs-Rechte im Admin System für weitere Admin-user vergeben

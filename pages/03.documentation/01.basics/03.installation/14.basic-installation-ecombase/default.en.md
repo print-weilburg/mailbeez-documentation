@@ -4,18 +4,18 @@ title: Basic Installation ecombase
 slug: ID-1821
 # menu: Basic Installation ecombase
 date: 18-08-2011
-published: false
+published: true
 publish_date: 18-08-2011
 # unpublish_date: 18-08-2011
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -50,13 +50,18 @@ MailBeez is maintaining it’s own tables – the shops existing table stay as t
 
 copy following file to your admin-directory
 
-> mailbeez.php
+```
+mailbeez.php
+```
+
 
 copy following file and folder to your catalog-directory (where your index.php is located)
 
-> mailhive (folder)
-> 
-> mailhive.php
+```
+mailhive (folder)
+mailhive.php
+```
+
 
 ## Step 2 – modify existing files
 
@@ -64,19 +69,27 @@ copy following file and folder to your catalog-directory (where your index.php i
 
 located and open the file
 
-> admin/includes/header.php
+```
+admin/includes/header.php
+```
+
 
 find
 
-> BOX_RSS => array('acl' => true,
->                          'link' => array(FILENAME_CONFIGURATION, 'gID=27'),
->                          'icon' => 'icon_rss.png'),
+```
+BOX_RSS => array('acl' => true,
+                 'link' => array(FILENAME_CONFIGURATION, 'gID=27'),
+                 'icon' => 'icon_rss.png'),
+```
 
 add after
 
->     'MailBeez' => array('acl' => true,
->                          'link' => 'mailbeez.php',
->                          'icon' => '../../../mailhive/common/images/minibeez.png'),
+```
+'MailBeez' => array('acl' => true,
+                    'link' => 'mailbeez.php',
+                    'icon' => '../../../mailhive/common/images/minibeez.png'),
+```
+
 
 this will add the menu-entry “MailBeez” to your Tools-Box. Feel free to place this link whereever you want.
 
@@ -84,42 +97,10 @@ this will add the menu-entry “MailBeez” to your Tools-Box. Feel free to plac
 
 run
 
+```
 (shop)/mailhive.php
+```
+
 
 this will add the required permission for MailBeez for the primary admin account.
-
 If necessary add admin permission for MailBeez for secondary admin accounts as well
-
-**please continue with [Basic Configuration](http://localhost/wordpress_mailbeez_EOL/documentation/installation/config_queen/)**
-
-## Optional
-
-If you would like to have access to MailBeez core files & tables from other pages you need to add the following global DataBase and Filename definitions:
-
-### Add the Database table definition
-
-located and open the file
-
-> includes/database\_tables.php
-
-add
-
-> define('TABLE_MAILBEEZ_TRACKING', 'mailbeez_tracking');define('TABLE_MAILBEEZ_BLOCK', 'mailbeez_block');
-
-### Add the filename definition
-
-located and open the file
-
-> admin/includes/application\_top.php
-
-add
-
-> define('FILENAME_MAILBEEZ', 'mailbeez.php');define('FILENAME_HIVE', 'mailhive.php');
-
-located and open the file
-
-> includes/filenames.php
-
-add
-
-> define('FILENAME_MAILBEEZ', 'mailbeez.php');define('FILENAME_HIVE', 'mailhive.php');

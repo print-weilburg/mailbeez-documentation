@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-MailBeez is designed as a seamless integrated part of your store system. The core folder is names `mailhive` and you will find it in your Store root directory, only on Stores running on Systems with having MailBeez pre-integrated the core folder is located as following: **Gambio 2.3+**: `ext/mailhive` , **Modified-Shop 2.+**: `external/mailhive`
+MailBeez is designed as a seamless integrated part of your store system. The core folder is named `mailhive` and you will find it in your Store root directory, only on Stores running on Systems with having MailBeez pre-integrated the core folder is located as following: **Gambio 2.3+**: `ext/mailhive` , **Modified-Shop 2.+**: `external/mailhive`
 
 
 

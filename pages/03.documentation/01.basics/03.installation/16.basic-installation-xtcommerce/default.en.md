@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,6 +36,8 @@ metadata:
 #  last_modified: true
 ---
 
+
+
 The Installation of MailBeez is successfully tested with *xt:Commerce Version* 3.04, running on PHP 5.2.11
 
 The installation is straight forward and can be done in a couple of minutes by following these steps:
@@ -50,13 +52,23 @@ MailBeez is maintaining it’s own tables – the shops existing table stay as t
 
 copy following file to your admin-directory
 
-> mailbeez.php
+```bash
+
+ mailbeez.php
+
+```
 
 copy following file and folder to your catalog-directory (where your index.php is located)
 
-> mailhive (folder)
-> 
-> mailhive.php
+```bash
+
+
+mailhive (folder)
+mailhive.php
+
+
+```
+
 
 ## Step 2 – modify existing files
 
@@ -64,32 +76,44 @@ copy following file and folder to your catalog-directory (where your index.php i
 
 located and open the file
 
-> admin/includes/column\_left.php
+```bash
+
+
+admin/includes/column\_left.php
+
+```
 
 find
 
-> ' . BOX_IMPORT . '</a><br>';
+```bash
+
+
+' . BOX_IMPORT . '</a><br>';
+
+
+```
+
 
 add
 
-> if (($_SESSION['customers_status']
->     ['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '"> -MailBeez</a></li>';
+```bash
 
+
+ if (($_SESSION['customers_status']['customers_status_id'] == '0') && ($admin_access['module_newsletter'] == '1')) echo '<li><a href="' . xtc_href_link('mailbeez.php') . '"> -MailBeez</a></li>';
+
+```
 this will add the menu-entry “MailBeez” to your Tools-Box. Feel free to place this link whereever you want.
 
 ## Step 3 – add permission
 
 run
 
-> (shop)/mailhive.php
+```bash
+
+ (shop)/mailhive.php
+
+```
 
 this will add the required permission for MailBeez for the primary admin account.
 
 If necessary add admin permission for MailBeez for secondary admin accounts as well
-
-## Next Steps
-
-Now that your MailBeez installation is complete, you are encouraged to visit our [ Guide to Getting Started](/documentation/tutorials/guide-to-getting-started/) to familiarize yourself with MailBeez features and functionality, and to learn how to configure and customize your MailBeez installation to suit your needs.
-
-No thanks, just take me to the [Quick Start Configuration tutorial](/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)  
- No thanks, just take me to the [Comprehensive Configuration tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)

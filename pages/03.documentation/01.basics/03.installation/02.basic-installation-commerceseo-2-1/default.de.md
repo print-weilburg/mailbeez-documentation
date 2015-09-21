@@ -1,12 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Gambio GX 1.x
-slug: basic-installation-gambio
-# menu: Gambio GX 1.x
-date: 08-09-2010
+title: Commerce:SEO 2.1
+slug: basic-installation-commerceseo-2-1
+# menu: Commerce:SEO 2.1
+date: 30-08-2012
 published: true
-publish_date: 08-09-2010
-# unpublish_date: 08-09-2010
+publish_date: 30-08-2012
+# unpublish_date: 30-08-2012
 template: docs
 # theme: false
 visible: true
@@ -37,88 +37,74 @@ metadata:
 ---
 
 
-MailBeez arbeitet problemlos mit *Gambio GX 1.x*.
+Die Installation ist erfolgreich mit *Commerce:SEO v2.1.1.7 CE* getestet
 
 Die Installation ist in wenigen Schritten erledigt:
+
 - Die neuen Dateien übertragen
-- Menü-Eintrag anlegen (frühe Gambio 2 Versionen)
+- Menü-Eintrag anlegen
 - Zugriffs-Rechte für den Admin vergeben (halb automatisch)
 - MailBeez per Button-Klick installieren
 
 MailBeez verwaltet eigene Tabellen - die vorhandenen Shop-Tabellen werden nicht verändert.
 
 
+## Schritt 1 - Die neuen Dateien übertragen
 
-## Schritt 1: Neue Dateien
+folgende Datei in das admin-Verzeichnis kopieren
 
-folgende Dateien und Ordner aus dem entpackten Zip-Archiv auf den Shop-Server übertragen:
-
-
-```bash
-admin/mailbeez.php
-mailhive/
-mailhive.php
-
+```
+catalog/admin/mailbeez.php
 
 ```
 
+folgende Dateien und Ordner in den Shop-Root kopieren
 
+```
+catalog/mailhive (Ordner)  
+catalog/mailhive.php
 
+```
 
 ## Schritt 2 - Menü-Eintrag anlegen
 
 
+-- nicht update-sicher --
+
 folgende Datei öffnen:
 
-```bash 
-admin/includes/column_left.php  
-
+```bash
+admin/includes/column\_left.php
 
 ```
 
 
 finde
 
-``` 
-' . BOX_IMPORT . '</a><br>';
-
+```
+ class="menuBoxContentLink">' . BOX_MODULE_NEWSLETTER . '';
 
 ```
 
-
-Danach in einer neuen Zeile folgendes einfügen:
-
-
-
-``` 
-if (($_SESSION['customers_status']['customers_status_id'] == '0') && ($admin_access['mailbeez'] == '1')) 
-    echo '<li class="leftmenu_body_item"><a class="fav_drag_item" href="' . xtc_href_link('mailbeez.php') . '"> MailBeez</a></li>';
+und danach folgendes einfügen:
+ 
+```html 
+if (($cs == '0') && ($aa['mailbeez'] == '1')) echo '<a '.($p == 'mailbeez'?'class="menu_link_aktiv"':'') . ' class="menuBoxContentLink" href="' . xtc_href_link('mailbeez.php') . '">MailBeez</a>';
 
 ```
-
 
 
 ## Schritt 3 - Zugriffsrechte vergeben
 
-einmalig
+einmalig im Browser
 
+```bash
+
+ (shop-url)/mailhive.php
 
 ```
-http://(shop)/mailhive.php
 
-
-```
-
-
-im Browser aufrufen.
+aufrufen.
 
 Hierdurch werden die erforderlichen Admin-Rechten für den HAUPT-Admin vergeben.
-Nach einem erneuten Login und leeren des Seiten-Caches wird MailBeez im Admin Menü erscheinen.
-Falls erforderlich dann Zugriffs-Rechte im Gambio-Admin System für weitere Admin-user vergeben
-
-
-
-
-
-
-
+Falls erforderlich dann Zugriffs-Rechte im Admin System für weitere Admin-user vergeben

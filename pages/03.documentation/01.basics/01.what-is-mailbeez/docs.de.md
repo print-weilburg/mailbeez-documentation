@@ -8,7 +8,6 @@ taxonomy:
     category: docs
 ---
 
-## das MailBeez Prinzip
 
 **Die richtige Email zum richtigen Zeitpunkt an den richtigen Empfänger**  
  MailBeez ist die passende Erweiterung für Shopbetreiber, für die Aftersales zum guten Ton im eCommerce gehört. Damit binden Sie Ihre Kunden langfristig an Ihren Shop und animieren sie immer wieder zu neuen Käufen. 
