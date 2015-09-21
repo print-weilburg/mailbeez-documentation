@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: [core]
-download:
+module:
     code: 'config_shopvoting'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]

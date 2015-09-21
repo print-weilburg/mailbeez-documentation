@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-**Automatically add your store’s Trustpilot.com reviews into any MailBeez email campaign with the Add Trust Pilot Filter, part of the [Trustpilot Integration Suite](http://www.mailbeez.com/documentation/configbeez/config_trustpilot_rss_importer/ "Trustpilot Integration Suite"); perfect for spicing up the [Winback](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced Module") and [No Purchase](http://www.mailbeez.com/documentation/mailbeez/nopurchase/ "Mailbeez No Purchase Modules") Mailbeez modules, **
+**Automatically add your store’s Trustpilot.com reviews into any MailBeez email campaign with the Add Trust Pilot Filter, part of the [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/ "Trustpilot Integration Suite"); perfect for spicing up the [Winback](/documentation/mailbeez/winback_advanced/ "Winback Advanced Module") and [No Purchase](/documentation/mailbeez/nopurchase/ "Mailbeez No Purchase Modules") Mailbeez modules, **
 
 With a default installation that uses the included template, your Trustpilot ratings will appear in a Mailbeez email like this:
 

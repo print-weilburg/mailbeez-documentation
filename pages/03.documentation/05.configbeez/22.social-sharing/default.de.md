@@ -51,13 +51,13 @@ Fully configurable, *you* choose which social network links will display to your
 The Social Sharing addon is included with the following modules:
 
 [Review Reminder Advanced  
-](http://www.mailbeez.com/documentation/mailbeez/review_advanced/ "Review Reminder Advanced")  
+](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced")  
 [Winback Advanced  
-](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced")  
+](/documentation/mailbeez/winback_advanced/ "Winback Advanced")  
 [Re-order Advanced  
-](http://www.mailbeez.com/documentation/mailbeez/reorder_advanced/ "Re-order Advanced")  
+](/documentation/mailbeez/reorder_advanced/ "Re-order Advanced")  
 [Payment in Advance Dunning  
-](http://www.mailbeez.com/documentation/mailbeez/payment_inadvance_dunning/ "Payment in Advance Dunning")  
+](/documentation/mailbeez/payment_inadvance_dunning/ "Payment in Advance Dunning")  
 [Payment Invoice Dunning  
-](http://www.mailbeez.com/documentation/mailbeez/payment_invoice_dunning/ "Payment Invoice Dunning")  
+](/documentation/mailbeez/payment_invoice_dunning/ "Payment Invoice Dunning")  
   

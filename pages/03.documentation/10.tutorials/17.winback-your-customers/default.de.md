@@ -40,4 +40,4 @@ metadata:
 
  Ooops 
 
-[Go for “Win your Customers back” ›](http://www.mailbeez.com/documentation/tutorials/win-your-customers-back/ "Winback Advanced")
+[Go for “Win your Customers back” ›](/documentation/tutorials/win-your-customers-back/ "Winback Advanced")

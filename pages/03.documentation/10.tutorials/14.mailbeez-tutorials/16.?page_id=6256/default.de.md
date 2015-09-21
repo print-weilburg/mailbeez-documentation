@@ -298,7 +298,7 @@ The 5 function buttons are the controls that allow you to preview your email tem
 
 As you modify your template files, you can come back and use this button to view your changes to ensure that they are appearing as you intend.
 
-**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
+**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
 
 To view a different set of template files, go to the module’s configuration panel, click “Edit”, change your Layout Style selection, click “Update”, and return here to view them.
 
@@ -316,7 +316,7 @@ To view a different set of template files, go to the module’s configuration pa
 
 It even tells you in the text above the button which mode you’re in. This prevents you from accidentally sending emails out to customers when you’re testing.
 
-**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](http://www.mailbeez.com/documentation/tutorials/testing-mailbeez)**
+**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](/documentation/tutorials/testing-mailbeez)**
 
 
 
@@ -324,11 +324,11 @@ It even tells you in the text above the button which mode you’re in. This prev
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.
 
 ## Template Manager
 
-Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/)**
+Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](/documentation/configbeez/config_tmplmngr/)**

@@ -37,4 +37,4 @@ metadata:
 ---
 
 (English)    
- This is an internal service for the [Advanced Opt-Out with Admin](http://www.mailbeez.com/documentation/configbeez/config_block_admin/) module which comes delivered with the module.
+ This is an internal service for the [Advanced Opt-Out with Admin](/documentation/configbeez/config_block_admin/) module which comes delivered with the module.

@@ -40,4 +40,4 @@ metadata:
 
 ## Track Email Link Results With Mouseflow
 
-Delivered with the [Mouseflow Integration](http://www.mailbeez.com/documentation/configbeez/config_mouseflow/) module, this filter adds an identifier to store links in MailBeez generated emails so that mouseflow can track visitors arriving at your store from clicking an email link.
+Delivered with the [Mouseflow Integration](/documentation/configbeez/config_mouseflow/) module, this filter adds an identifier to store links in MailBeez generated emails so that mouseflow can track visitors arriving at your store from clicking an email link.

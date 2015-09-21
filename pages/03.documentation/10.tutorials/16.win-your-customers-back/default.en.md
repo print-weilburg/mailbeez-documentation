@@ -36,9 +36,9 @@ metadata:
 #  last_modified: true
 ---
 
- Get the best Win-Back Rates with the [MailBeez Winback Advanced Module](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced")
+ Get the best Win-Back Rates with the [MailBeez Winback Advanced Module](/documentation/mailbeez/winback_advanced/ "Winback Advanced")
 
-[visit the module now ›](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced")
+[visit the module now ›](/documentation/mailbeez/winback_advanced/ "Winback Advanced")
 
 
 
@@ -52,7 +52,7 @@ From that magical moment when a new customer places their first order, the relat
 
 ## Winback the customer
 
-In order to prevent formerly good customers from falling through the cracks of your marketing strategy, Mailbeez has developed a deceptively powerful, fully automated module called ‘[Winback Advanced](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced")’, which allows you to easily contact customers that haven’t placed an order for a pre-determined time span (set in the admin area), both reminding them of your presence, and enticing them back with personalised offers.
+In order to prevent formerly good customers from falling through the cracks of your marketing strategy, Mailbeez has developed a deceptively powerful, fully automated module called ‘[Winback Advanced](/documentation/mailbeez/winback_advanced/ "Winback Advanced")’, which allows you to easily contact customers that haven’t placed an order for a pre-determined time span (set in the admin area), both reminding them of your presence, and enticing them back with personalised offers.
 
 ## Top features of Winback Advanced
 
@@ -67,6 +67,6 @@ As with all Mailbeez modules, setting up is a breeze, so to get started, simply 
 
 Mailbeez is pre installed with some great reporting widgets, one of which is the Winback-O-Meter, which easily allows you to see what percentage of customers are re-ordering off the back of your new Winback email campaign, right from within your store’s admin area.
 
- Get the best Win-Back Rates with the [MailBeez Winback Advanced Module](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced")
+ Get the best Win-Back Rates with the [MailBeez Winback Advanced Module](/documentation/mailbeez/winback_advanced/ "Winback Advanced")
 
-[visit the module now ›](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced")
+[visit the module now ›](/documentation/mailbeez/winback_advanced/ "Winback Advanced")

@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-eine Übersicht der unterstützen Shopsystem findet sich auf [MailBeez Kompatibilität](http://www.mailbeez.de/dokumentation/compatibility/).
+eine Übersicht der unterstützen Shopsystem findet sich auf [MailBeez Kompatibilität](/dokumentation/compatibility/).
 
 ## osCommerce Gutschein System Unterstützung
 

@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'filter_add_gender'
     category: [filterbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -67,7 +67,7 @@ This module adds gender information to all of your MailBeez email modules and al
 - The module comes with a few examples that show how to develop gender specific content in the MailBeez template files
 - [Professional MailBeez support](http://www.mailbeez.com/support/service/ "Service") is available if you don’t feel confident about editing your email templates
 
-Installation and configuration are fast and easy! Installation instructions are included in the download package. [Add Gender Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/filterbeez-tutorials/add-gender-configuration-tutorial/)  
+Installation and configuration are fast and easy! Installation instructions are included in the download package. [Add Gender Configuration Tutorial](/documentation/tutorials/filterbeez-tutorials/add-gender-configuration-tutorial/)  
     
  [license\_2\_en]  
   

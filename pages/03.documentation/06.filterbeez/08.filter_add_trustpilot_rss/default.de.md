@@ -38,7 +38,7 @@ metadata:
 
 Fügen Sie Ihre wertvollen Trustpilot ratings automatisch in Ihre MailBeez Email Kampagnen ein – hervorragend um die Emails zur “Kundenrückgewinnung” (Winback) und “Kunden ohne Kauf” (Nopurchase) aufzuwerten.
 
-Dieses Hilfsmodule ist Teil der [Trustpilot Integration Suite](http://www.mailbeez.com/documentation/configbeez/config_trustpilot_rss_importer/?lang=de "Trustpilot Integration Suite").
+Dieses Hilfsmodule ist Teil der [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/?lang=de "Trustpilot Integration Suite").
 
 Mit der beiliegenden Standard Vorlage sehen die Bewertungen folgendermassen aus:
 

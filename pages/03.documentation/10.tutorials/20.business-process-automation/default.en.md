@@ -48,9 +48,9 @@ In effect an intelligent and fully automated payment reminder system, the Paymen
 
 For each step you can easily configure the email template, (these are called .tpl files and will hopefully familiar to you from using other Mailbeez modules) and the delay between steps.
 
- Automate Payment in Advance Dunning [MailBeez Payment in Advance Dunning Module](http://www.mailbeez.com/documentation/mailbeez/payment_inadvance_dunning/ "Payment in Advance dunning")
+ Automate Payment in Advance Dunning [MailBeez Payment in Advance Dunning Module](/documentation/mailbeez/payment_inadvance_dunning/ "Payment in Advance dunning")
 
-[visit the module now ›](http://www.mailbeez.com/documentation/mailbeez/payment_inadvance_dunning/ "Payment in Advanced dunning")
+[visit the module now ›](/documentation/mailbeez/payment_inadvance_dunning/ "Payment in Advanced dunning")
 
 
 
@@ -66,6 +66,6 @@ In effect an intelligent and fully automated payment reminder system, the Invoic
 
 For each step you can easily configure the email template, (these are called .tpl files and will hopefully familiar to you from using other Mailbeez modules) and the delay between steps, providing total control over the eco-system of emails.
 
- Automate Invoice Dunning [MailBeez Payment Invoice Dunning Module](http://www.mailbeez.com/documentation/mailbeez/payment_invoice_dunning/ "Payment in Advance dunning")
+ Automate Invoice Dunning [MailBeez Payment Invoice Dunning Module](/documentation/mailbeez/payment_invoice_dunning/ "Payment in Advance dunning")
 
-[visit the module now ›](http://www.mailbeez.com/documentation/mailbeez/payment_invoice_dunning/ "Payment Invoice dunning")
+[visit the module now ›](/documentation/mailbeez/payment_invoice_dunning/ "Payment Invoice dunning")

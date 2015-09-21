@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'dashboard_nopurchase_o_meter'
     category: [dashboardbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -73,12 +73,12 @@ For example, if you set the percentage to 100, your widget will always be in the
 
 ## Get More Conversions With Nopurchase Advanced
 
-If you are still using the Mailbeez Nopurchase Simple module, you want want to consider an upgrade to the premium [Nopurchase Advanced](http://www.mailbeez.com/documentation/mailbeez/nopurchase_advanced/ "Mailbeez Nopurchase Advanced") module, which offers coupons to customers, tempting them into converting from a non-purchasing to a paying customer!
+If you are still using the Mailbeez Nopurchase Simple module, you want want to consider an upgrade to the premium [Nopurchase Advanced](/documentation/mailbeez/nopurchase_advanced/ "Mailbeez Nopurchase Advanced") module, which offers coupons to customers, tempting them into converting from a non-purchasing to a paying customer!
 
 ## You May Also Be Interested In….
 
-[Review Advanced](http://www.mailbeez.com/documentation/mailbeez/review_advanced/ "Mailbeez Review Advanced")  
-[Winback Advanced](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Mailbeez Winback Advanced")  
+[Review Advanced](/documentation/mailbeez/review_advanced/ "Mailbeez Review Advanced")  
+[Winback Advanced](/documentation/mailbeez/winback_advanced/ "Mailbeez Winback Advanced")  
 [The Essentials Bundle](http://www.mailbeez.com/download/mailbeez-essential-pack/ "Mailbeez Essentials Bundle")  
-[Run MailBeez Automatically](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/ "Run MailBeez Automatically")  
+[Run MailBeez Automatically](/documentation/configbeez/config_cron_simple/ "Run MailBeez Automatically")  
   

@@ -36,6 +36,6 @@ metadata:
 #  last_modified: true
 ---
 
-Als Teil des [Shopbewertung Profi ](http://www.mailbeez.de/dokumentation/mailbeez/shopbewertung_advanced/)Modules prüft dieser Filter, ob ein Kunde die Emails des einfachen Shopbewertung-Modules erhalten oder blockiert hat.
+Als Teil des [Shopbewertung Profi ](/dokumentation/mailbeez/shopbewertung_advanced/)Modules prüft dieser Filter, ob ein Kunde die Emails des einfachen Shopbewertung-Modules erhalten oder blockiert hat.
 
 Wenn Sie vor der Installation des Profi Modules die einfache Version benutzt haben, wird dieser Filter sicherstellen, dass Kunden nicht doppelt kontaktiert werden.

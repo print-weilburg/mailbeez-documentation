@@ -122,7 +122,7 @@ If you would like to adjust the sub-templates for product lists, social sharing 
 
 ## Where can I edit the common header and footer for all emails?
 
-With the Mailbeez [Template Manager](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/ "Template Manager - A great module that allows you to edit your Mailbeez emails from your store admin") installed, go to:
+With the Mailbeez [Template Manager](/documentation/configbeez/config_tmplmngr/ "Template Manager - A great module that allows you to edit your Mailbeez emails from your store admin") installed, go to:
 
 > MailBeez > configuration > template manager
 

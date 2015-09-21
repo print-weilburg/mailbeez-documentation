@@ -42,7 +42,7 @@ metadata:
 
 This handy Mailbeez filter gives you the tools to set up an email blacklist based on email address patterns that you define. A good example of its usefulness is that you could create a blacklist to block MailBeez for all customers created through a store integration with Amazon. Pattern Blacklist allows you to define an unlimited number of patterns.
 
-Installation and configuration are fast and easy! Installation instructions are included in the download package. [Pattern Blacklist Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/filterbeez-tutorials/pattern-blacklist-configuration-tutorial/)  
+Installation and configuration are fast and easy! Installation instructions are included in the download package. [Pattern Blacklist Configuration Tutorial](/documentation/tutorials/filterbeez-tutorials/pattern-blacklist-configuration-tutorial/)  
     
  [license\_2\_en]  
   

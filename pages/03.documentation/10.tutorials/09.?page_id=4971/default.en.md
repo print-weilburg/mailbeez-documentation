@@ -40,7 +40,7 @@ The screenshots used in this tutorial were made using Zen Cart. If you use a dif
 
 ## Testing MailBeez is Easy!
 
-Once you’ve [configured](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) MailBeez, it’s time to test each of your MailBeez modules. MailBeez offers a very safe and intuitive testing system which allows you to test in 3 simple steps:
+Once you’ve [configured](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) MailBeez, it’s time to test each of your MailBeez modules. MailBeez offers a very safe and intuitive testing system which allows you to test in 3 simple steps:
 
 - View the email templates
 - Send a test email to a preferred email address
@@ -59,7 +59,7 @@ In order to test MailBeez, you must have at least one email module installed. Le
 1. This will bring up the Birthday Greetings module configuration panel.
 2. Go to “Activate Module”, click “True”, & click “Update” to turn the module on.
 
-The remaining configuration settings are fine for testing purposes. If you need help changing them later, please visit the [Birthday Greetings Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/birthday-greetings-configuration-tutorial/)
+The remaining configuration settings are fine for testing purposes. If you need help changing them later, please visit the [Birthday Greetings Configuration Tutorial](/documentation/tutorials/mailbeez-tutorials/birthday-greetings-configuration-tutorial/)
 
 ## Testing MailBeez
 
@@ -90,7 +90,7 @@ This way, you can see what your customers will see whether they are receiving ma
 When you are happy with the appearance of your email templates, the next step is to run a simulation.
 
 **What Does “Simulation Mode” Mean?**  
- In simulation mode, MailBeez will generate emails just like production mode, but will send the emails only to your configured “Send Copy To” email address. This email address can be [configured](http://www.mailbeez.com/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/) in the “MailHive – Basic Configuration” area.
+ In simulation mode, MailBeez will generate emails just like production mode, but will send the emails only to your configured “Send Copy To” email address. This email address can be [configured](/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/) in the “MailHive – Basic Configuration” area.
 
 [![](http://www.mailbeez.com/images/doc/getting_started/send_copy_to.png "Configure Send Copy To Email Address")](http://www.mailbeez.com/images/doc/getting_started/send_copy_to.png "Configure Send Copy To Email Address")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
@@ -129,4 +129,4 @@ In other words, during testing it is not uncommon to follow this process as ofte
 
 ## Switching to Production Mode
 
-When you’ve completed testing and are satisfied that all is as it should be, you’re ready to switch over to Production Mode and take MailBeez live! This is very easy to do, involving a quick review of a couple of settings and the changing of the mode setting. When you’re ready to switch over to Production Mode, take a look at the [Switching From Simulation to Production tutorial](http://www.mailbeez.com/documentation/tutorials/switching-from-simulation-to-production/) which walks you through this quick & easy process.
+When you’ve completed testing and are satisfied that all is as it should be, you’re ready to switch over to Production Mode and take MailBeez live! This is very easy to do, involving a quick review of a couple of settings and the changing of the mode setting. When you’re ready to switch over to Production Mode, take a look at the [Switching From Simulation to Production tutorial](/documentation/tutorials/switching-from-simulation-to-production/) which walks you through this quick & easy process.

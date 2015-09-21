@@ -38,5 +38,5 @@ metadata:
 
 **Like this? You might also like…**
 
-[Numinix Review Reward module](http://www.mailbeez.com/documentation/mailbeez/numinix_sc_review_reward/ "Numinix Review Reward Module")  
-[Numinix Store Credit Balance Reminder module](http://www.mailbeez.com/documentation/mailbeez/numinix_sc_balance_reminder/ "Numinix Store Credit Reminder Module")
+[Numinix Review Reward module](/documentation/mailbeez/numinix_sc_review_reward/ "Numinix Review Reward Module")  
+[Numinix Store Credit Balance Reminder module](/documentation/mailbeez/numinix_sc_balance_reminder/ "Numinix Store Credit Reminder Module")

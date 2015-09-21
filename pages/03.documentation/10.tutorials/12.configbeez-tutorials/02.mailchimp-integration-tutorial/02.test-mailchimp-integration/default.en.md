@@ -47,4 +47,4 @@ get info from documents cord provided & expand if necessary.
 Explain what next step is – i.e. what needs to happen before switching over to Production Mode (make some changes to your lists on MailChimp, re-run config wizard & change a couple settings).  
  Provide link to Step 3: Take MailChimp Integration Live
 
-[Step 3: Take MailChimp Integration Live](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/mailchimp-integration-tutorial/go-live/)
+[Step 3: Take MailChimp Integration Live](/documentation/tutorials/configbeez-tutorials/mailchimp-integration-tutorial/go-live/)

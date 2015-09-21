@@ -38,6 +38,6 @@ metadata:
 
 ## The ReferralHoney Statistics Report
 
-The ReferralHoney Statistics Report is currently under development and comes delivered with the [MailBeez ReferralHoney module.](http://www.mailbeez.com/documentation/mailbeez/coupon_referral_honey/)
+The ReferralHoney Statistics Report is currently under development and comes delivered with the [MailBeez ReferralHoney module.](/documentation/mailbeez/coupon_referral_honey/)
 
 Once development is complete, this report will gather and display all of your ReferralHoney statistics in one place!

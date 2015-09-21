@@ -46,5 +46,5 @@ Delivered with the <a href=""> ReferralHoney module,</a> this is a powerful widg
 
 When ReferralHoney is first installed, there won’t be a graph displayed by this widget because there has been no data tracked and therefore nothing to display. Once you get ReferralHoney up and running, this widget will be populated with data in no time at all!
 
-Need help configuring the ReferralHoney Analytics widget? Visit the [ReferralHoney Configuration tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/mailbeez-referralhoney-configuration-tutorial/)  
+Need help configuring the ReferralHoney Analytics widget? Visit the [ReferralHoney Configuration tutorial](/documentation/tutorials/mailbeez-tutorials/mailbeez-referralhoney-configuration-tutorial/)  
   

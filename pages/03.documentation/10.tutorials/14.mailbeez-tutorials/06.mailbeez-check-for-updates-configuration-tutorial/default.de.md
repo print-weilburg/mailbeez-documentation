@@ -48,7 +48,7 @@ The email is formatted as a nice little report that tells you how many MailBeez 
 
 For your convenience, it will also display a list of MailBeez modules which are available but not yet installed. If you have a webmaster or site administrator who manages your store for you, you can forward this email to them as a status report or to do list. Handy!
 
-Alternatively, you may [use the MailBeez Version Check widget ](http://www.mailbeez.com/documentation/tutorials/using-the-mailbeez-version-check-widget/) to check for updates.
+Alternatively, you may [use the MailBeez Version Check widget ](/documentation/tutorials/using-the-mailbeez-version-check-widget/) to check for updates.
 
 ## Getting Started
 
@@ -92,7 +92,7 @@ Because this is a shared setting, meaning it is used as both the sender and rece
 **Interval**  
  This setting allows you to choose the interval at which the module will check for updates. Your choices are every day, every week, or every month. By default, it is set to check for a week at a time. You should adjust this setting based on how often you plan to run the module.
 
-To run this module automatically based on the interval setting you select, you will need to either set up a cronjob on your server or Install the simple and affordable [Run MailBeez Automatically module](http://www.mailbeez.com/documentation/mailbeez/config_cron_simple/)
+To run this module automatically based on the interval setting you select, you will need to either set up a cronjob on your server or Install the simple and affordable [Run MailBeez Automatically module](/documentation/mailbeez/config_cron_simple/)
 
 When you have completed your configurations, click the “Update button”. Configuration of the module is now complete!
 
@@ -107,7 +107,7 @@ The 5 function buttons are the controls that allow you to test the module and th
 
 As you modify your template files, you can come back and use this button to view your changes to ensure that they are appearing as you intend.
 
-**When you’re ready to customize your email templates, have a look at our [Customizing Free Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
+**When you’re ready to customize your email templates, have a look at our [Customizing Free Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
 
 **Email Templates – “TXT” Button**  
  This button allows you to preview the module templates in a nice popup window in text format. Everyone has customers who prefer to receive email in text format. This tool allows you to see what they see, and preview changes you make to the template before they go out to your customers.
@@ -155,11 +155,11 @@ Alternatively, if you set the “Show Email While Sending” to “True” when 
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.
 
 ## Template Manager
 
-Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/)**
+Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](/documentation/configbeez/config_tmplmngr/)**

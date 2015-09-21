@@ -50,5 +50,5 @@ With MailBeez, your data is secure! Your Google Analytics login credentials are 
 
 **Note:** If you don’t see valid data for your MailBeez campaigns, check the following:
 
-- Make sure your Google Analytics e-commerce tracking is properly installed. **[How?](http://www.mailbeez.com/documentation/tutorials/google-analytics-dashboard-widget-tutorial/)**
-- Ensure that the MailBeez Google Analytics Integration is active and set to rewrite all you email links adding the Google Analytics Tracking parameters. **[How?](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)**
+- Make sure your Google Analytics e-commerce tracking is properly installed. **[How?](/documentation/tutorials/google-analytics-dashboard-widget-tutorial/)**
+- Ensure that the MailBeez Google Analytics Integration is active and set to rewrite all you email links adding the Google Analytics Tracking parameters. **[How?](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)**

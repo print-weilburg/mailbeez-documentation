@@ -49,9 +49,9 @@ Installation and configuration are fast and easy! Installation instructions are 
 
 ## Take it to the Next Level
 
-- Make review writing and product sharing even easier on your customers! [Review Reminder Advanced](http://www.mailbeez.com/documentation/mailbeez/review_advanced/) includes customer Auto-login, professionally designed and easily editable templates, Social Sharing Services, and more!
-- Reward customers who write reviews with a coupon for their next purchase by installing the [MailBeez Review Reward Coupon module!](http://www.mailbeez.com/documentation/mailbeez/coupon_review/)
-- Have you seen the [MailBeez Share Review on Facebook module](http://www.mailbeez.com/documentation/mailbeez/review_facebook/)? This **free** module will send an email to customers who have written a review inviting them to share their review on Facebook. The simple one-click operation makes sharing a breeze for your customers!
+- Make review writing and product sharing even easier on your customers! [Review Reminder Advanced](/documentation/mailbeez/review_advanced/) includes customer Auto-login, professionally designed and easily editable templates, Social Sharing Services, and more!
+- Reward customers who write reviews with a coupon for their next purchase by installing the [MailBeez Review Reward Coupon module!](/documentation/mailbeez/coupon_review/)
+- Have you seen the [MailBeez Share Review on Facebook module](/documentation/mailbeez/review_facebook/)? This **free** module will send an email to customers who have written a review inviting them to share their review on Facebook. The simple one-click operation makes sharing a breeze for your customers!
 
  
 
@@ -132,7 +132,7 @@ The 5 function buttons are the controls that allow you to test the module and th
 
 As you modify your template files, you can come back and use this button to view your changes to ensure that they are appearing as you intend.
 
-**When you’re ready to customize your email templates, have a look at our [Customizing Free Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
+**When you’re ready to customize your email templates, have a look at our [Customizing Free Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
 
 **Email Templates – “TXT” Button**  
  This button allows you to preview the module templates in a nice popup window in text format. Everyone has customers who prefer to receive email in text format. This tool allows you to see what they see, and preview changes you make to the template before they go out to your customers.
@@ -154,11 +154,11 @@ It even tells you in the text above the button which mode you’re in. This prev
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.
 
 ## Template Manager
 
-Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/)**
+Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](/documentation/configbeez/config_tmplmngr/)**

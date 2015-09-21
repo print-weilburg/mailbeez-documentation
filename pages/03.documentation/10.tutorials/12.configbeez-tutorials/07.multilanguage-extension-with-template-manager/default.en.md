@@ -127,7 +127,7 @@ For this reason, we have separated these processes into two different sections w
 
 This is because the Multilanguage Template Manager is designed to protect the integrity of the original templates that come pre-installed with MailBeez and your Premium MailBeez modules. If a template gets broken during editing, you can restore the originals and start over. This functionality also comes in to play when you switch between templates, so if you don’t have custom templates set up, edits you make to the original files will be lost.
 
-**An overview of theme templates vs. layout style templates, as well as step-by-step instructions for creating custom templates & backing up your customizations can be found in the [Customizing MailBeez Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
+**An overview of theme templates vs. layout style templates, as well as step-by-step instructions for creating custom templates & backing up your customizations can be found in the [Customizing MailBeez Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
 
 ### Editing Custom Theme Templates
 
@@ -187,7 +187,7 @@ Once you’ve finalized your templates in your default language, all that’s le
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/doc/configbeez/mailbeez_pro_tmplmngr_lng/mletm_editor_flags2.png&w=270&h=90&zc=1&q=100 "Multilanguage Template Editor - Language Tabs")](http://www.mailbeez.com/images/doc/configbeez/mailbeez_pro_tmplmngr_lng/mletm_editor_flags2.png "Multilanguage Template Editor - Language Tabs")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-Need examples for how to customize your new theme templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+Need examples for how to customize your new theme templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 ### Editing Custom Layout Style Templates
 
@@ -261,7 +261,7 @@ Just follow the same steps you used with the first sub-template:
 - Translate the templates and copy them into the custom language templates
 - Click Update
 
-Need examples for how to customize your new layout style templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+Need examples for how to customize your new layout style templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
  
 
@@ -311,7 +311,7 @@ You will need to repeat this process for all of your customized layout style tem
 
 **Before you begin using the Multilanguage Template Manager to edit your free email templates, you must create a backup of the original templates that came pre-installed with the free email modules so you can restore the templates if you break something during customization.**
 
-**An overview of global vs.individual module customizations, as well as step-by-step instructions for creating custom templates, customizing the html code in the templates, & backing up your customizations can be found in the [Customizing MailBeez Free Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
+**An overview of global vs.individual module customizations, as well as step-by-step instructions for creating custom templates, customizing the html code in the templates, & backing up your customizations can be found in the [Customizing MailBeez Free Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
 
 ### Editing the Common Main Templates
 
@@ -423,7 +423,7 @@ With MailBeez, you can always be assured that your premium modules are fully int
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.

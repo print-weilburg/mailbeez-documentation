@@ -36,4 +36,4 @@ metadata:
 #  last_modified: true
 ---
 
-Dieses Modul ist durch [Bitte zur Shopbewertung Profi](http://www.mailbeez.de/dokumentation/mailbeez/shoprating_advanced/) ersetzt worden.
+Dieses Modul ist durch [Bitte zur Shopbewertung Profi](/dokumentation/mailbeez/shoprating_advanced/) ersetzt worden.

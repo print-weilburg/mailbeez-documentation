@@ -114,7 +114,7 @@ all work together to tell MailBeez “Search my database for the past 10 days. F
 **Reward Coupon – Days Coupon is Valid**  
  The Reward Coupon is the coupon you send to your customers to reward them after their friends make a purchase with the Share Coupon. This setting allows you define the number of days the Reward Coupon will be valid. After these number of days pass, the coupon will expire. By default, it is set to 66 days, but you may change it if you wish.
 
-**Consider adding the [Coupon Expiry Reminder](http://www.mailbeez.com/documentation/mailbeez/coupon_expire/) module to your MailBeez installation to increase the conversion rate of coupon emails and thereby generate more sales! Powerful!**
+**Consider adding the [Coupon Expiry Reminder](/documentation/mailbeez/coupon_expire/) module to your MailBeez installation to increase the conversion rate of coupon emails and thereby generate more sales! Powerful!**
 
 **Length of Coupon Code**  
  This setting allows you to define the length of the coupon code that MailBeez will generate. By default it is set to 10 characters. You may change it if you wish, keeping in mind that the longer the code, the more character combinations are possible. If you make this code too short, you could limit the number of available character combinations, thereby limiting the number of unique coupon codes that MailBeez can generate.
@@ -128,7 +128,7 @@ all work together to tell MailBeez “Search my database for the past 10 days. F
 **Layout**  
  This setting allows you to choose which layout style template set you want to assign & use for this module.
 
-Since ReferralHoney does not include additional templates, the only option displayed here is “Default” until such a time as you create your own custom templates. For help creating your own custom templates, check out our [Customizing Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+Since ReferralHoney does not include additional templates, the only option displayed here is “Default” until such a time as you create your own custom templates. For help creating your own custom templates, check out our [Customizing Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 **Sort Order of Display**  
  This setting allows you to change the sort order of this module to move it higher or lower on the list of modules in the MailBeez Modules tab.
@@ -152,7 +152,7 @@ The Referral Invitation email is sent to anyone who places an order once that or
 Whatever you enter here will display next to the Referral Invitation email cycle option on the MailBeez Modules tab, so you can always see, at a glance, what your setting is. Handy!
 
 **Coupon Template – Share With Friends Coupon**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
 **Share Coupon – Days Coupon is Valid**  
  This setting is identical to its counterpart in the module’s general configuration settings and is placed here for convenience. Changing the setting in this panel will automatically update it the module’s general configurations panel. The converse is also true; changing the setting in the module’s general configurations panel will update the setting here in this panel.
@@ -196,19 +196,19 @@ The Referral Bonus email is sent to customers “X” number of days after the S
  This setting lets you define how many recognized orders a Share Coupon must generate for the customer to receive a Level 1 Reward Coupon. A “recognized” order is any order meeting the “Target Customer’s Friend’s Order Status” criteria. By default, it is set to 1.
 
 **Coupon Template – Reward Level 1**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
 **Number of Orders for Level 2**  
  This setting lets you define how many recognized orders a Share Coupon must generate for the customer to receive a Level 2 Reward Coupon. A “recognized” order is any order meeting the “Target Customer’s Friend’s Order Status” criteria. By default, it is set to 3.
 
 **Coupon Template – Reward Level 2**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
 **Number of Orders for Level 3**  
  This setting lets you define how many recognized orders a Share Coupon must generate for the customer to receive a Level 3 Reward Coupon. A “recognized” order is any order meeting the “Target Customer’s Friend’s Order Status” criteria. By default, it is set to 10.
 
 **Coupon Template – Reward Level 3**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
 **Reward Coupon – Days Coupon is Valid**  
  This setting is identical to its counterpart in the module’s general configuration settings and is placed here for convenience. Changing the setting in this panel will automatically update it the module’s general configurations panel. The converse is also true; changing the setting in the module’s general configurations panel will update the setting here in this panel.
@@ -288,7 +288,7 @@ Configuration of the ReferralHoney module is now complete!
 
 ## Create & Assign Coupon Templates
 
-Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return to the module to assign a coupon template to each email cycle using the drop down box in each email cycle’s configuration panel (see the section of the tutorial on configuring email cycles).
+Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return to the module to assign a coupon template to each email cycle using the drop down box in each email cycle’s configuration panel (see the section of the tutorial on configuring email cycles).
 
 Once you’ve done that, it’s time to test & run some simulations.
 
@@ -321,7 +321,7 @@ The 5 function buttons are the controls that allow you to preview your email tem
 
 As you modify your template files, you can come back and use this button to view your changes to ensure that they are appearing as you intend.
 
-**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
+**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
 
 To view a different set of template files, go to the module’s configuration panel, click “Edit”, change your Layout Style selection, click “Update”, and return here to view them.
 
@@ -339,7 +339,7 @@ To view a different set of template files, go to the module’s configuration pa
 
 It even tells you in the text above the button which mode you’re in. This prevents you from accidentally sending emails out to customers when you’re testing.
 
-**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](http://www.mailbeez.com/documentation/tutorials/testing-mailbeez)**
+**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](/documentation/tutorials/testing-mailbeez)**
 
 
 
@@ -347,7 +347,7 @@ It even tells you in the text above the button which mode you’re in. This prev
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.

@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'create_account'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -55,7 +55,7 @@ You might be thinking that this module simply doubles up on the email that your 
 
 **Add gender for dynamic content**
 
-For stores that cater for both men and women, this second MailBeez generated email could actually be used for more advanced email processes, like providing differentiated content for male and female recipients, which would make use of the Mailbeez “[Add Gender](http://www.mailbeez.com/documentation/filterbeez/filter_add_gender/ "Add Gender")” plugin.
+For stores that cater for both men and women, this second MailBeez generated email could actually be used for more advanced email processes, like providing differentiated content for male and female recipients, which would make use of the Mailbeez “[Add Gender](/documentation/filterbeez/filter_add_gender/ "Add Gender")” plugin.
 
 **Easy configuration**
 

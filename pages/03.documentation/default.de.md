@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,6 +36,10 @@ metadata:
 #  last_modified: true
 ---
 
-Hier gibt es die gesamten verfügbare Dokumentation zu MailBeez und alle Modulen – schon ganz schön umfangreich aber niemals vollständig…
+Hier gibt es die gesamte verfügbare Dokumentation zu MailBeez und alle Modulen – schon ganz schön umfangreich aber niemals vollständig…
 
-Das Menü rechts hilft, die den Überblick zu behalten – gruppiert nach Anwendungstypen.
+Das Menü rechts hilft, die den Überblick zu behalten – gruppiert nach Anwendungstypen. Und die Such-Funktion findet schnell passende Inhalte.
+
+
+
+>>>>>> Auf jeder Seite finden Sie die **Vor** und **Zurück** Pfeile (<i class="fa fa-chevron-left"></i> <i class="fa fa-chevron-right"></i>) mit denen Sie leicht durch die Dokumentation navigieren können. Im Menü links sehen Sie anhand der Markierungen (<i class="fa fa-check"></i>), welche Seiten Sie bereits besucht haben.

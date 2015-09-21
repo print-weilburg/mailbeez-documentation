@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-Dieses Tutorial wird Ihnen helfen, das MailBeez System schnell zu konfigurieren. Wenn Sie lieber gleich etwas mehr Zeit investieren wollen, nutzen Sie Bitte das Tutorial “[MailBeez Konfiguration ausführlich](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)“, welches etwa 15-30Minuten in Anspruch nimmt.
+Dieses Tutorial wird Ihnen helfen, das MailBeez System schnell zu konfigurieren. Wenn Sie lieber gleich etwas mehr Zeit investieren wollen, nutzen Sie Bitte das Tutorial “[MailBeez Konfiguration ausführlich](/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)“, welches etwa 15-30Minuten in Anspruch nimmt.
 
 Die hier verwendeten Screenshots wurden mit ZenCart erstellt. Auf anderen Shop-System wird das Admin-Interface etwas anders aussehen, der Aufbau und die Bedienkonzepte sind aber einheitlich für alle Platformen – soweit nicht ausdrücklich auf Abweichungen hingewiesen wird.
 
@@ -117,8 +117,8 @@ Wenn die Email-Adresse für “Kopie-An” und “Email-Adresse für Simulatione
 
 Fast geschafft! Der letzte Schritt vor dem Testen ist die Konfiguration des zu testenden Modules. Dies ist schnell und einfach erledigt:
 
-[Weiter zu den MailBeez Module Konfigurations Tutorials](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-tutorials/)
+[Weiter zu den MailBeez Module Konfigurations Tutorials](/dokumentation/tutorials/mailbeez-tutorials/)
 
-Wenn Sie noch kein zusätzliches Modul installiert haben, können Sie einfach mit dem bereits vorhanden Modul für “Geburtstags-Glückwünsche” beginnen – dieses Modul muss aber auch erst [installiert und konfiguriert werden](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-tutorials/geburstags-glueckwuensche-konfiguration-tutorial/) .
+Wenn Sie noch kein zusätzliches Modul installiert haben, können Sie einfach mit dem bereits vorhanden Modul für “Geburtstags-Glückwünsche” beginnen – dieses Modul muss aber auch erst [installiert und konfiguriert werden](/dokumentation/tutorials/mailbeez-tutorials/geburstags-glueckwuensche-konfiguration-tutorial/) .
 
-Wenn Sie bevorzugen, mit der Konfiguration des MailBeez Systems fortzufahren, bevor Sie ein Modul einrichten wollen, lesen Sie Bitte das Tutorial [MailBeez Konfiguration ausführlich](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/). Dies wird nur ein paar Minuten in Anspruch nehmen.
+Wenn Sie bevorzugen, mit der Konfiguration des MailBeez Systems fortzufahren, bevor Sie ein Modul einrichten wollen, lesen Sie Bitte das Tutorial [MailBeez Konfiguration ausführlich](/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/). Dies wird nur ein paar Minuten in Anspruch nehmen.

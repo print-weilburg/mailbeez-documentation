@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-This Quick Start Configuration tutorial will help you get your MailBeez installation configured and ready for testing fast. However, if you’re willing to spend a few more minutes up front, [go to the Comprehensive Configuration tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) which will need to be completed before you take your store from Simulation to Production Mode and takes approximately 15 – 30 minutes to complete.
+This Quick Start Configuration tutorial will help you get your MailBeez installation configured and ready for testing fast. However, if you’re willing to spend a few more minutes up front, [go to the Comprehensive Configuration tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) which will need to be completed before you take your store from Simulation to Production Mode and takes approximately 15 – 30 minutes to complete.
 
 The screenshots used in this tutorial were made using Zen Cart. If you use a different e-commerce platform, your admin interface and MailBeez interface may appear slightly different, however the concepts and configuration instructions are the same across all platforms.
 
@@ -66,7 +66,7 @@ There is no need to change this setting unless you want to uninstall or deactiva
 **Show Email While Sending**  
  This setting is set to “True” by default, which allows you to see the generated email in a nice popup in the admin while the email is being sent. You can deactivate this functionality by changing the setting to “False”.
 
-When you’re ready to customize your email templates, have a look at our tutorials: [Customizing MailBeez Free Email Templates](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/) and [Customizing MailBeez Premium Email Templates](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+When you’re ready to customize your email templates, have a look at our tutorials: [Customizing MailBeez Free Email Templates](/documentation/tutorials/customizing-mailbeez-free-email-templates/) and [Customizing MailBeez Premium Email Templates](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 **Send Copy**  
  This setting tells MailBeez whether or not to send a copy of each email it sends to an email address of your choosing. It is set to “True” by default.
@@ -148,8 +148,8 @@ If the email address provided for “Send Copy to” is the same email address p
 
 You’re almost there! The last step before you begin testing is to configure the MailBeez modules you wish to test. This is a quick and simple process that can easily be completed in just a couple of minutes.
 
-[Continue to MailBeez Module Configuration tutorials](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/)
+[Continue to MailBeez Module Configuration tutorials](/documentation/tutorials/mailbeez-tutorials/)
 
-If you have not yet installed any additional modules, you may begin testing with the Birthday Greetings module included with your MailBeez installation, once you [configure it](http://www.mailbeez.com/documentation/tutorials/birthday-greetings-configuration-tutorial/) of course.
+If you have not yet installed any additional modules, you may begin testing with the Birthday Greetings module included with your MailBeez installation, once you [configure it](/documentation/tutorials/birthday-greetings-configuration-tutorial/) of course.
 
-If you prefer to finish configuring MailBeez before proceeding with module configuration, please continue to the [Comprehensive Configuration tutorial.](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) Since you have already completed much of your MailBeez configuration through the Quick Start process, completing configuration should only take a few minutes.
+If you prefer to finish configuring MailBeez before proceeding with module configuration, please continue to the [Comprehensive Configuration tutorial.](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) Since you have already completed much of your MailBeez configuration through the Quick Start process, completing configuration should only take a few minutes.

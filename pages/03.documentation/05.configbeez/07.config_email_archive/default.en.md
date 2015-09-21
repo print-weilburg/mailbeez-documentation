@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'config_email_archive'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -63,7 +63,7 @@ in your common main- or body-template. The recipients click on this link and wil
 
 ## Archive
 
-All Mailbeez generated emails will automatically get archived both in TXT and HTML format. The archived versions can be displayed easily and comfortable either going through the Beez-O-Graph or when working on a customer using the free [BeezDesk CRM Customer Insight](http://www.mailbeez.com/documentation/configbeez/config_customer_insight/) add-on. Check which email a customer has received becomes a simple task.
+All Mailbeez generated emails will automatically get archived both in TXT and HTML format. The archived versions can be displayed easily and comfortable either going through the Beez-O-Graph or when working on a customer using the free [BeezDesk CRM Customer Insight](/documentation/configbeez/config_customer_insight/) add-on. Check which email a customer has received becomes a simple task.
 
 ## planned features for next version
 

@@ -42,7 +42,7 @@ The screenshots used in this tutorial were made using Zen Cart. If you use a dif
 
 ## Take MailBeez Live
 
-Once you have completed [testing](http://www.mailbeez.com/documentation/tutorials/testing-mailbeez/), [email template customization](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/), and [complete configuration](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) of your installation, you will be ready to switch from Simulation Mode to Production Mode and begin sending your first email campaign!
+Once you have completed [testing](/documentation/tutorials/testing-mailbeez/), [email template customization](/documentation/tutorials/customizing-mailbeez-free-email-templates/), and [complete configuration](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/) of your installation, you will be ready to switch from Simulation Mode to Production Mode and begin sending your first email campaign!
 
 **Navigate to admin > MailBeez > Configuration tab > Simulation > Edit and set Mode to “production”:**
 

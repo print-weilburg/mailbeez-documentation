@@ -2,6 +2,9 @@
 # http://learn.getgrav.org/content/headers
 title: Newsletter Profi
 slug: newsletter
+routes:
+    aliases:
+        - /dokumentation/mailbeez/mb_newsletter
 # menu: Newsletter Profi
 date: 11-08-2011
 published: true
@@ -17,8 +20,8 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
-download:
+    tag: [pro,coupon]
+module:
     code: 'mb_newsletter'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]

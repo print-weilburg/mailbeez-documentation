@@ -154,7 +154,7 @@ Falls alles funktionert, brauchen diese Einstellungen nicht bearbeitet zu werden
 **Wählen Sie das Email System**  
  Mit dieser Einstellung können Sie wählen, ob MailBeez die Email-Funktion des Shop-Systems verwendet oder den in MailBeez integrierten “PHPMailer”, welcher mit SMTP Email Accounts arbeitet.
 
-Wenn Sie die [Email Rückfläufer-Verarbeitung](http://www.mailbeez.de/dokumentation/mailbeez/config_bouncehive_advanced/) einsetzen wollen, ist es zwingend erforderlich, dass PHPMailer Email System zu verwenden. Weitere Informationen hierzu finden Sie im [ MailBeez Email Rückfläufer-Verarbeitung Tutorial](http://www.mailbeez.de/dokumentation/tutorials/configbeez-tutorials/-bounce-handling-configuration-tutorial/)
+Wenn Sie die [Email Rückfläufer-Verarbeitung](/dokumentation/mailbeez/config_bouncehive_advanced/) einsetzen wollen, ist es zwingend erforderlich, dass PHPMailer Email System zu verwenden. Weitere Informationen hierzu finden Sie im [ MailBeez Email Rückfläufer-Verarbeitung Tutorial](/dokumentation/tutorials/configbeez-tutorials/-bounce-handling-configuration-tutorial/)
 
 ## Dashboard Konfiguration
 
@@ -260,16 +260,16 @@ Die weiteren Einstellungen sind optional und stehen nach der Installation von Pr
 - MailBeez automatisch ausführen
 - Vorlagen Verwaltung
 
-**[ BounceHive Rückläufer Verarbeitung](http://www.mailbeez.de/dokumentation/mailbeez/config_bouncehive_advanced/)**  
+**[ BounceHive Rückläufer Verarbeitung](/dokumentation/mailbeez/config_bouncehive_advanced/)**  
  Email Rückläufer (Bounces) generieren ungewünschte Arbeit für den Shop-Betreiber. Jeder Rückläufer muss gelesen werden und der Kunde mit der ungültigen Email-Adresse deaktiviert werden.  
  Zudem können Rückläufer das Risko als Spamversender eingestuft zu werden, erhöhen und auch zu Problemen mit dem Hoster führen.
 
 Diese Modul automatisiert die Verarbeitung von Email Rückläufern. Diese Rückläufer werden eingelesen, analysiert und die dazugehörigen Email-Adressen markiert. Dadurch wird der weitere Versand von Emails an diese ungültigen Adresse unterbunden.
 
-**[Emailversand drosseln](http://www.mailbeez.de/dokumentation/mailbeez/filter_do_throttling_simple/)**  
+**[Emailversand drosseln](/dokumentation/mailbeez/filter_do_throttling_simple/)**  
  Dieses Modul erlaubt es, die Versandrate zu kontrollieren, um ggf. Limits des Hosters einzuhalten.
 
-**[MailBeez automatisch ausführen](http://www.mailbeez.de/dokumentation/mailbeez/config_cron_simple/)**  
+**[MailBeez automatisch ausführen](/dokumentation/mailbeez/config_cron_simple/)**  
  Um die Ausführung von MailBeez zu automatisieren, gibt es folgende Möglichkeiten:
 
 - Die Einrichtung eines Cronjobs
@@ -277,10 +277,10 @@ Diese Modul automatisiert die Verarbeitung von Email Rückläufern. Diese Rückl
 
 Ohne eine dieser Möglichkeiten wird MailBeez nicht automatisiert arbeiten können, d.h. der Shopbetreiber muss täglich die Module manuell ausführen. Das Modul “MailBeez automatisch ausführen” ist schnell installiert und für viele Shopbetreiber die einfache Alternative.
 
-**[Vorlagen Verwaltung](http://www.mailbeez.de/dokumentation/mailbeez/config_tmplmngr/)**  
+**[Vorlagen Verwaltung](/dokumentation/mailbeez/config_tmplmngr/)**  
  Mit Hilfe dieses Modules können MailBeez Nutzer schnell und einfach alle Email-Vorlagen direkt im MailBeez System bearbeiten. Somit entfällt das aufwändige Arbeite mit FTP Programmen und Text-Editoren.
 
-**[Mouseflow](http://www.mailbeez.de/dokumentation/configbeez/config_mouseflow/)**  
+**[Mouseflow](/dokumentation/configbeez/config_mouseflow/)**  
  Mouseflow ist ein Online-System, welches einfach und kostengünstig die Optimierung des Shops ermöglich. Mouseflow zeigt Ihnen, wie Besucher auf Ihren Seiten navigieren, wo es Probleme gibt und wo Verbesserungspotential vorliegt.
 
 
@@ -289,4 +289,4 @@ Ohne eine dieser Möglichkeiten wird MailBeez nicht automatisiert arbeiten könn
 
 Fast geschafft! Nur noch ein Modul konfigurieren und schon kann der erste Test erfolgen.
 
-Falls Sie noch keine weiteren Module installiert haben, können Sie sofort mit dem Geburtstags-Modul beginnen, welches in der MailBeez Grundinstallation vorhanden ist. Hier eine Anleitung zur [Konfiguration des Geburtstags-Modules](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-tutorials/geburstags-glueckwuensche-konfiguration-tutorial/).
+Falls Sie noch keine weiteren Module installiert haben, können Sie sofort mit dem Geburtstags-Modul beginnen, welches in der MailBeez Grundinstallation vorhanden ist. Hier eine Anleitung zur [Konfiguration des Geburtstags-Modules](/dokumentation/tutorials/mailbeez-tutorials/geburstags-glueckwuensche-konfiguration-tutorial/).

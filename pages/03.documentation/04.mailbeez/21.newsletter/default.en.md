@@ -2,6 +2,9 @@
 # http://learn.getgrav.org/content/headers
 title: Newsletter Advanced
 slug: newsletter
+routes:
+    aliases:
+        - /documentation/mailbeez/mb_newsletter
 # menu: Newsletter Advanced
 date: 11-08-2011
 published: true
@@ -17,8 +20,8 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
-download:
+    tag: [pro,coupon]
+module:
     code: 'mb_newsletter'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -52,13 +55,13 @@ metadata:
 The Mailbeez Newsletter module represents a completely new approach to an integrated eCommerce newsletter module, offering store owners exciting Mailbeez enhancements, and the ability to create personalized, intelligent email campaigns right from the store admin area.
 
 **Responsive Newsletter**  
-In combination with the Responsive Template Manager the Newsletter will get the ability to design and send responsive Emails, read more about [Responsive Emails with MailBeez](http://www.mailbeez.com/documentation/responsive-emails/)
+In combination with the Responsive Template Manager the Newsletter will get the ability to design and send responsive Emails, read more about [Responsive Emails with MailBeez](/documentation/responsive-emails/)
 
 Sending an email newsletter from a vanilla install of any OScommerce variant system is a very unappetizing task, which is why there has, in recent years, been a proliferation of 3rd party email newsletter subscribers who have provided the tools most merchants wished their eCommerce store could provide. However, with the introduction of the Mailbeez Newsletter module, store owners finally have the tools to create email campaigns from their admin areas; campaigns that lack nothing in comparison to the offerings of feature rich 3rd party systems.
 
 As a seamless integrated module the MailBeez Newsletter Advanced Module has direct access to customers and their newsletter subscription setting. That allows your to e.g. send a newsletter campaign to all your subscribed customers without exporting or importing any data!
 
-The process of creating and editing newsletter is very easy: the intuitive visual editor allows you to create professional newsletters, which will show up best possible across different email clients. In combination with the [Responsive Template Manager](http://www.mailbeez.com/documentation/mailbeez/config_tmplmngr/) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/)) you will also be able to create mobil-friendly responsive newsletters which will look great e.g. on your customers iPhone.
+The process of creating and editing newsletter is very easy: the intuitive visual editor allows you to create professional newsletters, which will show up best possible across different email clients. In combination with the [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/)) you will also be able to create mobil-friendly responsive newsletters which will look great e.g. on your customers iPhone.
 
 
 
@@ -102,7 +105,7 @@ The powerful segmentation rules allow you to create a virtually endless number o
 **Segmentation features**
 
 - geographic: country, state, zip-code
-- customer: gender, customer since min/max days, customer groups: requires [Customer Group-Filter](http://www.mailbeez.com/documentation/mailbeez/filter_check_group/)
+- customer: gender, customer since min/max days, customer groups: requires [Customer Group-Filter](/documentation/mailbeez/filter_check_group/)
 - products: purchased / must not have purchased (whitelist/blacklist)
 - categories: purchased / must not have purchased (whitelist/blacklist)
 - orders: max. number of orders, last order before / after date
@@ -167,13 +170,13 @@ Thanks to throttling and limiting the number of emails sent per run (chunk size)
 
 For best operations we recommend following modules, which will enhance the MailBeez platform. So all other MailBeez modules will be enhanced.
 
-- [Simple Throttling](http://www.mailbeez.com/documentation/mailbeez/filter_do_throttling_simple) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/))
-- [BounceHive Bounce Handling](http://www.mailbeez.com/documentation/mailbeez/config_bouncehive_advanced)
-- [Customer Group-Filter](http://www.mailbeez.com/documentation/mailbeez/filter_check_group/)
+- [Simple Throttling](/documentation/mailbeez/filter_do_throttling_simple) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/))
+- [BounceHive Bounce Handling](/documentation/mailbeez/config_bouncehive_advanced)
+- [Customer Group-Filter](/documentation/mailbeez/filter_check_group/)
 
 To create and send responsive Emails you need to install the Responsive Template Manager:
 
-- [Responsive Template Manager](http://www.mailbeez.com/documentation/mailbeez/config_tmplmngr/) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/))
+- [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/))
 
 ### future developments
 

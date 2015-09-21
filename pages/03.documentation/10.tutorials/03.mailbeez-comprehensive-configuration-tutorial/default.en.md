@@ -66,7 +66,7 @@ There is no need to change this setting unless you want to uninstall or deactiva
 **Show Email While Sending**  
  This setting is set to “True” by default, which allows you to see the generated email in a nice popup in the admin while the email is being sent. You can deactivate this functionality by changing the setting to “False”.
 
-When you’re ready to customize your email templates, have a look at our tutorials: [Customizing MailBeez Free Email Templates](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/) and [Customizing MailBeez Premium Email Templates](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+When you’re ready to customize your email templates, have a look at our tutorials: [Customizing MailBeez Free Email Templates](/documentation/tutorials/customizing-mailbeez-free-email-templates/) and [Customizing MailBeez Premium Email Templates](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 **Send Copy**  
  This setting tells MailBeez whether or not to send a copy of each email it sends to an email address of your choosing. It is set to “True” by default.
@@ -197,9 +197,9 @@ For this reason, it is recommended that you leave this setting on “True” unl
 **Select the Email Engine**  
  This setting allows you to change which email engine you will use to send your MailBeez emails. It is set to “Shop” by default and will use your store’s email engine adhering to the email settings you configured in your store’s email configuration.
 
-You will need to change this setting to PHPMailer v5.2.1 if you are using the [ MailBeez BounceHive Bounce Handling module](http://www.mailbeez.com/documentation/mailbeez/config_bouncehive_advanced/)
+You will need to change this setting to PHPMailer v5.2.1 if you are using the [ MailBeez BounceHive Bounce Handling module](/documentation/mailbeez/config_bouncehive_advanced/)
 
-The remaining settings only apply if you change your email engine to PHPMailer v5.2.1. These settings are mostly self explanatory, but additional information can be found in the [ MailBeez BounceHive Bounce Handling tutorial](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/-bounce-handling-configuration-tutorial/)
+The remaining settings only apply if you change your email engine to PHPMailer v5.2.1. These settings are mostly self explanatory, but additional information can be found in the [ MailBeez BounceHive Bounce Handling tutorial](/documentation/tutorials/configbeez-tutorials/-bounce-handling-configuration-tutorial/)
 
 ## Dashboard Configuration
 
@@ -350,7 +350,7 @@ If you choose to change this setting to “False”, you will need to do one of 
 
 - Manually run the Service Handler for MailBeez Analytics module, or
 - Set up a dedicated cronjob to do it for you automatically, or
-- [Install the Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+- [Install the Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 
 The Service Handler for MailBeez Analytics module is located in the MailBeez interface in the MailBeez Modules tab.
 
@@ -380,17 +380,17 @@ The remaining configuration options are all additional configuration modules whi
 - Run MailBeez Automatically
 - Template Manager
 
-**[ Bounce Handling](http://www.mailbeez.com/documentation/mailbeez/config_bouncehive_advanced/)**  
+**[ Bounce Handling](/documentation/mailbeez/config_bouncehive_advanced/)**  
  Bounced emails add an extra level of unnecessary work for shop owners. Every time an email bounces, you must edit your email lists to ensure their removal. In a large shop, this can be a nightmarish experience. Too many bounced emails can get your account flagged as a spam sender and cause problems with your hosting account.
 
 This configuration module puts an end to all that by automatically managing your bounced emails. If an email bounces, Bounce Handling will mark the customer accordingly and avoid sending out additional emails.
 
-**[Email Throttling](http://www.mailbeez.com/documentation/mailbeez/filter_do_throttling_simple/)**  
+**[Email Throttling](/documentation/mailbeez/filter_do_throttling_simple/)**  
  MailBeez Simple Throttling module is a simple, yet highly useful filter that allows you to configure the hourly rate and total number of emails that MailBeez sends out.
 
 Once you start firing off a lot of emails, it’s a good idea to consider working with email throttling. Whether your store runs on a limited data plan involving hourly email restrictions, or you simply want to make sure that your site is still responsive to visitors even whilst the server fires off emails behind the scenes, email throttling is key, and the Mailbeez Simple Throttling module is the tool to use to achieve it.
 
-**[Run MailBeez Automatically](http://www.mailbeez.com/documentation/mailbeez/config_cron_simple/)**  
+**[Run MailBeez Automatically](/documentation/mailbeez/config_cron_simple/)**  
  If you want MailBeez to run automatically, you have two options. You may either:
 
 - Set up a cronjob to manage the automation for you
@@ -398,10 +398,10 @@ Once you start firing off a lot of emails, it’s a good idea to consider workin
 
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for many users by far the easier of the two options.
 
-**[Template Manager](http://www.mailbeez.com/documentation/mailbeez/config_tmplmngr/)**  
+**[Template Manager](/documentation/mailbeez/config_tmplmngr/)**  
  Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official (free and premium) MailBeez Modules as well as with custom built modules, the Mailbeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it!
 
-**[Mouseflow](http://www.mailbeez.com/documentation/configbeez/config_mouseflow/)**  
+**[Mouseflow](/documentation/configbeez/config_mouseflow/)**  
  Mouseflow is a third party web service which can be easily and affordably be fully integrated into your MailBeez installation with the MailBeez Mouseflow Integration module. Mouseflow gathers data, telling you which areas of your site are getting the most attention by your visitors. Areas being overlooked by users can then be improved to gain more attention.
 
 Furthermore Mouseflow can actually record a visitor’s activity on your site. This can greatly help you in determining the user friendliness of the site and how visitors interact with the available tools.
@@ -412,4 +412,4 @@ Furthermore Mouseflow can actually record a visitor’s activity on your site. T
 
 You’re almost there! The last step before you begin testing is to configure the MailBeez modules you wish to test. This is a quick and simple process that can easily be completed in just a couple of minutes.
 
- If you have not yet installed any additional modules, you can begin testing with the Birthday Greetings module included with your MailBeez installation, once you [configure it](http://www.mailbeez.com/documentation/tutorials/birthday-greetings-configuration-tutorial/) of course.
+ If you have not yet installed any additional modules, you can begin testing with the Birthday Greetings module included with your MailBeez installation, once you [configure it](/documentation/tutorials/birthday-greetings-configuration-tutorial/) of course.

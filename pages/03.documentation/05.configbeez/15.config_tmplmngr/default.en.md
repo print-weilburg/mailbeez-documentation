@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'config_tmplmngr'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -93,7 +93,7 @@ The editor provides embedded buttons for previewing the html & txt versions of t
 
 ## Help & Support Available
 
-Installation and configuration are fast and easy! Installation instructions are included in the download package. [Template Manager Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/template-manager/)
+Installation and configuration are fast and easy! Installation instructions are included in the download package. [Template Manager Configuration Tutorial](/documentation/tutorials/configbeez-tutorials/template-manager/)
 
 As always, the free live helpdesk & [paid support](http://www.mailbeez.com/support/service/) are available if you need them.
 

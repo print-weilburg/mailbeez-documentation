@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'dashboard_review_o_meter'
     category: [dashboardbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -73,12 +73,12 @@ For example, if you set the percentage to 100, your widget will always be in the
 
 ## Get More Reviews With Review Advanced
 
-If you are still using the Mailbeez Review Simple module, you want want to consider an upgrade to the premium [Mailbeez Advanced module](http://www.mailbeez.com/documentation/mailbeez/review_advanced/ "Mailbeez Review Advanced Module") that offers auto login for your customers on review click through. When your customers don’t need to manually login to your store to start writing their review, you’ll not only increase your review rate, but make your customers happier as well!
+If you are still using the Mailbeez Review Simple module, you want want to consider an upgrade to the premium [Mailbeez Advanced module](/documentation/mailbeez/review_advanced/ "Mailbeez Review Advanced Module") that offers auto login for your customers on review click through. When your customers don’t need to manually login to your store to start writing their review, you’ll not only increase your review rate, but make your customers happier as well!
 
 ## You May Also Be Interested In….
 
-[Nopurchase Advanced](http://www.mailbeez.com/documentation/mailbeez/nopurchase_advanced/ "Mailbeez Nopurchase Advanced")  
-[Winback Advanced](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Mailbeez Winback Advanced")  
+[Nopurchase Advanced](/documentation/mailbeez/nopurchase_advanced/ "Mailbeez Nopurchase Advanced")  
+[Winback Advanced](/documentation/mailbeez/winback_advanced/ "Mailbeez Winback Advanced")  
 [The Essentials Bundle](http://www.mailbeez.com/download/mailbeez-essential-pack/ "Mailbeez Essentials Bundle")  
-[Run MailBeez Automatically](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/ "Run MailBeez Automatically")  
+[Run MailBeez Automatically](/documentation/configbeez/config_cron_simple/ "Run MailBeez Automatically")  
   

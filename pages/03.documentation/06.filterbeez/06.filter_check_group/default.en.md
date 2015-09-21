@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'filter_check_group'
     category: [filterbeez]
     compatiblity: [comp_zencart,comp_xtc,comp_gambio]

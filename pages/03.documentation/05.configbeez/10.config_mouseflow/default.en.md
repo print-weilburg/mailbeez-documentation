@@ -85,6 +85,6 @@ With the MailBeez Mouseflow Integration module, you can improve your MailBeez Em
 
 ## Set It & Forget It
 
-Installation and configuration are fast and easy! Installation instructions are included in the download package. [Mouseflow Integration Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/mouseflow-integration-configuration-tutorial/)
+Installation and configuration are fast and easy! Installation instructions are included in the download package. [Mouseflow Integration Configuration Tutorial](/documentation/tutorials/configbeez-tutorials/mouseflow-integration-configuration-tutorial/)
 
 [license\_2\_en]

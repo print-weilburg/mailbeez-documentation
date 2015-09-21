@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'trustpilot_advanced_ul'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -51,7 +51,7 @@ metadata:
 
 **Get most out of your Trustpilot Subscription**
 
-Automatic Feedback Service Edition: [Trustpilot Advanced](http://www.mailbeez.com/documentation/mailbeez/trustpilot_advanced/)
+Automatic Feedback Service Edition: [Trustpilot Advanced](/documentation/mailbeez/trustpilot_advanced/)
 
 **Important:** Unique Links are available only on request and for selected packages.
 
@@ -69,7 +69,7 @@ Using the MailBeez Template system you can fully customise the Invitation to you
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/assets/invalid_image.png&w=400&h=400&zc=1&q=100 "custom email layout")](https://www.mailbeez.com/images/doc/mailbeez/trustpilot_advanced_ul/en_invite.png "custom email layout")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-MailBeez supports [responsive Emails](http://www.mailbeez.com/documentation/responsive-emails/) as well!
+MailBeez supports [responsive Emails](/documentation/responsive-emails/) as well!
 
 ## multiple order status
 
@@ -87,12 +87,12 @@ Don't want to bother your regular customers with an Email to rate on Trustpilot?
 
 ## Multilingual?
 
-Sure! In combination with the module [Multilanguage Extension with Template Manager](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr_lng/) customers will receive the invitation email in their language with a link to the matching Trustpilot site!
+Sure! In combination with the module [Multilanguage Extension with Template Manager](/documentation/configbeez/config_tmplmngr_lng/) customers will receive the invitation email in their language with a link to the matching Trustpilot site!
 
 English speaking customers will receive an email written in english linking to Trustpilot.com (or trustpilot.co.uk) while spanish speaking customers will receive an invitation email written in spanish linking to the matching site es.trustpilot.com
 
 ### Want to integrated your valuable ratings with your Store and Email Marketing?
 
-Using the [Trustpilot Integration Suite](http://www.mailbeez.com/documentation/configbeez/config_trustpilot_rss_importer/) you can easily integrate your Trustpilot-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
+Using the [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/) you can easily integrate your Trustpilot-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
 V 2.5
 - initial public release

@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'filter_check_newslettersubscriber'
     category: [depreciated]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -59,4 +59,4 @@ metadata:
 
 You can configure this setting in MailBeez interface > Configuration tab > Spam Compliance > “Edit” &gt: Newsletter Subscriber Check
 
-If you need additional help configuring MailBeez, please visit the [Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)
+If you need additional help configuring MailBeez, please visit the [Configuration Tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)

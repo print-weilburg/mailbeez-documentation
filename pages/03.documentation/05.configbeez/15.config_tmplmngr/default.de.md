@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'config_tmplmngr'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -95,7 +95,7 @@ Funktionen
 - Wiederherstellungsfunktion des Standard-Templates für den Notfall
 - Vorlagen werden in der Datenbank gespeichert, somit einfaches Update der Module
 
-Der Vorlagen Manager ist voll kompatibel zum [Multilanguage Template Manager](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr_lng/ "Multilanguage Template Manager"), falls der Shop mehrsprachig werden soll.
+Der Vorlagen Manager ist voll kompatibel zum [Multilanguage Template Manager](/documentation/configbeez/config_tmplmngr_lng/ "Multilanguage Template Manager"), falls der Shop mehrsprachig werden soll.
 
 Entwicklungs Roadmap:
 

@@ -119,7 +119,7 @@ Create email campaigns for gender specific products that target customers by gen
 
 ## How Do I Edit My Email Templates?
 
-You do need to be able to customize your MailBeez templates to utilize this add on, so if you do not feel confident making these edits yourself, or feel you do not have enough experience with this, you can [get some professional MailBeez support](http://www.mailbeez.com/support/service/) or have a look at our tutorial on [Customizing MailBeez Premium Email Templates](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+You do need to be able to customize your MailBeez templates to utilize this add on, so if you do not feel confident making these edits yourself, or feel you do not have enough experience with this, you can [get some professional MailBeez support](http://www.mailbeez.com/support/service/) or have a look at our tutorial on [Customizing MailBeez Premium Email Templates](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 
 
@@ -127,7 +127,7 @@ You do need to be able to customize your MailBeez templates to utilize this add 
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.

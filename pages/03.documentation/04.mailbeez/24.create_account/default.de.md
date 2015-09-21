@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'create_account'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -56,7 +56,7 @@ Dieses Modul versendet nur auf den ersten Blick eine weitere Begrüssungsemail �
 
 **Geschlechtsspezifischen Inhalte definieren (Erweiterung)**
 
-Für Online-Shops mit gemischtem Kundenkreis (Damen/Herren) erlaubt das Erweiterungs-Module “[Geschlechtsspezifische Inhalte](http://www.mailbeez.com/documentation/filterbeez/filter_add_gender/ "Add Gender")” die Inhalte auch dieser Email differenziert nach der Kundengruppe anzupassen.
+Für Online-Shops mit gemischtem Kundenkreis (Damen/Herren) erlaubt das Erweiterungs-Module “[Geschlechtsspezifische Inhalte](/documentation/filterbeez/filter_add_gender/ "Add Gender")” die Inhalte auch dieser Email differenziert nach der Kundengruppe anzupassen.
 
 **Einfache Konfiguration**
 

@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'config_trustpilot_rss_importer'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -59,7 +59,7 @@ Basierend auf 100% anpassbaren Vorlagen können Sie z.B. 5-Sterne Bewertungen an
 
 Da die Bewertungen direkt in das HTML des Shops eingefügt werden, haben diesen einen positiven SEO Effekt – alle Bewertungen können somit von Suchmaschinen erfasst werden.
 
-Durch die nahtlose Integration mit den MailBeez Email Kampagnen können Sie auf einfachste Weise z.B. in Emails zur [Kunden Rückgewinnung](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Winback Advanced") oder auch beim [Kontakt von Kunden ohne Bestellung](http://www.mailbeez.com/documentation/mailbeez/nopurchase_advanced/ "No Purchase Advanced") Ihre positive Bewertungen herausstellen und somit das Kaufverhalten positiv beeinflussen.
+Durch die nahtlose Integration mit den MailBeez Email Kampagnen können Sie auf einfachste Weise z.B. in Emails zur [Kunden Rückgewinnung](/documentation/mailbeez/winback_advanced/ "Winback Advanced") oder auch beim [Kontakt von Kunden ohne Bestellung](/documentation/mailbeez/nopurchase_advanced/ "No Purchase Advanced") Ihre positive Bewertungen herausstellen und somit das Kaufverhalten positiv beeinflussen.
 
 Die wichtigsten Funktionen im Überblick:
 
@@ -152,7 +152,7 @@ füge z.B. am Ende ein:
 Mit dem Anlegen und Anpassen verschiedener eigener Vorlagen, z.B. “rss\_shoppingcart.tpl” für eine zufällige Bewertunge im Einkaufwagen – können die Trustpilot Bewertungen sehr flexibel eingebunden werden.
 
 **Einbindung der Trustpilot Bewertungen in MailBeez Kampagnen:**  
- Mit dem leichten Einfügen eines einfachen Platzhalters in MailBeez Vorlagen können Trustpilot Bewertungen in alle oder ausgewählten von MailBeez generierten Emails angezeigt werden. Mehr hierzu auf der Seite zum Hilfsmodule [Trustpilot Bewertungen in Emails](http://www.mailbeez.com/documentation/filterbeez/filter_add_trustpilot_rss/?lang=de "Add Trustpilot Ratings").
+ Mit dem leichten Einfügen eines einfachen Platzhalters in MailBeez Vorlagen können Trustpilot Bewertungen in alle oder ausgewählten von MailBeez generierten Emails angezeigt werden. Mehr hierzu auf der Seite zum Hilfsmodule [Trustpilot Bewertungen in Emails](/documentation/filterbeez/filter_add_trustpilot_rss/?lang=de "Add Trustpilot Ratings").
 
 [![](http://www.mailbeez.com/wp-content/uploads/2011/05/default_email_template-300x289.png "default_email_template")](http://www.mailbeez.com/wp-content/uploads/2011/05/default_email_template.png)Standard Vorlage für Email Integration
 

@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
@@ -36,4 +36,12 @@ metadata:
 #  last_modified: true
 ---
 
-Here it is, one huge list of everything we do, plus installation guides. Phew, exhausting. However, if you want to browse in a slightly more manageable way, then please check out our navigation area to the right, where you will find modules categorized by type – a handy way to find your way around the site.
+Here it is, one huge list of everything we do, plus installation guides. 
+
+Phew, exhausting. 
+
+However, if you want to browse in a slightly more manageable way, then please check out our navigation area to the left, where you will find modules categorized by type – a handy way to find your way around the site.
+
+
+
+>>>>>> The simplest way to navigate the documentation is to use the **Next** and **Previous** arrows (<i class="fa fa-chevron-left"></i> <i class="fa fa-chevron-right"></i>) on each page. You can see your progress represented by the check marks (<i class="fa fa-check"></i>) in the sidebar.

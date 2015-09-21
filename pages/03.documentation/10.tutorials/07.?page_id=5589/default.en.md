@@ -208,7 +208,7 @@ That’s it! You have just created your first set of custom theme templates, whi
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/doc/configbeez/mailbeez_pro_tmplmngr/theme_selector.png&w=175&h=107&zc=1&q=100 "Template Manager Configuration Setting - Theme Selector")](http://www.mailbeez.com/images/doc/configbeez/mailbeez_pro_tmplmngr/theme_selector.png "Template Manager Configuration Setting - Theme Selector")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom Theme templates for each language – the module will do it for you! See the “Editing Custom Theme Templates” section of the [Multilanguage Extension with Template Manager tutorial](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
+If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom Theme templates for each language – the module will do it for you! See the “Editing Custom Theme Templates” section of the [Multilanguage Extension with Template Manager tutorial](/documentation/tutorials/configbeez-tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
 
 What if you’ve already customized the existing template files? No problem! Just follow the steps above to save your customizations as a new set of custom theme template files.
 
@@ -233,7 +233,7 @@ That’s it! You have just created your first set of custom layout templates, wh
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/doc/configbeez/mailbeez_pro_tmplmngr/layout_style_selector.png&w=175&h=108&zc=1&q=100 "Winback Advanced Configuration Setting - Layout Style Selector")](http://www.mailbeez.com/images/doc/configbeez/mailbeez_pro_tmplmngr/layout_style_selector.png "Winback Advanced Configuration Setting - Layout Style Selector")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom Layout Style templates for each language – the module will do it for you! See the “Editing Custom Layout StylesTemplates” section of the [Multilanguage Extension with Template Manager](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/) tutorial.
+If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom Layout Style templates for each language – the module will do it for you! See the “Editing Custom Layout StylesTemplates” section of the [Multilanguage Extension with Template Manager](/documentation/tutorials/configbeez-tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/) tutorial.
 
 What if you’ve already customized the existing template files? No problem! Just follow the steps above to save your customizations as a new set of custom layout style template files.
 
@@ -452,8 +452,8 @@ Once you have completed your customizations, it is crucial that you keep a copy 
 
 If you are using either the Template Manager or Multilanguage Extension with Template Manager modules to customize your templates, the process for backing up your changes is more involved than just keeping a copy of the file on your hard drive. Please see the “Backing Up Your Customizations” section of the Template Manager tutorial for the module you are using:
 
-- [Template Manager](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/template-manager/)
-- [Multilanguage Extension with Template Manager](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
+- [Template Manager](/documentation/tutorials/configbeez-tutorials/template-manager/)
+- [Multilanguage Extension with Template Manager](/documentation/tutorials/configbeez-tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
 
 ## Popular Theme Customizations
 

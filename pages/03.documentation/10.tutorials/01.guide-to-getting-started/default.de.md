@@ -195,7 +195,7 @@ Wenn Sie auf den “Senden..” Button unter “Sende Test Email” klicken, dan
 
 [![](http://www.mailbeez.de/images/doc/getting_started/send_test.png "Send Test Email")](http://www.mailbeez.de/images/doc/getting_started/send_test.png "Send Test Email")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-Wenn Sie weitere Informationen zum Testen von MailBeez benötigen, wird Ihnen das Tutorial [MailBeez testen Tutorial](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-testen/) in 3 Schritte weiterhelfen
+Wenn Sie weitere Informationen zum Testen von MailBeez benötigen, wird Ihnen das Tutorial [MailBeez testen Tutorial](/dokumentation/tutorials/mailbeez-testen/) in 3 Schritte weiterhelfen
 
  
 
@@ -236,12 +236,12 @@ Egal ob Sie die Vorlagen der kostenlosen oder der Premium Module anpassen wollen
 
 
 
-- [Anpassen der Vorlagen der freien Module](http://www.mailbeez.de/dokumentation/tutorials/anpassen-mailbeez-freie-vorlagen/)
-- [Anpassen der Vorlagen von Premium Modulen](http://www.mailbeez.de/dokumentation/tutorials/anpassen-mailbeez-premium-vorlagen/)
+- [Anpassen der Vorlagen der freien Module](/dokumentation/tutorials/anpassen-mailbeez-freie-vorlagen/)
+- [Anpassen der Vorlagen von Premium Modulen](/dokumentation/tutorials/anpassen-mailbeez-premium-vorlagen/)
 
-Sie können die Vorlagen auch direkt aus der Shop Administration mit der MailBeez Vorlagen Verwaltung bearbeiten. Mit einer einfachen “Drop-in” Installation können Sie in wenigen Minuten mit der Bearbeitung starten: [mehr dazu erfahren](http://www.mailbeez.de/dokumentation/configbeez/config_tmplmngr/)
+Sie können die Vorlagen auch direkt aus der Shop Administration mit der MailBeez Vorlagen Verwaltung bearbeiten. Mit einer einfachen “Drop-in” Installation können Sie in wenigen Minuten mit der Bearbeitung starten: [mehr dazu erfahren](/dokumentation/configbeez/config_tmplmngr/)
 
-Alle Premium-Module sind automatisch ohne den MailBeez Copyright Hinweis in der Fusszeile. Wenn Sie den MailBeez Copyright Hinweis aus den freien Modulen entfernen wollen, benötigen Sie den [MailBeez Copyright Remover](http://www.mailbeez.de/dokumentation/configbeez/config_copyright_remover/)
+Alle Premium-Module sind automatisch ohne den MailBeez Copyright Hinweis in der Fusszeile. Wenn Sie den MailBeez Copyright Hinweis aus den freien Modulen entfernen wollen, benötigen Sie den [MailBeez Copyright Remover](/dokumentation/configbeez/config_copyright_remover/)
 
  
 
@@ -265,7 +265,7 @@ Klicken Sie einfach auf die Reiter, um mehr Informationen zu erhalten
 
 Von hier aus können Sie direkt auf die Module klicken und gelangen dann zur entsprechenden Seite auf MailBeez.de – praktisch!
 
-Sie finden weitere Tutorials unter [MailBeez Tutorials](http://www.mailbeez.de/dokumentation/tutorials/)
+Sie finden weitere Tutorials unter [MailBeez Tutorials](/dokumentation/tutorials/)
 
  
 
@@ -277,14 +277,14 @@ Sie finden weitere Tutorials unter [MailBeez Tutorials](http://www.mailbeez.de/d
 
 Die Konfiguration geht mit unserer Schritt-für-Schritt Anleitung schnell von der Hand! Beginnen Sie mit dem Schnelleinstieg Tutorial, um Ihr MailBeez System für das Testen vorzubereiten. Dann hilft Ihnen das ausführliche Tutorial um sicherzustellen, dass alle Einstellungen richtig sind.
 
-- [MailBeez Konfiguration einfach](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-konfiguration-einfach/)
-- [MailBeez Konfiguration ausführlich](http://www.mailbeez.de/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)
+- [MailBeez Konfiguration einfach](/dokumentation/tutorials/mailbeez-konfiguration-einfach/)
+- [MailBeez Konfiguration ausführlich](/dokumentation/tutorials/mailbeez-konfiguration-ausfuehrlich/)
 
 #### MailBeez automatisieren
 
  ![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/full_color/refresh.png)MailBeez kann rein manuell betrieben werden, als durch das tägliche Ausführen aller Module – was wohl schnell langweilig werden wird. Daher ist es besser, eine sogenannten “Cronjob” zu installieren, damit MailBeez automatisch täglich durchläuft. Wenn das Wort “Cronjob” wie der Namen einen Stadt in China klingt, dann empfiehlt sich das Modul “MailBeez automatisch ausführen”. Dieses Modul ist schnell und einfach zu installieren und eine gute Lösung für die meisten MailBeez User.
 
-- [Installieren Sie das kostengünstige Modul “MailBeez automatisch ausführen](http://www.mailbeez.de/dokumentation/configbeez/config_cron_simple/)
+- [Installieren Sie das kostengünstige Modul “MailBeez automatisch ausführen](/dokumentation/configbeez/config_cron_simple/)
 
 Einfach downloaden, installieren und die Zeit zwischen den Ausführungen auf z.B. “12″ Stunden setzen – dann wird MailBeez zweimal täglich durchlaufen und neue Emails versenden.
 
@@ -292,14 +292,14 @@ Einfach downloaden, installieren und die Zeit zwischen den Ausführungen auf z.B
 
  ![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/full_color/burn.png)Wenn Sie mit dem Testen, der Anpassung der Vorlagen, Konfigurieren fertig und mit den Ergebnissen der Simulationen zufrieden sind, können Sie vom Simulationsmodus in den Produktionsmodus wechseln. Sie sind dann bereit, Ihre erste Email Kampagne mit MailBeez zu versenden.
 
-Wenn Sie mehr zum Wechsel in den Produktionsmodus erfahren wollen, werfen Sie einen kurzen Blick auf das Tutorial [Von Simulation nach Produktion wechseln](http://www.mailbeez.de/dokumentation/tutorials/von-simulation-nach-produktion-wechseln/)
+Wenn Sie mehr zum Wechsel in den Produktionsmodus erfahren wollen, werfen Sie einen kurzen Blick auf das Tutorial [Von Simulation nach Produktion wechseln](/dokumentation/tutorials/von-simulation-nach-produktion-wechseln/)
 
 #### MailBeez aktuell halten
 
  ![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/full_color/monitor.png)MailBeez hat ein eingebautes System, um die Prüfung auf neue Versionen einfach zu machen. Hierzu gibt es zwei Möglichkeiten, die in den folgenden Tutorials kurz beschrieben werden:
 
-- [Die MailBeez Versions-Prüfung](http://www.mailbeez.de/dokumentation/tutorials/die-mailbeez-versions-pruefung/)
-- [MailBeez Modul zum Prüfen auf Updates](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/mailbeez-prufe-auf-updates/)
+- [Die MailBeez Versions-Prüfung](/dokumentation/tutorials/die-mailbeez-versions-pruefung/)
+- [MailBeez Modul zum Prüfen auf Updates](/documentation/tutorials/mailbeez-tutorials/mailbeez-prufe-auf-updates/)
 
 **Beide Module sind bereits in MailBeez enthalten.** Sie liefern das gleiche Ergebnis nur in unterschiedlicher Darstellung, es ist also Ihnen überlassen, welchen Weg Sie bevorzugen.
 
@@ -319,8 +319,8 @@ Egal ob Sie Software kaufen oder kostenlos einsetzen – nichts ist schlimmer, a
 
 weitere Tutorials finden Sie unter
 
-- [Installations Tutorials](http://www.mailbeez.de/dokumentation/installation/)
-- [Konfigurations- Tutorials](http://www.mailbeez.de/dokumentation/tutorials/)
+- [Installations Tutorials](/dokumentation/installation/)
+- [Konfigurations- Tutorials](/dokumentation/tutorials/)
  
 
 

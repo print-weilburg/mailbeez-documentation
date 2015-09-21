@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'trustpilot_advanced'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -51,7 +51,7 @@ metadata:
 
 **Get most out of your Trustpilot Subscription**
 
-Trustpilot Unique Link Edition: [Trustpilot Advanced Unique Link Edition](http://www.mailbeez.com/documentation/mailbeez/trustpilot_advanced_ul/)
+Trustpilot Unique Link Edition: [Trustpilot Advanced Unique Link Edition](/documentation/mailbeez/trustpilot_advanced_ul/)
 
 # Advanced Features
 
@@ -73,6 +73,6 @@ Don't want to bother your regular customers with an Email to rate on Trustpilot?
 
 ### Want to integrated your valuable ratings with your Store and Email Marketing?
 
-Using the [Trustpilot Integration Suite](http://www.mailbeez.com/documentation/configbeez/config_trustpilot_rss_importer/) you can easily integrate your Trustpilot-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
+Using the [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/) you can easily integrate your Trustpilot-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
 V 2.0
 - initial public release

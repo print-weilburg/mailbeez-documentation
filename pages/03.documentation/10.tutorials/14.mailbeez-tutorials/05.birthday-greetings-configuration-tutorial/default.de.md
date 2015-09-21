@@ -42,7 +42,7 @@ Die hier verwendeten Screenshots wurden mit ZenCart erstellt. Auf anderen Shop-S
 
 Diese kostenlose MailBeez Email Marketing Modul wird automatisiert Geburtstags Glückwünsche an Ihre Kunden versenden. Dieser Anlass wird Ihren Kunden an den Einkauf bei Ihnen erinnern und gibt Ihnen gleichzeitig die Möglichkeit, sich bei Ihren Kunden zu bedanken und sie wertzuschätzen – und das ohne Belastung Ihres Marketing Budgets!
 
-Wenn Sie den nächsten Schritt tun wollen, dann können Sie ein Geburtstags-Geschenk in Form eines personalisierten Gutscheines versenden – dies ermöglicht das Modul [Gutschein zum Geburtstag](http://www.mailbeez.de/dokumentation/mailbeez/coupon_birthday/) – es funktioniert!
+Wenn Sie den nächsten Schritt tun wollen, dann können Sie ein Geburtstags-Geschenk in Form eines personalisierten Gutscheines versenden – dies ermöglicht das Modul [Gutschein zum Geburtstag](/dokumentation/mailbeez/coupon_birthday/) – es funktioniert!
 
 ## Los geht’s
 
@@ -102,7 +102,7 @@ Dies 5 Buttons erlauben es, das Modul zu testen und auszuführen:
 **Email Templates – “HTML” Button**  
  Mit Hilfe dieses Buttons kann die Vorlage der Email im HTML Format angesehen werden. Hilfreich für eine schnelle Prüfung, auch bei manuellen Anpassungen ohne Vorlagen Verwaltung kann hier schnell das Ergebnis eingesehen werden.
 
-**Wenn Sie bereit sind, die Vorlagen anzupassen, hilft dieses Tutorial weiter: [Anpassen der Vorlagen der freien Module](http://www.mailbeez.de/dokumentation/tutorials/anpassen-mailbeez-freie-vorlagen/)**
+**Wenn Sie bereit sind, die Vorlagen anzupassen, hilft dieses Tutorial weiter: [Anpassen der Vorlagen der freien Module](/dokumentation/tutorials/anpassen-mailbeez-freie-vorlagen/)**
 
 **Email Templates – “TXT” Button**  
  Mit Hilfe dieses Buttons kann die Vorlage der Email im text Format angesehen werden – wichtig für Empfänger, die das Text-Format gewählt haben oder deren Email-Programm nur das Text-Format anzeigen kann. Hilfreich für eine schnelle Prüfung, auch bei manuellen Anpassungen ohne Vorlagen Verwaltung kann hier schnell das Ergebnis eingesehen werden.
@@ -122,11 +122,11 @@ Dies 5 Buttons erlauben es, das Modul zu testen und auszuführen:
 
 MailBeez automatisieren? Es gibt zwei Optionen:
 
-**1. [Cronjob einrichten](http://www.mailbeez.de/dokumentation/installation/config/advanced-configuration/)
-2. [das kostengünstige und einfach zu installierende Modul “MailBeez automatisch ausführen”](http://www.mailbeez.de/dokumentation/configbeez/config_cron_simple/)
+**1. [Cronjob einrichten](/dokumentation/installation/config/advanced-configuration/)
+2. [das kostengünstige und einfach zu installierende Modul “MailBeez automatisch ausführen”](/dokumentation/configbeez/config_cron_simple/)
 **
 Ohne eine dieser Möglichkeiten wird MailBeez nur dann Emails versenden, wenn Sie manuell den “Ausführen…” Button jedes Modules klicken. Das “MailBeez automatisch ausführen” Modul ist für die meisten Benutzer die mit Abstand einfachste Möglichkeit.
 
 ## Vorlagen Verwaltung
 
-MailBeez hat ein praktisches Modul entwickelt, mit dem Sie schnell und einfach die Email-Vorlagen direkt aus dem MailBeez System heraus bearbeiten können. Es funktioniert mit allen offiziellen MailBeez Modulen (frei, premium oder Sonder-Entwicklungen) – so einfach, dass man es nicht wieder vermissen möchte! **[ Mehr erfahren!](http://www.mailbeez.de/dokumentation/configbeez/config_tmplmngr/)**
+MailBeez hat ein praktisches Modul entwickelt, mit dem Sie schnell und einfach die Email-Vorlagen direkt aus dem MailBeez System heraus bearbeiten können. Es funktioniert mit allen offiziellen MailBeez Modulen (frei, premium oder Sonder-Entwicklungen) – so einfach, dass man es nicht wieder vermissen möchte! **[ Mehr erfahren!](/dokumentation/configbeez/config_tmplmngr/)**

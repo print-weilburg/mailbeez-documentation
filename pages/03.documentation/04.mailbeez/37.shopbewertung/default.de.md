@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'shopbewertung'
     category: [depreciated]
     compatiblity: [comp_osc,comp_cre,comp_zencart,comp_xtc,comp_gambio]
@@ -49,4 +49,4 @@ metadata:
 #  last_modified: true
 ---
 
-Diese Modul ist durch [Bitte zur Shopbewertung](http://www.mailbeez.de/dokumentation/mailbeez/shoprating/ "Shopbewertung") ersetzt worden.
+Diese Modul ist durch [Bitte zur Shopbewertung](/dokumentation/mailbeez/shoprating/ "Shopbewertung") ersetzt worden.

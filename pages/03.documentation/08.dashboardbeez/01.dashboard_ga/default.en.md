@@ -44,7 +44,7 @@ Delivered with the MailBeez v2.6+ framework, the Google-Analytics-O-Pie is a pow
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/doc/ga_dash_config/ga_dash_widget.png&w=270&h=116&zc=1&q=100 "Google Analytics-O-Pie")](http://www.mailbeez.com/images/doc/ga_dash_config/ga_dash_widget.png "Google Analytics-O-Pie")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-Need help setting it up? No problem! We provide you with a step-by-step tutorial, complete with screenshots, to assist you. [Visit the tutorial](http://www.mailbeez.com/documentation/tutorials/google-analytics-dashboard-widget-tutorial/)
+Need help setting it up? No problem! We provide you with a step-by-step tutorial, complete with screenshots, to assist you. [Visit the tutorial](/documentation/tutorials/google-analytics-dashboard-widget-tutorial/)
 
  
 

@@ -50,4 +50,4 @@ and see the results displayed right there in the widget:
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/doc/getting_started/version_check.png&w=270&h=183&zc=1&q=100 "Version Check Results Widget")](http://www.mailbeez.com/images/doc/getting_started/version_check.png "Version Check Results Widget")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-Very cool! Need more information? Visit the [Version Check tutorial](http://www.mailbeez.com/documentation/tutorials/using-the-mailbeez-version-check-widget/)
+Very cool! Need more information? Visit the [Version Check tutorial](/documentation/tutorials/using-the-mailbeez-version-check-widget/)

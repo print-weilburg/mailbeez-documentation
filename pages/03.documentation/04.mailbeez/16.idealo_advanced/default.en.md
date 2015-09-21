@@ -56,4 +56,4 @@ the emails are shown perfectly also on mobile deviced
 
 ### Want to integrated your valuable ratings with your Store and Email Marketing?
 
-Using the [Idealo Integration Suite](http://www.mailbeez.com/documentation/configbeez/config_idealo_rss_importer/) you can easily integrate your Idealo-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
+Using the [Idealo Integration Suite](/documentation/configbeez/config_idealo_rss_importer/) you can easily integrate your Idealo-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!

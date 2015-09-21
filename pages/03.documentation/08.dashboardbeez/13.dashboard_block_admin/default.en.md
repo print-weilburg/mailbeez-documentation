@@ -38,10 +38,10 @@ metadata:
 
 ## About This Widget
 
-Delivered with the [Advanced Opt-Out with Admin module,](http://www.mailbeez.com/documentation/configbeez/config_block_admin/) this widget lets you manually assign opt-out/opt-in status for your customers right from your dashboard!
+Delivered with the [Advanced Opt-Out with Admin module,](/documentation/configbeez/config_block_admin/) this widget lets you manually assign opt-out/opt-in status for your customers right from your dashboard!
 
 This is useful if a customer accidentally clicks an opt-out link and needs to opt back in.
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/doc/configbeez/config_block_admin/widget_install5.png&w=270&h=94&zc=1&q=100 "Customer Opt-Out Admin Widget")](http://www.mailbeez.com/images/doc/configbeez/config_block_admin/widget_install5.png "Customer Opt-Out Admin Widget")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-Need help configuring or using the widget? Check out the [Advanced Opt-Out with Admin Configuration tutorial](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/advanced-opt-out-with-admin-configuration-tutorial/)
+Need help configuring or using the widget? Check out the [Advanced Opt-Out with Admin Configuration tutorial](/documentation/tutorials/configbeez-tutorials/advanced-opt-out-with-admin-configuration-tutorial/)

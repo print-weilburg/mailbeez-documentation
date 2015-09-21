@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: [core]
-download:
+module:
     code: 'config_shopvoting'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -51,7 +51,7 @@ metadata:
 
 this module is developed by [www.web4design.de](http://www.web4design.de/) in close cooperation with MailBeez.
 
- [Go to manual](http://www.web4design.de/module_infos/english/shopreviews/index.php) Plays well together with [Shopvoting Invitation Advanced](http://www.mailbeez.com/documentation/mailbeez/shoprating_advanced/) module with auto-login, frequent-buyer recognition and more pro features
+ [Go to manual](http://www.web4design.de/module_infos/english/shopreviews/index.php) Plays well together with [Shopvoting Invitation Advanced](/documentation/mailbeez/shoprating_advanced/) module with auto-login, frequent-buyer recognition and more pro features
 
 ## customers reviews - self hosted
 
@@ -61,7 +61,7 @@ With a nicely designed widget you can display the reviews in your shopping cart.
 
 The design and layout is comparable to hosted solutions, but you have full control on your ratings - and all for free.
 
-The module hooks into the [BeezDesk CRM Customer Insight](http://www.mailbeez.com/documentation/configbeez/config_customer_insight/) so you will the notifications for new shopvotings. Also you are able to see shop voting for the customer you currently work on.
+The module hooks into the [BeezDesk CRM Customer Insight](/documentation/configbeez/config_customer_insight/) so you will the notifications for new shopvotings. Also you are able to see shop voting for the customer you currently work on.
 
 **following screenshots of the module:**
 
@@ -79,8 +79,8 @@ The new MailBeez Shopvoting Module allows your customers to rate your store and 
 
 However not everyone likes the idea of not having control on the ratings, sharing customer data and getting locked into a monthly fee. That’s why we teamed up with **[www.web4design.de](http://www.web4design.de/)**, who has developed a beautiful and great working for self-hosted store ratings already helping 1000's of online stores to increase conversion.
 
- [visit Module page](http://www.mailbeez.com/documentation/configbeez/config_shopvoting/) **Store ratings or product reviews? Both!**   
-Store ratings and [product reviews](http://www.mailbeez.com/documentation/mailbeez/review_advanced/) are complementary, so you can use them both in your store.
+ [visit Module page](/documentation/configbeez/config_shopvoting/) **Store ratings or product reviews? Both!**   
+Store ratings and [product reviews](/documentation/mailbeez/review_advanced/) are complementary, so you can use them both in your store.
 
 We recommend to ask your customers for a store rating short after delivery and e.g. 30 days later for a review of their purchased products. **Two natural points of contact** which improve your **customer interaction** and **brand recognition** - and will increase your revenue!
 
@@ -96,9 +96,9 @@ Clicking on the badge opens a professional designed page showing details about t
 
 ### Get serious - go advanced
 
-While the free module already works great, professional stores will go for the MailBeez Premium add-on "[Shopvoting Invitation Advanced](http://www.mailbeez.com/documentation/mailbeez/shoprating_advanced/)" which provides a range of advanced features like **auto-login** and **recognition of regular customers** which will generate up to twice as many ratings. And you can even **integrate real-time ratings in any MailBeez-generated Email** by placing a simple template tag
+While the free module already works great, professional stores will go for the MailBeez Premium add-on "[Shopvoting Invitation Advanced](/documentation/mailbeez/shoprating_advanced/)" which provides a range of advanced features like **auto-login** and **recognition of regular customers** which will generate up to twice as many ratings. And you can even **integrate real-time ratings in any MailBeez-generated Email** by placing a simple template tag
 
- [go to Pro-Module](http://www.mailbeez.com/documentation/mailbeez/shoprating_advanced/) Shopratings in MailBeez Emails
+ [go to Pro-Module](/documentation/mailbeez/shoprating_advanced/) Shopratings in MailBeez Emails
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/en_shoprating_advanced_integration.png&w=250&h=350&zc=1&q=100 "Shopratings in MailBeez Emails")](http://www.mailbeez.com/images/en_shoprating_advanced_integration.png "Shopratings in MailBeez Emails")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
@@ -106,11 +106,11 @@ While the free module already works great, professional stores will go for the M
 
 [![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/en_shoprating_notification.png&w=600&h=400&zc=1&q=100 "notifications")](http://www.mailbeez.com/images/en_shoprating_notification.png "notifications")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
 
-Just install the free [BeezDesk CRM Customer Insight](http://www.mailbeez.com/documentation/configbeez/config_customer_insight/) and integrate it into your Store Admin panel by adding a single code-line and you will get **notified about new customer ratings**, see the current rating summary and have **direct access to the configuration panel** of the MailBeez Shopvoting Module!
+Just install the free [BeezDesk CRM Customer Insight](/documentation/configbeez/config_customer_insight/) and integrate it into your Store Admin panel by adding a single code-line and you will get **notified about new customer ratings**, see the current rating summary and have **direct access to the configuration panel** of the MailBeez Shopvoting Module!
 
 Great! and free!
 
- [get free BeezDesk CRM Customer Insight](http://www.mailbeez.com/documentation/configbeez/config_customer_insight/)
+ [get free BeezDesk CRM Customer Insight](/documentation/configbeez/config_customer_insight/)
 V3.33
 - insert a missing language constant "RECEIVED_SHOPREVIEW"
 

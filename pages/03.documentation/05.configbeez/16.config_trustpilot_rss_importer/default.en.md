@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'config_trustpilot_rss_importer'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -89,7 +89,7 @@ The included DIV/CSS based template “rss\_reviewpage.tpl” generates a defaul
 
 **Integrate Ratings into MailBeez campaigns:**
 
-By adding a simple tag into your MailBeez template you can also show your ratings in all or selected MailBeez generated emails. Please read more about this on the Filterbeez module page [Add Trustpilot Rating](http://www.mailbeez.com/documentation/filterbeez/filter_add_trustpilot_rss/ "Add Trustpilot Ratings").
+By adding a simple tag into your MailBeez template you can also show your ratings in all or selected MailBeez generated emails. Please read more about this on the Filterbeez module page [Add Trustpilot Rating](/documentation/filterbeez/filter_add_trustpilot_rss/ "Add Trustpilot Ratings").
 
 [license\_1]
 

@@ -64,7 +64,7 @@ Select how many Orders a customer must have place before the module invites for 
 
 ### Want to integrated your valuable ratings with your Store and Email Marketing?
 
-Using the [Shopper Approved Integration Suite](http://www.mailbeez.com/documentation/configbeez/config_shopperapproved_integration/) you can easily integrate your Reviews with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
+Using the [Shopper Approved Integration Suite](/documentation/configbeez/config_shopperapproved_integration/) you can easily integrate your Reviews with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
 
 # Different Ways to invite - adoptable to your needs!
 

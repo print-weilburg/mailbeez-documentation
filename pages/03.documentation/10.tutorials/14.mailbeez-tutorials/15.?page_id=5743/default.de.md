@@ -148,7 +148,7 @@ The default settings of 2 Days Without Purchase and 10 Days to Look Back work to
 **Days Coupon is Valid**  
  This setting allows you define the number of days the coupon will be valid. After these number of days pass, the coupon will expire. By default, it is set to 14 days, but you may change it if you wish.
 
-**Consider adding the [Coupon Expiry Reminder](http://www.mailbeez.com/documentation/mailbeez/coupon_expire/) module to your MailBeez installation to increase the conversion rate of coupon emails and thereby generate more sales! Powerful!**
+**Consider adding the [Coupon Expiry Reminder](/documentation/mailbeez/coupon_expire/) module to your MailBeez installation to increase the conversion rate of coupon emails and thereby generate more sales! Powerful!**
 
 **Length of Coupon Code**  
  This setting allows you to define the length of the coupon code that MailBeez will generate. By default it is set to 8 characters. You may change it if you wish, keeping in mind that the longer the code, the more character combinations are possible. If you make this code too short, you could limit the number of available character combinations, thereby limiting the number of unique coupon codes that MailBeez can generate.
@@ -174,7 +174,7 @@ Once you’ve completed your configurations, click the “Update” button.
 Whatever you enter here will display next to the First Nopurchase email cycle option on the MailBeez Modules tab, so you can always see, at a glance, what your setting is. Handy!
 
 **Coupon Template – First Nopurchase Email**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
 ### Configure the Second Nopurchase Email Cycle
 
@@ -189,7 +189,7 @@ Whatever you enter here will display next to the First Nopurchase email cycle op
 Whatever you enter here will display next to the Second Nopurchase email cycle option on the MailBeez Modules tab, so you can always see, at a glance, what your setting is. Handy!
 
 **Coupon Template – Second Nopurchase Email**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
 ### Configure the Third Nopurchase Email Cycle
 
@@ -204,7 +204,7 @@ Whatever you enter here will display next to the Second Nopurchase email cycle o
 Whatever you enter here will display next to the Third Nopurchase email cycle option on the MailBeez Modules tab, so you can always see, at a glance, what your setting is. Handy!
 
 **Coupon Template – Third Nopurchase Email**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
 ### Configure the Nopurchase Loop Email Cycle
 
@@ -222,7 +222,7 @@ Whatever you enter here will display next to the Third Nopurchase email cycle op
 Whatever you enter for these two settings will display next to the Nopurchase Email Loop email cycle option on the MailBeez Modules tab, so you can always see, at a glance, what your settings are. Handy!
 
 **Coupon Template – Loop**  
- This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
+ This setting allows you to assign a coupon template to this email cycle option using the dropdown box which will be visible once you create at least one coupon template. Until then, you will only see a link that takes you to your store’s coupon administration area . Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return here to assign a template to this email cycle.
 
  
 
@@ -325,7 +325,7 @@ Configuration of the Nopurchase Advanced module is now complete!
 
 ## Create & Assign Coupon Templates
 
-Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](http://www.mailbeez.com/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return to the module to assign a coupon template to each email cycle using the drop down box in each email cycle’s configuration panel (see the section of the tutorial on configuring email cycles).
+Once you’ve finished configuring the module, create your coupon templates using our [**Coupon Template Tutorial**](/documentation/tutorials/coupon-template-tutorial/) as a guide, and then return to the module to assign a coupon template to each email cycle using the drop down box in each email cycle’s configuration panel (see the section of the tutorial on configuring email cycles).
 
 Once you’ve done that, it’s time to test & run some simulations.
 
@@ -348,7 +348,7 @@ The 5 function buttons are the controls that allow you to preview your email tem
 
 As you modify your template files, you can come back and use this button to view your changes to ensure that they are appearing as you intend.
 
-**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
+**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
 
 To view a different set of template files, go to the module’s configuration panel, click “Edit”, change your Layout Style selection, click “Update”, and return here to view them.
 
@@ -366,7 +366,7 @@ To view a different set of template files, go to the module’s configuration pa
 
 It even tells you in the text above the button which mode you’re in. This prevents you from accidentally sending emails out to customers when you’re testing.
 
-**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](http://www.mailbeez.com/documentation/tutorials/testing-mailbeez)**
+**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](/documentation/tutorials/testing-mailbeez)**
 
 
 
@@ -374,11 +374,11 @@ It even tells you in the text above the button which mode you’re in. This prev
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.
 
 ## Template Manager
 
-Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/)**
+Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](/documentation/configbeez/config_tmplmngr/)**

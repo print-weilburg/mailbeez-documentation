@@ -183,7 +183,7 @@ When MailBeez is first installed, there won’t be a pie chart displayed by this
 1. This will bring up the Birthday Greetings module configuration panel.
 2. Go to “Activate Module”, click “True”, & click “Update” to turn the module on.
 
-The remaining configuration settings are fine for testing purposes. If you need help changing them later, please visit the [Birthday Greetings Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/birthday-greetings-configuration-tutorial/)
+The remaining configuration settings are fine for testing purposes. If you need help changing them later, please visit the [Birthday Greetings Configuration Tutorial](/documentation/tutorials/mailbeez-tutorials/birthday-greetings-configuration-tutorial/)
 
 1. Preview the email templates to get an idea of what the default email templates look like:
 
@@ -199,7 +199,7 @@ When you click on the send button, you will get a popup screen in which you’ll
 
 ZenCart: It is a good idea to send a test email to an email address which is configured to receive email in HTML format, and send a second test email to an email address which is configured to receive email in TXT only format. This way, you can see what your customers will see whether they are receiving mail in HTML or TXT format. This process ensures both your HTML and TXT format emails look sharp & professional.
 
-When you’re ready to take your MailBeez email modules through the quick & easy 3 step testing process, check out the step-by-step instructions in the [Testing MailBeez tutorial](http://www.mailbeez.com/documentation/tutorials/testing-mailbeez/)
+When you’re ready to take your MailBeez email modules through the quick & easy 3 step testing process, check out the step-by-step instructions in the [Testing MailBeez tutorial](/documentation/tutorials/testing-mailbeez/)
 
 
 
@@ -243,12 +243,12 @@ Whether you are using MailBeez free email templates or MailBeez premium email te
 
 
 
-- [Customizing Free Email Templates](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/)
-- [Customizing Premium Email Templates.](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+- [Customizing Free Email Templates](/documentation/tutorials/customizing-mailbeez-free-email-templates/)
+- [Customizing Premium Email Templates.](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
-Edit your templates right from your shop admin with the MailBeez Template Manager. A simple drop-in Installation means you can begin editing template files from your admin in minutes! [Visit the module now](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/)
+Edit your templates right from your shop admin with the MailBeez Template Manager. A simple drop-in Installation means you can begin editing template files from your admin in minutes! [Visit the module now](/documentation/configbeez/config_tmplmngr/)
 
-All premium email module templates come packaged without the MailBeez Copyright Notice so you can truly brand the emails these modules generate. If you would like to have the additional footer containing the MailBeez Copyright Notice removed from the free email module templates, you may do so by either upgrading the free module to the premium version, or by purchasing the [MailBeez Copyright Remover Certificate](http://www.mailbeez.com/documentation/configbeez/config_copyright_remover/)
+All premium email module templates come packaged without the MailBeez Copyright Notice so you can truly brand the emails these modules generate. If you would like to have the additional footer containing the MailBeez Copyright Notice removed from the free email module templates, you may do so by either upgrading the free module to the premium version, or by purchasing the [MailBeez Copyright Remover Certificate](/documentation/configbeez/config_copyright_remover/)
 
 
 
@@ -274,7 +274,7 @@ Clicking on any tab displaying blue indicators will result in being taken into t
 
 From here, you can click on the modules that interest you to be taken right to the module’s documentation page where you can read more about it, download it if it’s a free module, or click the purchase link if it’s a premium module. Handy!
 
-MailBeez is in the process of creating step-by-step configuration tutorials for all of our modules, both premium & free, so you can download with confidence! Check back often – the tutorials page is updated as tutorials become available. [MailBeez Modules Configuration Tutorials](http://www.mailbeez.com/documentation/tutorials/)
+MailBeez is in the process of creating step-by-step configuration tutorials for all of our modules, both premium & free, so you can download with confidence! Check back often – the tutorials page is updated as tutorials become available. [MailBeez Modules Configuration Tutorials](/documentation/tutorials/)
 
 
 
@@ -286,14 +286,14 @@ MailBeez is in the process of creating step-by-step configuration tutorials for 
 
 Configuration is easy with our step-by-step configuration tutorials! Begin with the Quick Start Configuration Tutorial to prepare your MailBeez installation for testing. When you’ve completed testing and are ready to go live, use our Comprehensive Configuration Tutorial to ensure all of your settings are as you want them before you switch over to Production Mode.
 
-- [Quick Start Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)
-- [Comprehensive Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)
+- [Quick Start Configuration Tutorial](/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)
+- [Comprehensive Configuration Tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)
 
 #### Run MailBeez Automatically
 
  ![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/full_color/refresh.png)MailBeez can be run daily by processing of each MailBeez module manually – which might become quite time consuming. Therefore it is much better to set up a cronjob to run Mailbeez each day, allowing you to truly ‘set and forget’ Mailbeez once it is installed. If you don’t want to spend hours learning how to set up a Cronjob, then the “Run MailBeez Automatically” module is perhaps the ideal solution for most stores to automate MailBeez.
 
-- [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+- [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 
 To get started, first download the module, follow the easy installation instructions and set “time between running MailBeez (hours)” to “12″. Now your MailBeez will be processed twice a day, catching the optimum amount of customers for each active module!
 
@@ -301,14 +301,14 @@ To get started, first download the module, follow the easy installation instruct
 
  ![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/full_color/burn.png)Once you have completed testing, email template customization, and a complete configuration of your installation, you will be ready to switch from Simulation Mode to Production Mode and begin sending your first email campaign! This can be done in the Configuration tab in the MailBeez interface.
 
-When you’re ready to move into Production Mode, take a quick walk through this very easy process with the [Switching From Simulation to Production tutorial](http://www.mailbeez.com/documentation/tutorials/switching-from-simulation-to-production/)
+When you’re ready to move into Production Mode, take a quick walk through this very easy process with the [Switching From Simulation to Production tutorial](/documentation/tutorials/switching-from-simulation-to-production/)
 
 #### Keep MailBeez Up to Date
 
  ![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/full_color/monitor.png)Keeping MailBeez up to date and functioning properly couldn’t get any easier! There are two options available for keeping the MailBeez framework and your modules up to date, and each of them has a step-by-step tutorial to guide you through this very easy process:
 
-- [The MailBeez Version Check widget on the MailBeez Dashboard](http://www.mailbeez.com/documentation/tutorials/using-the-mailbeez-version-check-widget/)
-- [The MailBeez Check for Updates email module](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/mailbeez-check-for-updates-configuration-tutorial/)
+- [The MailBeez Version Check widget on the MailBeez Dashboard](/documentation/tutorials/using-the-mailbeez-version-check-widget/)
+- [The MailBeez Check for Updates email module](/documentation/tutorials/mailbeez-tutorials/mailbeez-check-for-updates-configuration-tutorial/)
 
 **Both the widget and the module are free and are included in your MailBeez installation.** You get the same information regardless of the method used, so it’s simply a matter of personal preference and business need.
 
@@ -330,20 +330,20 @@ Whether you purchase software or get it for free, there’s nothing more annoyin
 
 A number of tutorials are referenced throughout the Guide to Getting Started. We’ve compiled them into a handy list for you so you can find them all in one place:
 
-- [Installation Tutorials](http://www.mailbeez.com/documentation/installation/)
-- [Quick Start Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)
-- [Comprehensive Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)
-- [Customizing Free Email Templates](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/)
-- [Customizing Premium Email Templates.](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
-- [Testing MailBeez](http://www.mailbeez.com/documentation/tutorials/testing-mailbeez/)
-- [Switching From Simulation to Production tutorial](http://www.mailbeez.com/documentation/tutorials/switching-from-simulation-to-production/)
-- [The MailBeez Version Check widget on the MailBeez Dashboard](http://www.mailbeez.com/documentation/tutorials/using-the-mailbeez-version-check-widget/)
-- [The MailBeez Check for Updates email module](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/mailbeez-check-for-updates-configuration-tutorial/)
+- [Installation Tutorials](/documentation/installation/)
+- [Quick Start Configuration Tutorial](/documentation/tutorials/mailbeez-quick-start-configuration-tutorial/)
+- [Comprehensive Configuration Tutorial](/documentation/tutorials/mailbeez-comprehensive-configuration-tutorial/)
+- [Customizing Free Email Templates](/documentation/tutorials/customizing-mailbeez-free-email-templates/)
+- [Customizing Premium Email Templates.](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+- [Testing MailBeez](/documentation/tutorials/testing-mailbeez/)
+- [Switching From Simulation to Production tutorial](/documentation/tutorials/switching-from-simulation-to-production/)
+- [The MailBeez Version Check widget on the MailBeez Dashboard](/documentation/tutorials/using-the-mailbeez-version-check-widget/)
+- [The MailBeez Check for Updates email module](/documentation/tutorials/mailbeez-tutorials/mailbeez-check-for-updates-configuration-tutorial/)
 - [Download MailBeez Modules](http://www.mailbeez.com/download/)
 
 #### Step-by-Step Module Configuration Tutorials
 
-MailBeez is in the process of creating step-by-step configuration tutorials for all of our modules, both premium & free, so you can download with confidence! Check back often – the tutorials page is updated as tutorials become available. [MailBeez Modules Configuration Tutorials](http://www.mailbeez.com/documentation/tutorials/)
+MailBeez is in the process of creating step-by-step configuration tutorials for all of our modules, both premium & free, so you can download with confidence! Check back often – the tutorials page is updated as tutorials become available. [MailBeez Modules Configuration Tutorials](/documentation/tutorials/)
 
 #### Support Forums & FAQ
 

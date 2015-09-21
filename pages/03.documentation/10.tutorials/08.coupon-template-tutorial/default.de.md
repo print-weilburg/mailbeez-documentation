@@ -265,14 +265,14 @@ There’s even a module to remind your customers when their coupons are getting 
 
 Take a look at the list below to see everything MailBeez can help you do with coupons.
 
-- [**Birthday Greetings Coupon -**](http://www.mailbeez.com/documentation/mailbeez/coupon_birthday/) Build customer loyalty by remembering them on their special day with a personalized coupon!
-- [**Coupon Expiry Reminder -**](http://www.mailbeez.com/documentation/mailbeez/coupon_expire/) Increase conversion of coupon emails by reminding customers when their coupons are about to expire!
-- [**MailBeez ReferralHoney -**](http://www.mailbeez.com/documentation/mailbeez/coupon_referral_honey/) Harness the power of social marketing by inviting your customers to refer you to their friends & then reward them when their friends buy!
-- [**Nopurchase Advanced -**](http://www.mailbeez.com/documentation/mailbeez/nopurchase_advanced/) Draw in customers who have never made a purchase by offering them coupons they can’t say no to!
-- [**Reorder Advanced with Coupons -**](http://www.mailbeez.com/documentation/mailbeez/reorder_advanced/) Tempt your customers to become repeat customers by enticing them with coupons!
-- [**Review Reward Coupon -**](http://www.mailbeez.com/documentation/mailbeez/coupon_review/) Reward your customers for writing product reviews in your store!
-- [**Send Coupon Campaign -**](http://www.mailbeez.com/documentation/mailbeez/coupon_campaign/) Create & manage specific coupon campaigns – perfect for holiday, special occasion, or seasonal campaigns!
-- [**Winback Advanced -**](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/) Don’t forget about those old, inactive customers – tempt them back to your store using a multi-step coupon campaign until they just can’t say no!
+- [**Birthday Greetings Coupon -**](/documentation/mailbeez/coupon_birthday/) Build customer loyalty by remembering them on their special day with a personalized coupon!
+- [**Coupon Expiry Reminder -**](/documentation/mailbeez/coupon_expire/) Increase conversion of coupon emails by reminding customers when their coupons are about to expire!
+- [**MailBeez ReferralHoney -**](/documentation/mailbeez/coupon_referral_honey/) Harness the power of social marketing by inviting your customers to refer you to their friends & then reward them when their friends buy!
+- [**Nopurchase Advanced -**](/documentation/mailbeez/nopurchase_advanced/) Draw in customers who have never made a purchase by offering them coupons they can’t say no to!
+- [**Reorder Advanced with Coupons -**](/documentation/mailbeez/reorder_advanced/) Tempt your customers to become repeat customers by enticing them with coupons!
+- [**Review Reward Coupon -**](/documentation/mailbeez/coupon_review/) Reward your customers for writing product reviews in your store!
+- [**Send Coupon Campaign -**](/documentation/mailbeez/coupon_campaign/) Create & manage specific coupon campaigns – perfect for holiday, special occasion, or seasonal campaigns!
+- [**Winback Advanced -**](/documentation/mailbeez/winback_advanced/) Don’t forget about those old, inactive customers – tempt them back to your store using a multi-step coupon campaign until they just can’t say no!
 
 
 
@@ -280,11 +280,11 @@ Take a look at the list below to see everything MailBeez can help you do with co
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.
 
 ## Template Manager
 
-Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/)**
+Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](/documentation/configbeez/config_tmplmngr/)**

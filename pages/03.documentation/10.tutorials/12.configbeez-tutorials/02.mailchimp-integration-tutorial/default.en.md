@@ -323,4 +323,4 @@ Now that you’ve got your MailChimp account and test lists all set up over at M
 - Step 2: Test MailChimp Integration
 - Step 3: Take MailChimp Integration Live
 
-[Step 1: Configure MailChimp Integration](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/mailchimp-integration-tutorial/configure-mailchimp-integration/)
+[Step 1: Configure MailChimp Integration](/documentation/tutorials/configbeez-tutorials/mailchimp-integration-tutorial/configure-mailchimp-integration/)

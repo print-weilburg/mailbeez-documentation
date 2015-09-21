@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'config_cron_simple'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -63,7 +63,7 @@ Thanks to time stamp based caching technology, the additional load added to your
 
 ## Set It & Forget It
 
-Installation and configuration are fast and easy! Installation instructions are included in the download package. [Run MailBeez Automatically Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/run-mailbeez-automatically-configuration-tutorial/)  
+Installation and configuration are fast and easy! Installation instructions are included in the download package. [Run MailBeez Automatically Configuration Tutorial](/documentation/tutorials/configbeez-tutorials/run-mailbeez-automatically-configuration-tutorial/)  
     
  [license\_2\_en]  
   

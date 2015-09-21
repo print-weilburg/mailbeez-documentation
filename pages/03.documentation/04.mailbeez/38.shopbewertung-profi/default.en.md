@@ -36,4 +36,4 @@ metadata:
 #  last_modified: true
 ---
 
-This module has been replace by [Shoprating Invitation advanced](http://www.mailbeez.com/documentation/mailbeez/shoprating_advanced/).
+This module has been replace by [Shoprating Invitation advanced](/documentation/mailbeez/shoprating_advanced/).

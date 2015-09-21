@@ -113,4 +113,4 @@ Select which email engine you’d like to use to send out your MailBeez generate
 
 Now that you’ve completed the configuration, it’s time to do some testing! It is extremely important to conduct testing before taking the module live because once the module is live, newsletters and email campaigns will be sent to real customers and of course you want to prevent mistakes from ending up in your customer inboxes.
 
-[Step 2: Test MailChimp Integration](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/mailchimp-integration-tutorial/test-mailchimp-integration/)
+[Step 2: Test MailChimp Integration](/documentation/tutorials/configbeez-tutorials/mailchimp-integration-tutorial/test-mailchimp-integration/)

@@ -59,12 +59,12 @@ For example, if you set the percentage to 100, your widget will always be in the
 
 ## Get More Repeat Business With Winback Advanced
 
-If you are still using the Mailbeez Winback Simple module, you want want to consider an upgrade to the premium [Winback Advanced](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/ "Mailbeez Winback Advanced") module, which offers coupons to customers, tempting them back to your store!
+If you are still using the Mailbeez Winback Simple module, you want want to consider an upgrade to the premium [Winback Advanced](/documentation/mailbeez/winback_advanced/ "Mailbeez Winback Advanced") module, which offers coupons to customers, tempting them back to your store!
 
 ## You May Also Be Interested In….
 
-[Review Advanced](http://www.mailbeez.com/documentation/mailbeez/review_advanced/ "Mailbeez Review Advanced")  
-[Nopurchase Advanced](http://www.mailbeez.com/documentation/mailbeez/nopurchase_advanced/ "Mailbeez Nopurchase Advanced")  
+[Review Advanced](/documentation/mailbeez/review_advanced/ "Mailbeez Review Advanced")  
+[Nopurchase Advanced](/documentation/mailbeez/nopurchase_advanced/ "Mailbeez Nopurchase Advanced")  
 [The Essentials Bundle](http://www.mailbeez.com/download/mailbeez-essential-pack/ "Mailbeez Essentials Bundle")  
-[Run MailBeez Automatically](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/ "Run MailBeez Automatically")  
+[Run MailBeez Automatically](/documentation/configbeez/config_cron_simple/ "Run MailBeez Automatically")  
   

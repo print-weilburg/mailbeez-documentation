@@ -83,4 +83,4 @@ visual editor tags protected from editing:
     [[/if]]
 
 
-Installation and configuration are fast and easy! Installation instructions are included in the download package. [Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/filterbeez-tutorials/extended-customer-information-configuration-tutorial/) for this module.
+Installation and configuration are fast and easy! Installation instructions are included in the download package. [Configuration Tutorial](/documentation/tutorials/filterbeez-tutorials/extended-customer-information-configuration-tutorial/) for this module.

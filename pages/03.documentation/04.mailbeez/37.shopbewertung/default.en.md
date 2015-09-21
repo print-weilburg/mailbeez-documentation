@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'shopbewertung'
     category: [depreciated]
     compatiblity: [comp_osc,comp_cre,comp_zencart,comp_xtc,comp_gambio]
@@ -49,4 +49,4 @@ metadata:
 #  last_modified: true
 ---
 
-This module has been replace by [Shopvote invite](http://www.mailbeez.com/documentation/mailbeez/shoprating/ "Shopvote invite").
+This module has been replace by [Shopvote invite](/documentation/mailbeez/shoprating/ "Shopvote invite").

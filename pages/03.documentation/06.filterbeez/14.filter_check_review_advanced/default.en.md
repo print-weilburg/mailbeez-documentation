@@ -38,7 +38,7 @@ metadata:
 
 ## Don’t Duplicate Your Emails
 
-Delivered with the [Review Reminder Advanced with Autologin](http://www.mailbeez.com/documentation/mailbeez/review_advanced/) module, this filter checks for customers who have blocked or already received Review Reminder emails from the Review Reminder Simple module before sending out emails when the Review Reminder Advanced module is run.
+Delivered with the [Review Reminder Advanced with Autologin](/documentation/mailbeez/review_advanced/) module, this filter checks for customers who have blocked or already received Review Reminder emails from the Review Reminder Simple module before sending out emails when the Review Reminder Advanced module is run.
 
 If you were running the Simple version of the module prior to installing the Advanced version, this filter ensures that customers won’t receive the same email twice (once from each version), or at all if they have opted-out.
 

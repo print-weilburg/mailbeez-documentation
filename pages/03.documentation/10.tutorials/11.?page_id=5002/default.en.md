@@ -44,7 +44,7 @@ The screenshots used in this tutorial were made using Zen Cart. If you use a dif
 
 Keeping MailBeez up to date and functioning properly couldn’t get any easier! There are two options available for keeping the MailBeez framework and your modules up to date: the MailBeez Check for Updates email module, and the MailBeez Version Check widget.
 
-This tutorial will focus on using the MailBeez Version Check widget on your MailBeez Dashboard. Alternatively, you may wish to use the [MailBeez Check for Updates email module](http://www.mailbeez.com/documentation/tutorials/mailbeez-tutorials/mailbeez-check-for-updates-configuration-tutorial/)
+This tutorial will focus on using the MailBeez Version Check widget on your MailBeez Dashboard. Alternatively, you may wish to use the [MailBeez Check for Updates email module](/documentation/tutorials/mailbeez-tutorials/mailbeez-check-for-updates-configuration-tutorial/)
 
  
 

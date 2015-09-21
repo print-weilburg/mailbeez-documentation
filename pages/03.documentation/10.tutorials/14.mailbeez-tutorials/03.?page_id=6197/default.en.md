@@ -102,7 +102,7 @@ The default settings tell MailBeez, “Search my database for all customers who 
 **Limit Number of Emails per Run**  
  The first time you run this module, all of your customers meeting the Minimum Balance Amount criteria will receive a Balance Reminder email. Since most web hosts place limits on how many emails you can send out per hour, you will need to check with your hosting company to find out if this is true for you. If it is, you will need to place a limit on how many emails this module sends per hour.
 
-There are two ways to do this. You can either add the [Simple Throttling module](http://www.mailbeez.com/documentation/filterbeez/filter_do_throttling_simple/) to your MailBeez installation, or you can use this setting to define how many emails this module should send per hour, based on your web host limitations. Then, you will need to run this module every hour until all of the emails have been sent.
+There are two ways to do this. You can either add the [Simple Throttling module](/documentation/filterbeez/filter_do_throttling_simple/) to your MailBeez installation, or you can use this setting to define how many emails this module should send per hour, based on your web host limitations. Then, you will need to run this module every hour until all of the emails have been sent.
 
 By default, this setting is 100, but again you should check with your web host and configure this setting accordingly.
 
@@ -115,7 +115,7 @@ By default, this setting is 100, but again you should check with your web host a
 **Layout**  
  This setting allows you to choose which layout style template set you want to assign & use for this module.
 
-Since the Numinix Store Credit Balance Reminder module does not include additional templates, the only option displayed here is “Default” until such a time as you create your own custom templates. For help creating your own custom templates, check out our [Customizing Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+Since the Numinix Store Credit Balance Reminder module does not include additional templates, the only option displayed here is “Default” until such a time as you create your own custom templates. For help creating your own custom templates, check out our [Customizing Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 **Sort Order of Display**  
  This setting allows you to change the sort order of this module to move it higher or lower on the list of modules in the MailBeez Modules tab.
@@ -172,7 +172,7 @@ The 5 function buttons are the controls that allow you to preview your email tem
 
 As you modify your template files, you can come back and use this button to view your changes to ensure that they are appearing as you intend.
 
-**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
+**When you’re ready to customize your email templates, have a look at our [Customizing Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
 
 To view a different set of template files, go to the module’s configuration panel, click “Edit”, change your Layout Style selection, click “Update”, and return here to view them.
 
@@ -190,7 +190,7 @@ To view a different set of template files, go to the module’s configuration pa
 
 It even tells you in the text above the button which mode you’re in. This prevents you from accidentally sending emails out to customers when you’re testing.
 
-**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](http://www.mailbeez.com/documentation/tutorials/testing-mailbeez)**
+**If you need further assistance understanding how to run simulations and send test emails, have a look at our [Testing MailBeez tutorial](/documentation/tutorials/testing-mailbeez)**
 
 
 
@@ -198,11 +198,11 @@ It even tells you in the text above the button which mode you’re in. This prev
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.
 
 ## Template Manager
 
-Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/)**
+Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official MailBeez Modules (free, premium, and custom built), the MailBeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it! **[ Learn more!](/documentation/configbeez/config_tmplmngr/)**

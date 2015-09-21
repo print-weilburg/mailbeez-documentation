@@ -101,7 +101,7 @@ For this reason, we have separated these processes into two different sections w
 
 This is because Template Manager is designed to protect the integrity of the original templates that come pre-installed with MailBeez and your Premium MailBeez modules. If a template gets broken during editing, this allows you to restore the originals and start over. This functionality also comes in to play when you switch between templates, so if you don’t have custom templates set up, edits you make to the original files will be lost.
 
-**An overview of theme templates vs. layout style templates, as well as step-by-step instructions for creating custom templates & backing up your customizations can be found in the [Customizing MailBeez Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
+**An overview of theme templates vs. layout style templates, as well as step-by-step instructions for creating custom templates & backing up your customizations can be found in the [Customizing MailBeez Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)**
 
 ### Editing Custom Theme Templates
 
@@ -147,7 +147,7 @@ In the TXT template editor, you can customize text, add or remove template varia
 
 As you make your changes, click the green “Update” button in the upper left corner to save them. Once those changes are saved, you can use the buttons on the right to preview your changes, send a test email, or restore the original template content.
 
-Need examples for how to customize your new theme templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+Need examples for how to customize your new theme templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 ### Editing Custom Layout Style Templates
 
@@ -216,7 +216,7 @@ Again, staying with the custom layout style “myfriendly” within the Review R
 - Edit the html and text sub-templates
 - Click Update
 
-Need examples for how to customize your new layout style templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
+Need examples for how to customize your new layout style templates? Have a look at the [Customizing MailBeez Premium Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-premium-email-templates/)
 
 ## Backing Up Your Customizations
 
@@ -272,7 +272,7 @@ You will need to repeat this process for all of your customized layout style tem
 
 **Before you begin using Template Manager to edit your free email templates, you must create a backup of the original templates that came pre-installed with the free email modules so you can restore the templates if you break something during customization.**
 
-**An overview of global vs.individual module customizations, as well as step-by-step instructions for creating custom templates, customizing the html code in the templates, & backing up your customizations can be found in the [Customizing MailBeez Free Email Templates tutorial](http://www.mailbeez.com/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
+**An overview of global vs.individual module customizations, as well as step-by-step instructions for creating custom templates, customizing the html code in the templates, & backing up your customizations can be found in the [Customizing MailBeez Free Email Templates tutorial](/documentation/tutorials/customizing-mailbeez-free-email-templates/)**
 
 ### Editing the Common Main Templates
 
@@ -355,7 +355,7 @@ For these reasons, **it is necessary to copy your customizations to your custom 
 
 If you want MailBeez to run automatically, you have two options:
 
-**1. [Set up a cronjob](http://www.mailbeez.com/documentation/installation/config/advanced-configuration/)
-2. [Install the simple and affordable Run MailBeez Automatically module](http://www.mailbeez.com/documentation/configbeez/config_cron_simple/)
+**1. [Set up a cronjob](/documentation/installation/config/advanced-configuration/)
+2. [Install the simple and affordable Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 **
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for most users the easiest option.

@@ -49,8 +49,8 @@ The module easily allows you to configure how often the balance statement will b
 
 **Included**
 
-The [Numinix Store Credit Display Balance](http://www.mailbeez.com/documentation/filterbeez/filter_add_numinix_sc_balance/ "Numinix Store Credit: Display Balance") Filterbeez Module – allows you to display the current Balance in any MailBeez generated Email !
+The [Numinix Store Credit Display Balance](/documentation/filterbeez/filter_add_numinix_sc_balance/ "Numinix Store Credit: Display Balance") Filterbeez Module – allows you to display the current Balance in any MailBeez generated Email !
 
 **Like this? You might also like…**
 
-[Numinix Store Credit: Review Rewards](http://www.mailbeez.com/documentation/mailbeez/numinix_sc_review_reward/ "Numinix Store Credit: Review Rewards")
+[Numinix Store Credit: Review Rewards](/documentation/mailbeez/numinix_sc_review_reward/ "Numinix Store Credit: Review Rewards")

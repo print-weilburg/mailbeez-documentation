@@ -46,4 +46,4 @@ MailBeez nutzt die bestehenden Daten Ihres Online-Shops mit Lese-Zugriff und ver
 
 Also, los gehts!
 
-Mehr dazu auf: [Der MailBeez Schnelleinstieg](http://www.mailbeez.com/documentation/tutorials/guide-to-getting-started/ "Guide to Getting Started")
+Mehr dazu auf: [Der MailBeez Schnelleinstieg](/documentation/tutorials/guide-to-getting-started/ "Guide to Getting Started")

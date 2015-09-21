@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'config_bouncehive_advanced'
     category: [configbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
@@ -80,7 +80,7 @@ The bounces are stored using the customers’ email and the customers’ id. Bot
 
 ## Set It & Forget It
 
-Installation and configuration are fast and easy! Installation instructions are included in the download package. [Bounce Handling Configuration Tutorial](http://www.mailbeez.com/documentation/tutorials/configbeez-tutorials/bouncehive-bounce-handling-configuration-tutorial/)  
+Installation and configuration are fast and easy! Installation instructions are included in the download package. [Bounce Handling Configuration Tutorial](/documentation/tutorials/configbeez-tutorials/bouncehive-bounce-handling-configuration-tutorial/)  
     
  [license\_2\_en]  
   

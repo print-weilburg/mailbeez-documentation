@@ -18,7 +18,7 @@ taxonomy:
     migration_status: review
     category: [docs]
     tag: []
-download:
+module:
     code: 'zc_testimonials'
     category: [mailbeez]
     compatiblity: []

@@ -154,7 +154,7 @@ Just remember to keep a copy of both your original and customized files on your 
 
 What if you’ve already customized the original template files? No problem! Just follow the steps above using the files from your original download package or, if you no longer have it, download it again from [the download section](http://www.mailbeez.com/download/)
 
-If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom Global templates for each language – the module will do it for you! See the “Using the Multilanguage Template Manager With Free Email Templates” section of the [Multilanguage Extension with Template Manager tutorial](http://www.mailbeez.com/documentation/tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
+If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom Global templates for each language – the module will do it for you! See the “Using the Multilanguage Template Manager With Free Email Templates” section of the [Multilanguage Extension with Template Manager tutorial](/documentation/tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
 
 ### Custom Individual Module Templates
 
@@ -181,7 +181,7 @@ Just remember to keep a copy of both your original and customized files on your 
 
 What if you’ve already customized the original template files? No problem! Just follow the steps above using the files from your original download package or, if you no longer have it, download it again from [the download section](http://www.mailbeez.com/download/)
 
-If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom individual module templates for each language – the module will do it for you! See the “Using the Multilanguage Template Manager With Free Email Templates” section of the [Multilanguage Extension with Template Manager tutorial](http://www.mailbeez.com/documentation/tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
+If you are creating multilingual emails with the Multilanguage Extension with Template Manager module, there is no need to create Custom individual module templates for each language – the module will do it for you! See the “Using the Multilanguage Template Manager With Free Email Templates” section of the [Multilanguage Extension with Template Manager tutorial](/documentation/tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
 
 ## Backing Up Your Customizations
 
@@ -193,8 +193,8 @@ Keeping a back up copy ensures you will be able to easily restore your customiza
 
 If you are using either the Template Manager or Multilanguage Extension with Template Manager modules to customize your templates, the process for backing up your changes is more involved than just keeping a copy of the file on your hard drive. Please see the “Backing Up Your Customizations” section of the Template Manager tutorial for the module you are using:
 
-- [Template Manager](http://www.mailbeez.com/documentation/tutorials/template-manager/)
-- [Multilanguage Extension with Template Manager](http://www.mailbeez.com/documentation/tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
+- [Template Manager](/documentation/tutorials/template-manager/)
+- [Multilanguage Extension with Template Manager](/documentation/tutorials/multilanguage-extension-with-template-manager-configuration-tutorial/)
 
 ## Global Template Customizations
 
@@ -219,7 +219,7 @@ Changing out the email header image is as easy as can be! Just follow these simp
 
 Navigate to catalog/mailhive/common/templates/email\_html.tpl and edit it with your preferred text editor. Yes, it’s that easy!
 
-If you would like to have the MailBeez Copyright Notice removed from the free email templates, you may do so by either upgrading the free module to the premium version, or by purchasing the [MailBeez Copyright Remover Certificate](http://www.mailbeez.com/documentation/configbeez/config_copyright_remover/)
+If you would like to have the MailBeez Copyright Notice removed from the free email templates, you may do so by either upgrading the free module to the premium version, or by purchasing the [MailBeez Copyright Remover Certificate](/documentation/configbeez/config_copyright_remover/)
 
 ### Capitalize the Customer Name
 
@@ -347,8 +347,8 @@ Looking at it this way, it is easy to see the impact your Zen Cart default email
 
 Customizing MailBeez email templates is fairly easy to begin with. All it takes is a **little** knowledge of basic HTML and some testing. But if you want to make it even easier, MailBeez offers a variety of ways to accomplish this:
 
-- [Template Manager](http://www.mailbeez.com/documentation/configbeez/config_tmplmngr/) – Edit email templates right from the admin!
-- [Add Gender](http://www.mailbeez.com/documentation/filterbeez/filter_add_gender/) – Customize email based on gender!
-- [Extended Customer Information](http://www.mailbeez.com/documentation/filterbeez/filter_add_customer_information/) – Personalized customer emails!
+- [Template Manager](/documentation/configbeez/config_tmplmngr/) – Edit email templates right from the admin!
+- [Add Gender](/documentation/filterbeez/filter_add_gender/) – Customize email based on gender!
+- [Extended Customer Information](/documentation/filterbeez/filter_add_customer_information/) – Personalized customer emails!
 - [MailBeez Professional Services](http://www.mailbeez.com/support/service/) – Hire a MailBeez Pro to do it for you!
 - [Upgrade Your Free Email Modules](http://www.mailbeez.com/download/) – Premium email modules come with a variety of professionally designed templates!

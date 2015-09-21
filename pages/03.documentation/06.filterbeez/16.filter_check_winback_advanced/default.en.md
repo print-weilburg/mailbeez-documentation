@@ -38,7 +38,7 @@ metadata:
 
 ## Don’t Duplicate Your Emails
 
-Delivered with the [Winback Advanced](http://www.mailbeez.com/documentation/mailbeez/winback_advanced/) module, this filter checks for customers who have blocked or already received Winback emails from the Winback Simple module before sending out emails when the Winback Advanced module is run.
+Delivered with the [Winback Advanced](/documentation/mailbeez/winback_advanced/) module, this filter checks for customers who have blocked or already received Winback emails from the Winback Simple module before sending out emails when the Winback Advanced module is run.
 
 If you were running the Simple version of the module prior to installing the Advanced version, this filter ensures that customers won’t receive the same email twice (once from each version), or at all if they have opted-out.
 

@@ -49,6 +49,6 @@ The Numinix Store Credit Review Rewards module will automatically assign and ema
 
 **Like this? You might also like…**
 
-[Numinix Store Credit: Balance Reminder](http://www.mailbeez.com/documentation/mailbeez/numinix_sc_balance_reminder/ "Numinix Store Credit: Balance Reminder BETA")
+[Numinix Store Credit: Balance Reminder](/documentation/mailbeez/numinix_sc_balance_reminder/ "Numinix Store Credit: Balance Reminder BETA")
 
  

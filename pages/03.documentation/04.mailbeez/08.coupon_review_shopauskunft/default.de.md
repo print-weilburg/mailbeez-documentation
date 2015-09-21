@@ -17,8 +17,8 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: []
-download:
+    tag: [pro,coupon]
+module:
     code: 'coupon_review_shopauskunft'
     category: [mailbeez]
     compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
@@ -49,7 +49,7 @@ metadata:
 #  last_modified: true
 ---
 
-Dieses Modul erfordert die [Mailbeez Shopauskunft Integration Suite ](http://www.mailbeez.de/dokumentation/configbeez/config_shopauskunft_integration/ "Mailbeez Shopauskunft Integration Suite").
+Dieses Modul erfordert die [Mailbeez Shopauskunft Integration Suite ](/dokumentation/configbeez/config_shopauskunft_integration/ "Mailbeez Shopauskunft Integration Suite").
 
 **Bedanken Sie sich beim Kunden für das Abgeben von Bewertungen auf Shopauskunft**
 
