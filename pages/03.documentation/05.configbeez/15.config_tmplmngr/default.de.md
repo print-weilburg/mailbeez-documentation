@@ -2,6 +2,9 @@
 # http://learn.getgrav.org/content/headers
 title: Responsive Vorlagen Verwaltung
 slug: config_tmplmngr
+routes:
+    aliases:
+        - /dokumentation/mailbeez/config_tmplmngr
 # menu: Responsive Vorlagen Verwaltung
 date: 30-06-2011
 published: true

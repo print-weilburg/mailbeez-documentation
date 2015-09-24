@@ -108,3 +108,5 @@ aufrufen.
 
 Hierdurch werden die erforderlichen Admin-Rechten für den HAUPT-Admin vergeben.
 Falls erforderlich dann Zugriffs-Rechte im Admin System für weitere Admin-user vergeben
+
+[plugin:content-inject](/content_blocks/run_installer)

@@ -3,7 +3,7 @@
 title: Installation
 slug: installation
 routes:
-  default: /dokumentation/installation
+  default: /documentation/installation
 # menu: Installation
 date: 21-05-2010
 published: true

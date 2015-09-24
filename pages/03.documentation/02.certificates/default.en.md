@@ -2,6 +2,7 @@
 # http://learn.getgrav.org/content/headers
 title: Certificates
 slug: certificates
+visible: false
 # menu: Certificates
 date: 08-10-2011
 published: true

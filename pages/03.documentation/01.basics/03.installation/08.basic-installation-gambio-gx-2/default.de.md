@@ -202,3 +202,6 @@ Hierdurch werden die erforderlichen Admin-Rechten für den HAUPT-Admin vergeben.
 Nach einem erneuten Login und leeren des Seiten-Caches wird MailBeez im Abschnitt "Zusatzmodule" erscheinen.
 
 Falls erforderlich dann Zugriffs-Rechte im Gambio-Admin System für weitere Admin-user vergeben
+
+
+[plugin:content-inject](/content_blocks/run_installer)

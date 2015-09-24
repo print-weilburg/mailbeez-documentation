@@ -15,11 +15,22 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
-# added collection selector
-
+    tag: [pro]
+module:
+    code: 'idealo_advanced'
+    category: [mailbeez]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2013/06/top_64.png'
+    pro: 'pro'
+    cert: 'true'
+    price: '99 EUR'
+    title_en: 'Idealo Advanced'
+    teaser_en: 'Advanced Features: Delay for international orders, multiple Order status, recognition of regular customers'
+    title_de: 'Idealo Profi'
+    teaser_de: 'Profi-Features: Verzögerung für internationale Bestellungen, Stammkunden-Erkennung und mehr'
+    author: 'MailBeez.com'    
 author:
     name: admin
 metadata:
@@ -40,7 +51,7 @@ metadata:
 
 # Advanced Features
 
-compared to the free, basic module to ask your customers for a rating on Idealo, this advanced module gives you a couple of settings to streamline and improve your process of inviting customers to give a rating on Idealo:
+this advanced module gives you a couple of settings to streamline and improve your process of inviting customers to give a rating on Idealo:
 
 ## multiple order status
 

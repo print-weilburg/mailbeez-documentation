@@ -4,10 +4,6 @@ taxonomy:
     category: docs
 ---
 
-Text about MailBeez
-
-## What makes MailBeez different
-
 MailBeez is a modular system for the implementation of fully automated after sale email campaigns. Typically installed within 5-15 minutes following some very easy steps, you can be sending out your first emails in no time! For further reading, take a look at the [Installation Manual](/documentation/installation/)
 
 **Here are some examples of what Mailbeez can do:**
@@ -21,13 +17,25 @@ MailBeez is a modular system for the implementation of fully automated after sal
 
 Mailbeez sits within your store’s existing admin area in its own separate section. From the Mailbeez dashboard, you can track which emails have been sent, and see how your product review and winback emails are working out!
 
-![A typical Mailbeez dashboard, sat right within your store's admin area!](http://www.mailbeez.com/wp-content/uploads/2010/05/mailbeezdash.png "A typical Mailbeez dashboard, sat right within your store's admin area!")A typical Mailbeez dashboard, sat right within your store's admin area!
 
+## Seamless integrated with your Store System
+
+The tight, seamless integration of Mailbeez allows the system to access all available data and use these for meaningful actions and reports:
  
+ ![MailBeez Admin](../Screen_Gambio_GX2_Administration.en.png)
+
 
 ## Feature list
 
 Whilst Mailbeez is a feature rich solution right out of the box, like any software, it is under constant development, with new features being added all the time. If you have the time, then please support us with feedback and suggestions.
+
+
+**Easy adoption of your email templates**
+  
+MailBeez generates Emails based on filebased templates which you can customize. There is a global main template defining header and footer content and content templates for each module.
+
+[plugin:content-inject](/content_blocks/pro_template_manager)
+
 
 
 **Overview**

@@ -94,3 +94,4 @@ this will add the menu-entry “MailBeez” to your Email-Menu item.
 Feel free to place this link whereever you want.
 
 
+[plugin:content-inject](/content_blocks/run_installer)

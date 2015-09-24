@@ -25,6 +25,14 @@ taxonomy:
 Das ist nur eine kleine Auswahl, tatsächlich kann das System noch viel mehr. Zur automatischen Ausführung von MailBeez ist eine URL per Cronjob aufzurufen. Zur Sicherheit hat jeder Shop eine eigene, sichere URL.
  
 
+## Voll mit dem Shopsystem integriert
+
+MailBeez bettet sich nahtlos in die Shop-Administration ein - dadurch hat MailBeez Zugriff auf alle im Shop vorhandenen Daten und kann diese jederzeit auswerten:
+
+
+![MailBeez Admin](../Screen_Gambio_GX2_Administration.de.png)
+ 
+
 ## Funktionsumfang
 
 **Simulation**  
@@ -32,6 +40,8 @@ Das ist nur eine kleine Auswahl, tatsächlich kann das System noch viel mehr. Zu
 
 **Einfache Anpassung der eMails**  
  Alle Inhalte der eMails werden aus textbasierten Vorlagen (HTML & TXT) generiert, deren Inhalte sind leicht anpassbar. Es gibt eine globale Rahmen-Vorlage mit Kopf- und Fussbereich und moduleigene Inhaltsvorlagen.
+ 
+[plugin:content-inject](/content_blocks/pro_template_manager)
 
 **Versandprotokoll, Google Analytics Integration, Opt-Out**  
  MailBeez als “Aftersales Trigger Email Campaigns” Plattform übernimmt alle lästigen Aufgaben wie zum Beispiel die Protokollierung (welcher Kunde hat welche Email erhalten), Google Analytics Integration (URL Rewrite), Opt-Out (Kunden können austragen) und weitere gemeinsamen Funktionen.

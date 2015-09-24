@@ -15,9 +15,23 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
+    
+module:
+    code: 'idealo_advanced'
+    category: [mailbeez]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2013/06/top_64.png'
+    pro: 'pro'
+    cert: 'true'
+    price: '99 EUR'
+    title_en: 'Idealo Advanced'
+    teaser_en: 'Advanced Features: Delay for international orders, multiple Order status, recognition of regular customers'
+    title_de: 'Idealo Profi'
+    teaser_de: 'Profi-Features: Verzögerung für internationale Bestellungen, Stammkunden-Erkennung und mehr'
+    author: 'MailBeez.com'    
 # added collection selector
 
 author:
@@ -40,7 +54,7 @@ metadata:
 
 # Profi-Funktionen
 
-Im Vergleich zum kostenfreien Idealo Modul, erlaubt die Profi-Version die Optimierung des Ablaufes zur Bewertungs-Aufforderung:
+Die Profi-Version optimiert den Ablaufes zur Bewertungs-Aufforderung:
 
 ## Mehrere Bestell Status
 

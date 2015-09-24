@@ -118,7 +118,7 @@ Falls erforderlich dann Zugriffs-Rechte im Gambio-Admin System für weitere Admi
 
 
 
-
+[plugin:content-inject](/content_blocks/run_installer)
 
 
 

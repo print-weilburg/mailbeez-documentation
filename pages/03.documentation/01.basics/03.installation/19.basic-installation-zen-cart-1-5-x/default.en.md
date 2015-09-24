@@ -87,3 +87,4 @@ If would like MailBeez to use its own template system to generate MailBeez email
 
 This code change tells Zen Cart to check if the content contains a valid html tag, and if not, applies the Zen Cart template system.
 
+[plugin:content-inject](/content_blocks/run_installer)

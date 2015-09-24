@@ -104,3 +104,6 @@ run
 
 this will add the required permission for MailBeez for the primary admin account.
 If necessary add admin permission for MailBeez for secondary admin accounts as well
+
+
+[plugin:content-inject](/content_blocks/run_installer)

@@ -85,3 +85,5 @@ the B2B version of CRE Loaded supports admin rights. After copying the files int
 
 Now you find the Menu item “MailBeez” under “Marketing” in the admin menu
 
+
+[plugin:content-inject](/content_blocks/run_installer)

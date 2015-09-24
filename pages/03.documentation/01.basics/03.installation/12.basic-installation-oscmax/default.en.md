@@ -139,3 +139,6 @@ Administrator > Member Groups
 4. Check mailbeez.php in section “Tools”
 
 repeat for any group you would like to give access to MailBeez
+
+
+[plugin:content-inject](/content_blocks/run_installer)

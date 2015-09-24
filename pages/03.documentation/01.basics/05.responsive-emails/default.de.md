@@ -57,7 +57,7 @@ Responsive Emails passen sich der Bildschirmgrösse an. Auf einem PC sehen sie w
 
 Mit einem intuitiven, visuellen Editor ausgestattet, der bereits beim Erstellen der Email eine Vorschau in verschiedenen mobilen Endgeräten liefert, war es wohl nie zuvor so einfach, gut aussehende, responsive Emails zu erstellen!
 
-Erweitern Sie jetzt Ihr MailBeez System mit der MailBeez responsive Vorlagen Verwaltung und Sie können sofort Email-Vorlagen erstellen, die hervorragend auf den mobilen Endgeräten Ihrer Kunden dargestellt werden! [Mehr Informationen zur MailBeez Responsive Vorlagen Verwaltung](http://www.mailbeez.com/dokumentation/mailbeez/config_tmplmngr)
+Erweitern Sie jetzt Ihr MailBeez System mit der MailBeez responsive Vorlagen Verwaltung und Sie können sofort Email-Vorlagen erstellen, die hervorragend auf den mobilen Endgeräten Ihrer Kunden dargestellt werden! [Mehr Informationen zur MailBeez Responsive Vorlagen Verwaltung](/dokumentation/mailbeez/config_tmplmngr)
 
 
 ### Mobile Endgeräte, welche responsive Emails unterstützen

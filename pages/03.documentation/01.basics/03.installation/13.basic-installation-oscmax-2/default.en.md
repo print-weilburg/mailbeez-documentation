@@ -138,3 +138,4 @@ Administrator > Member Groups
 
 repeat for any group you would like to give access to MailBeez
 
+[plugin:content-inject](/content_blocks/run_installer)

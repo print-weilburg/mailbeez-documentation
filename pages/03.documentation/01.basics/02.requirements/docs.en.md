@@ -8,6 +8,11 @@ MailBeez has intentionally been designed with few requirements and you can easil
 
 It maintains it's own tables and was developed not to interfer with other addons.
 
+### Shop-System
+
+MailBeez supports a range of store systems based on osCommerce and its forks like Zencart. Please visit
+[MailBeez Installation](/documentation/installation) to see if your Store System is compatible with MailBeez.
+
 
 
 ### PHP Requirements

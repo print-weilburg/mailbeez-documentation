@@ -8,6 +8,12 @@ taxonomy:
 MailBeez wurde von Grund auf so entwickelt, dass nur wenige Voraussetzungen für die Installation und den Betrieb erfüllt werden müssen. Es ist leicht zu installieren, verwaltet eigene Tabellen und sollte sich mit allen anderen Erweiterungen vertragen.
 
 
+### Shop-System
+
+MailBeez ist derzeit für eine Reihe von Shop-Systemen verfügbar, welche auf osCommerce bzw. xt:commerce basieren. Auf der Seite 
+[MailBeez Installation](/dokumentation/installation) finden Sie alle unterstützen Systeme.
+
+
 
 ### PHP Voraussetzungen
 
