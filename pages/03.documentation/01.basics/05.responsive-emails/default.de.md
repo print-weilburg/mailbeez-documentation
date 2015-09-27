@@ -39,7 +39,7 @@ metadata:
 ---
 
 Responsive Webseiten liegen hoch im Trend, aber wie sieht es mit responsive Emails aus?
- ![](http://www.mailbeez.com/images/responsive.png "platform_logos_top_2012") 
+{{ page.find('/images').media['responsive.png'].html }}
 
 ##Was sind responsive Emails?  
 

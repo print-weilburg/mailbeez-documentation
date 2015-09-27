@@ -18,7 +18,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -62,51 +62,19 @@ Dieses Modul gibt Ihnen ein automatisierbares Werkzeug, um neue Kunden mit Kunde
 - Bieten Sie den potentiellen Kunden mit jedem Schritt einen höherwertigeren Gutschein.
 - Optional können Sie prüfen, ob der Kunde Produkte im Warenkorb hat und nur Kunde mit leerem Warenkorb kontaktieren.
 
-**Email Vorlage für die Inbox**
 
-Professionelle, ansprechend gestaltete Emails sind der beste Weg um die Inbox des Kunden zu erreichen. Hier hilft das Modul mit einer Reihe professionel gestalteter Vorlagen.
-
-Es ist natürlich auch möglich, eigene Vorlage anzulegen – diese stehen auch automatisch in der Vorlagen-Auswahl zur Verfügung.
-
-###### [Gutscheine](#)
-
- **Wirkungsvolle Kampagnen zur Kundengewinnung**  
- Das Modul generiert voll konfigurierbare, personalisierte Gutscheine. Dies ist wichtig, um ein Gefühl der Dringlichkeit hervorzurufen aber auch, um den Kunden automatisch einige Tage vor Ablauf der Gültigkeit mit dem Modul [Gutschein: Ablauf Erinnerung](/dokumentation/mailbeez/coupon_expire/ "Coupon: Send Coupon Expiry Reminder")) zu informieren.
-
- 
-
- 
-
-###### [Leistungsfähiges Vorlagensystem – mit höchster Flexiblität](#)
-
-Die Email Vorlagen dieses Modules basieren auf einem leistungsfähigen Template System, welches über eine grosse Auswahl an Vorlagen-Variablen und Funktionen eine optimale Anpassbarkeit ermöglicht. So werden z.B. custom Image-Path ermöglicht.
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
 
+#### Weitere Starke Vorteile
 
- 
+**Wirkungsvolle Kampagnen zur Kundengewinnung**
 
- 
+[plugin:content-inject](/content_blocks/pro_coupon)
 
-###### [Make Hello, Hola – vorbereitet für Internationalisierung](#)
+[plugin:content-inject](/content_blocks/pro_common_advantage)
 
-Das Kunden ohne Kauf Profi Modul eignet sich auch für internationale Online Shops, mit der [Erweiterung für Mehrsprachigkeit](/documentation/configbeez/config_tmplmngr_lng/ "Multilanguage Template Manager") können alle Email Inhalte (auch Gutscheine!) in beliebig vielen Sprachen verschickt werden!
 
- 
+#### Ergebnisse beobachten und Optimieren
 
- 
-
- 
-
-###### [Einfaches Testen mit Simulations-Gutscheinen](#)
-
- Im Simulations Module generiert das Modul “echte” Gutscheine, mit den das gesamte System getestet werden kann. Diese Simulations Gutscheine können später dann per Mouseclick entfernt werden. 
-
- 
-
- 
-V2.3
-- general improvements
-- mailchimp ready
-
-V2.21
-- compatibility with MailBeez V2.7
+MailBeez kommt bereits mit einigen schönen Widgets, eines davon ist ist Nopurchase-O-Meter, welches auf einen Blick verrät, wieviele der kontaktierten Noch-Nicht-Kunden nach dieser Kontakt-Email eine Bestellung getätigt haben. Optimieren Sie Ihre Emails (Text, Gutscheine) anhand dieser Daten.

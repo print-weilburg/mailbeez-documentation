@@ -15,11 +15,23 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: []
 # added collection selector
-
+module:
+    code: 'shopperapproved_advanced'
+    category: [mailbeez]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2013/06/top_64.png'
+    pro: 'pro'
+    cert: 'true'
+    price: '99 EUR'
+    title_en: 'Shopper Approved Advanced'
+    teaser_en: 'Advanced Features: Delay for international orders, multiple Order status, recognition of regular customers'
+    title_de: 'Idealo Profi'
+    teaser_de: 'Profi-Features: Verzögerung für internationale Bestellungen, Stammkunden-Erkennung und mehr'
+    author: 'MailBeez.com'    
 author:
     name: admin
 metadata:
@@ -36,4 +48,5 @@ metadata:
 #  last_modified: true
 ---
 
-
+Diese Modul ist nur relevant für Online-Shops aus dem englisch-sprachigem Raum. Daher ist die Dokumentation nur in englisher Sprache verfügbar: 
+ [Shopper Approved Advanced EN](/en/documentation/mailbeez/shopperapproved_advanced)

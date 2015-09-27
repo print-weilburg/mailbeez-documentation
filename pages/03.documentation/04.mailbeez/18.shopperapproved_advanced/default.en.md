@@ -15,11 +15,23 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 # added collection selector
-
+module:
+    code: 'shopperapproved_advanced'
+    category: [mailbeez]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2013/06/top_64.png'
+    pro: 'pro'
+    cert: 'true'
+    price: '99 EUR'
+    title_en: 'Shopper Approved Advanced'
+    teaser_en: 'Advanced Features: Delay for international orders, multiple Order status, recognition of regular customers'
+    title_de: 'Idealo Profi'
+    teaser_de: 'Profi-Features: Verzögerung für internationale Bestellungen, Stammkunden-Erkennung und mehr'
+    author: 'MailBeez.com'  
 author:
     name: admin
 metadata:
@@ -78,13 +90,14 @@ The default review page is template based and you can easily set up your own, cu
 
 insert the following code on the page (e.g. `my-custom-page.php`) you want to direct the customers to place a review
 
- 
-    if (isset($_GET['SA'])) {
-        require_once(DIR_FS_CATALOG . 'mailhive/mailbeez/shopperapproved_advanced.php');
-        $sa = new shopperapproved_advanced();
-        $code = $sa->generate_page($_GET['SA'], 'core.tpl.html');
-        echo $code;
-    }
+```
+if (isset($_GET['SA'])) {
+    require_once(DIR_FS_CATALOG . 'mailhive/mailbeez/shopperapproved_advanced.php');
+    $sa = new shopperapproved_advanced();
+    $code = $sa->generate_page($_GET['SA'], 'core.tpl.html');
+    echo $code;
+}
+```
 
 
 and adjust the invite link in your MailBeez Email template to e.g.

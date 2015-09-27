@@ -40,7 +40,7 @@ metadata:
 
 Responsive Websites are in high demand, but what about responsive Email?
 
- ![](http://www.mailbeez.com/images/responsive.png "platform_logos_top_2012") 
+{{ page.find('/images').media['responsive.png'].html }}
 
 ##What are responsive Emails?
   

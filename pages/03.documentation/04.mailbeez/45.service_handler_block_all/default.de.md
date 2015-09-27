@@ -9,17 +9,20 @@ publish_date: 16-10-2012
 # unpublish_date: 16-10-2012
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
-# added collection selector
-
+    tag: [pro]
+module:
+    code: 'config_block_admin'
+    category: [configbeez]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    pro: 'pro'
 author:
     name: kelly
 metadata:
@@ -36,5 +39,4 @@ metadata:
 #  last_modified: true
 ---
 
-(English)    
- This is an internal service for the [Advanced Opt-Out with Admin](/documentation/configbeez/config_block_admin/) module which comes delivered with the module.
+Dieses Modul ist Bestandteil von [Erweitertes Opt-out mit Admin](/dokumentation/configbeez/config_block_admin/).
