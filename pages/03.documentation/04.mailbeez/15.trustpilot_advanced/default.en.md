@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'trustpilot_advanced'
     category: [mailbeez]
@@ -53,7 +53,7 @@ metadata:
 
 Trustpilot Unique Link Edition: [Trustpilot Advanced Unique Link Edition](/documentation/mailbeez/trustpilot_advanced_ul/)
 
-# Advanced Features
+## Advanced Features
 
 compared to the free, basic module to ask your customers for a rating on Trustpilot by integrating with the Trustpilot Feedback Service, this advanced module gives you a couple of settings to streamline and improve your process of inviting customers to give a rating on Trustpilot:
 
@@ -74,5 +74,3 @@ Don't want to bother your regular customers with an Email to rate on Trustpilot?
 ### Want to integrated your valuable ratings with your Store and Email Marketing?
 
 Using the [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/) you can easily integrate your Trustpilot-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
-V 2.0
-- initial public release

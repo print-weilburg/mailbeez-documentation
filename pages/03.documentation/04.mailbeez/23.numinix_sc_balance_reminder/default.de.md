@@ -61,6 +61,9 @@ Once set-up, it will start sending a defined chunk of emails per run to customer
 
 The module easily allows you to configure how often the balance statement will be sent out, with the time delay checked against the Review Reward Module which already contains the updated Balance; a nice feature that avoids spamming customers with too high a frequency of emails with similar content.
 
+[plugin:content-inject](/content_blocks/pro_responsive_template)
+
+
 **Requirements:**
 
 - Zen Cart e-commerce platform

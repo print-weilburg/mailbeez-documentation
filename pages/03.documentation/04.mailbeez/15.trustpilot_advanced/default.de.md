@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'trustpilot_advanced'
     category: [mailbeez]
@@ -51,9 +51,9 @@ metadata:
 
 **Optimieren Sie Ihre Trustpilot Partnerschaft**
 
-Trustpilot Unique Link Version: [Trustpilot Profi Unique Link Version](http://www.mailbeez.com/dokumentation/mailbeez/trustpilot_advanced_ul/)
+Trustpilot Unique Link Version: [Trustpilot Profi Unique Link Version](/dokumentation/mailbeez/trustpilot_advanced_ul/)
 
-# Profi-Funktionen
+## Profi-Funktionen
 
 Im Vergleich zum kostenfreien Trustpilot Modul, welches bereits die Integration mit dem Trustpilot Feedback Service zum Einladen von Kunden zur Abgabe von Bewertungen bietet, erlaubt die Profi-Version die Optimierung des Ablaufes zur Bewertungs-Aufforderung:
 
@@ -76,5 +76,3 @@ Das Modul wird dann automatisch prüfen, ob bereits eine neuen Einladung versend
 ### Wollen Sie Ihre wertvollen Bewertungen mit Shop und Email-Marketing integrieren?
 
 Mit der [Trustpilot Integration Suite](http://www.mailbeez.com/dokumentation/mailbeez/config_trustpilot_rss_importer/) können Sie schnell und einfach Trustpilot-Bewertungen serverseitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren
-V 2.0
-- initial public release

@@ -18,7 +18,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -51,15 +51,8 @@ Like all Mailbeez modules, the Coupon Expiry Reminder bolt-on is fully automated
 
 Mailbeez of course is one intelligent email system, so in case you are concerned that older customers with invalid coupons will be sent reminders, then you can rest easy; Mailbeez will only email customers with a valid coupon.
 
-**Template based for ease of deployment**
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
-Like all MailBeez Modules the email content is taken from a template, which is very easy to customize to match the style and branding of your store.
-
-**Want responsive Emails with MailBeez?**  
-![](http://www.mailbeez.com/images/responsive.png) ([what are responsive emails?](/documentation/responsive-emails/)) In combination with the [responsive template manager](/documentation/mailbeez/config_tmplmngr) you are able to select a responsive email template for this module and adopt it to your design.   
-The shown themed email templates are not yet responsive, we plan to make that as soon as possible (support for responsive emails will require in any case the [responsive template manager](/documentation/mailbeez/config_tmplmngr)). ****
-
- 
 
 **Configuration settings**
 
@@ -73,5 +66,3 @@ Every Mailbeez module offers deceptively simple configuration options, and the C
 A is set to 5, B is set to 7
 
 Based on these settings, the reminder email will be sent to customers who have received a coupon which has between 7 and 5 days left before it expires.
-
-Questions? Ideas? Please [contact ](http://localhost/wordpress_mailbeez_EOL/about/contact/)us!

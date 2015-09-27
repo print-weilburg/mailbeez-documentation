@@ -18,7 +18,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -54,20 +54,38 @@ metadata:
 
 Das MailBeez Newsletter Profi Modul ist eine grundlegende Neu-Entwicklung und ein neu-gedachter Ansatz eines mit dem Shop-System voll integrierten Newsletter Systems.
 
-**Responsive Newsletter**  
-In Kombination mit der Responsive Vorlagen Verwaltung wird das Newsletter Profi Modul um responsive Funktionen erweitert, so dass mit dem visuellem Editor repsonsive Emails erstellt werden können, mehr dazu auf [Responsive Emails mit MailBeez](http://www.mailbeez.com/dokumentation/responsive-emails/)
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
-Die Standard-Newsletter Funktion von osCommerce, Gambio, ModifiedShop & Zencart ist rudimentär und zeigt in der Praxis eine Vielzahl an Schwächen.
+Die Standard-Newsletter Funktion von osCommerce, Gambio, ModifiedShop & Zencart ist rudimentär und zeigt in der Praxis eine Vielzahl an Schwächen. Einige der System-Anbieter raten von dem Einsatz dieser Standard-Funktionen ab.
 
-Mit dem MailBeez Newsletter Profi-Modul wird diese Lücke geschlossen und Shopbetreiber können nun endlich professionelle Newsletter direkt aus dem Shopsystem versenden. Da das MailBeez Newsletter Profi Modul direkt in das Shopsystem eingebettet ist, müssen keine Daten exportiert oder importiert werden. Es kann sofort ein Newsletter an z.B. alle Kunden mit einem aktiven Newsletter-Abo versendet werden.
+Mit dem MailBeez Newsletter Profi-Modul wird diese Lücke geschlossen und Shopbetreiber können nun endlich zuverlässig professionelle Newsletter direkt aus dem Shopsystem versenden. Da das MailBeez Newsletter Profi Modul direkt in das Shopsystem eingebettet ist, müssen keine Daten exportiert oder importiert werden. Es kann sofort ein Newsletter an z.B. alle Kunden mit einem aktiven Newsletter-Abo versendet werden.
 
-Das Erstellen von Newslettern wird mit dem MailBeez Newsletter Profi Modul denkbar einfach gemacht: der Visuelle Editor ermöglicht das Verfassen von professionellen Newslettern, welche bestmöglich in den wichtigsten Email-Programmen dargestellt werden. In Kombination mit der [Responsive Vorlagen-Verwaltung](http://www.mailbeez.com/dokumentation/mailbeez/config_tmplmngr) (auch im [MailBeez Profi Paket](http://www.mailbeez.com/download/mailbeez-essential-pack/) enthalten) können auch mobil-freundliche Newsletter erstellt werden, welche optimal auf z.B. iPhones dargestellt werden.
-
+Das Erstellen von Newslettern wird mit dem MailBeez Newsletter Profi Modul denkbar einfach gemacht: der Visuelle Editor ermöglicht das Verfassen von professionellen Newslettern, welche bestmöglich in den wichtigsten Email-Programmen dargestellt werden. In Kombination mit der [Responsive Vorlagen-Verwaltung](/dokumentation/mailbeez/config_tmplmngr) können auch mobil-freundliche Newsletter erstellt werden, welche optimal auf z.B. iPhones dargestellt werden.
 
 
-### Beispiele:
+#### Freie Wahl des Email-Servers
+
+Die Öffnungs- und Konvertierungs-Raten Ihrer Newsletter hängen stark vom versendenden Email-Server ab. MailBeez bietet Ihnen die freie Wahl, ob Sie über die Email-Funktion Ihres Shop-Servers, einen SMTP Server oder aber zertifizierten Server unseres Partners Newsletter2Go versenden möchten.
+
+#### Mächtige Segmentierungs-Möglichkeiten
+
+Dank der tiefen Integration von MailBeez mit dem Shopsystem kann das Newsletter Profi-Modul auf alle vorhandenen Daten zugreifen. Die eingebaute Segmentierungs-Engine erlaubt es Ihnen, Kunden nach Kauf-Verhalten und weiteren Parametern (Geographie, Demographie) personalisiert zu erreichen!
 
 Die freie Kombinierbarkeit der Segmentierungsregeln eröffnen eine Vielzahl von Möglichkeiten, zielgerichtete Newsletter zu versenden:
+
+##### Beispiele
+
+
+**Upsell / Cross-Sell**
+
+- Segmentierung: Kunden, welche Produkt A aber nicht Produkt B gekauft haben
+- Gutschein: freie Versandkosten innerhalb von 7 Tagen
+
+**Produkt-Warnhinweis / Rückruf an alle betroffenen Kunden**
+
+- Segmentierung: Kunden, welche Produkt X gekauft habe + Umgehung des Newsletter-Abo
+
+
 
 **Einmalige Weihnachtsgeschäfts-Kunden vom letzten Jahr**
 
@@ -83,14 +101,6 @@ Die freie Kombinierbarkeit der Segmentierungsregeln eröffnen eine Vielzahl von 
 
 - Segmentierung: Kunde seit mindestens / höchstens Tagen
 
-**Produkt-Warnhinweis / Rückruf an alle betroffenen Kunden**
-
-- Segmentierung: Kunden, welche Produkt X gekauft habe + Umgehung des Newsletter-Abo
-
-**Upsell / Cross-Sell**
-
-- Segmentierung: Kunden, welche Produkt A aber nicht Produkt B gekauft haben
-- Gutschein: freie Versandkosten innerhalb von 7 Tagen
 
 ### Funktionen
 
@@ -104,7 +114,7 @@ Die freie Kombinierbarkeit der Segmentierungsregeln eröffnen eine Vielzahl von 
 **Segmentierungs-Möglichkeiten**
 
 - Geografisch: Land, Bundesland, Plz
-- Kunde: Geschlecht, Kunde seit mindestens / höchstens Tagen, Kunden-Gruppe: erfordert [Kundengruppen-Filter](http://www.mailbeez.com/dokumentation/mailbeez/filter_check_group)
+- Kunde: Geschlecht, Kunde seit mindestens / höchstens Tagen, Kunden-Gruppe: erfordert [Kundengruppen-Filter](/dokumentation/mailbeez/filter_check_group)
 - Produkte: gekaufte Produkte (Whitelist & Blacklist)
 - Kategorien: gekaufte Produkte (Whitelist & Blacklist)
 - Bestellungen: max. Anzahl Bestellungen, letzte Bestellung nach Datum & vor Datum
@@ -123,7 +133,7 @@ Die freie Kombinierbarkeit der Segmentierungsregeln eröffnen eine Vielzahl von 
 - Auswahl eine Liste (oder Kampagnen-Standard)
 - Auswahl einer Gutschein-Vorlage
 
-**Gutschein**
+**Gutscheine**
 
 - basiert auf dem MailBeez Gutschein-Generator
 - Anlegen von Gutschein-Vorlagen mit allen zur Verfügung stehenden Optionen
@@ -165,17 +175,16 @@ In Abhängigkeit des zur Verfügung stehenden Mail-Servers kann der Mailversand 
 
 Durch die Drosselung und die Begrenzung der Anzahl mit Hilfe der Stapel-Grösse können Limits von Hostern bzw. den Email-Server eingehalten werden sowie das Risiko von Spam-Ratings reduziert werden.
 
+
+
 ### Empfohlene Module
 
 Für einen reibungslosen Einsatz des MailBeez Newsletter Profi Module werden folgende Erweiterungen des MailBeez Systems empfohlen - alle MailBeez Module profitieren hiervon:
 
-- [Einfache Drosselung](http://www.mailbeez.com/dokumentation/mailbeez/filter_do_throttling_simple) (auch im [MailBeez Profi Paket](http://www.mailbeez.com/download/mailbeez-essential-pack/) enthalten)
-- [Bouncehive Rückläufer-Verarbeitung](http://www.mailbeez.com/dokumentation/mailbeez/config_bouncehive_advanced)
-- [Kundengruppen-Filter](http://www.mailbeez.com/dokumentation/mailbeez/filter_check_group)
+- [Einfache Drosselung](/dokumentation/mailbeez/filter_do_throttling_simple) 
+- [Bouncehive Rückläufer-Verarbeitung](/dokumentation/mailbeez/config_bouncehive_advanced)
+- [Kundengruppen-Filter](/dokumentation/mailbeez/filter_check_group)
 
-Um responsive Newsletter erstellen und versenden zu können, ist die MailBeez Responsive Vorlagen-Verwaltung erforderlich:
-
-- [Responsive Vorlagen-Verwaltung](http://www.mailbeez.com/dokumentation/mailbeez/config_tmplmngr) (auch im [MailBeez Profi Paket](http://www.mailbeez.com/download/mailbeez-essential-pack/) enthalten)
 
 ### geplante Weiterentwicklungen
 
@@ -185,52 +194,3 @@ Um responsive Newsletter erstellen und versenden zu können, ist die MailBeez Re
 - automatische Erstellung von Produktdarstellungen
 - personalisierte Inhalte
 - "Interessenten Funktion": Besucher können sich für den Newsletter eintragen. Wenn aus den Besucher Kunden werden, wird dies natürlich erkannt. Somit können leicht verschiedene Newsletter für Interessenten und Kunden versendet werden.
-
-## haben Sie Ideen?
-
-![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/slategrey/Megaphone.png) Nur her damit! MailBeez wird für Shopbetreiber entwickelt und Ihre Ideen sind wichtig!
-
-[ Meine Ideen zum Newsletter Modul](http://helpdesk.mailbeez.com/509106-MailBeez)
-V2.32
-- fixed bug in segmentation engine
-
-V2.31
-- fixed bug in segmentation engine
-
-V2.3
-- fixed bug in segmentation engine
-- added "min order count" as rule
-
-V2.26
-- fixed bug in segmentation engine
-
-V2.25
-- fixed an issue with prospects management
-
-V2.2
-- improved segmentation engine
-- added categories filter
-- improved products filter (blacklist now across orders)
-
-V2.1
-- added zipcode filter
-- added support for customer profiling engine
-
-V2.0
-- added extendable segmentation engine
-
-V1.4
-- added support for modified-shop 1.06 / newsletter_recipients table
-
-V1.3
-- fixed issue with groupfilter
-- improve responsive button (outlook)
-
-V1.2
-- minor fixes
-
-V1.1
-- minor changes
-
-V1.0
-- initial public release

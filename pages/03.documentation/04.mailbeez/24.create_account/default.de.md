@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'create_account'
     category: [mailbeez]
@@ -53,6 +53,9 @@ metadata:
 
 Dieses Modul versendet nur auf den ersten Blick eine weitere Begrüssungsemail – nachdem das Shopsystem ja bereits die Bestätigung der Kundenkonto-Eröffnung verschickt hat.  
  Mit etwas Kreativität kann dieses Modul für interessante Ideen, wie z.B. weiteren Informationen zum Kundenservice, Neukunden-Angebote, Zufriedenheits-Umfragen usw. eingesetzt werden. Mit der steigenden Bedeutung der sozialen Medien kann dieses Modul auch genutzt werden, um den neuen Kunden auf z.B. die Facebook-Seite aufmerksam zu machen.
+ 
+[plugin:content-inject](/content_blocks/pro_responsive_template)
+
 
 **Geschlechtsspezifischen Inhalte definieren (Erweiterung)**
 
@@ -62,7 +65,7 @@ Für Online-Shops mit gemischtem Kundenkreis (Damen/Herren) erlaubt das Erweiter
 
 Die Konfiguration dieses Modules ist recht einfach:
 
-- **Mindest-Alter des Kundenkontos**Zeitlicher Abstand nach Eröffnung des Kundenkontos
+- **Mindest-Alter des Kundenkontos** Zeitlicher Abstand nach Eröffnung des Kundenkontos
 - **Höchst-Alter des Kundenkontos** Zeitliche Begrenzung des Zeitraumes
 - **Absender Email**
 - **Absender Name**

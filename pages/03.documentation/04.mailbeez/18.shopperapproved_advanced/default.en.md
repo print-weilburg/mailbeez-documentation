@@ -52,7 +52,7 @@ metadata:
 
 This module allows to invite your Customers to review your Store on Shoppperapproved.com - also you can go back in time to kickstart your reviews!
 
-# Advanced Features
+## Advanced Features
 
 This advanced module gives you a couple of settings to streamline and improve your process of inviting customers to give a rating on Shopper Approved:
 
@@ -78,11 +78,11 @@ Select how many Orders a customer must have place before the module invites for 
 
 Using the [Shopper Approved Integration Suite](/documentation/configbeez/config_shopperapproved_integration/) you can easily integrate your Reviews with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
 
-# Different Ways to invite - adoptable to your needs!
+## Different Ways to invite - adoptable to your needs!
 
-## Invite to initial Survey with pre-populated customer data
+### Invite to initial Survey with pre-populated customer data
 
-### default review page
+## default review page
 
 The default review page is template based and you can easily set up your own, customized template!
 

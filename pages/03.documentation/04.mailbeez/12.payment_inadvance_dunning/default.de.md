@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'payment_inadvance_dunning'
     category: [mailbeez]
@@ -51,10 +51,7 @@ metadata:
 
 Mit diesem MailBeez Module kann der Geschäftsprozess zur Zahlungserinnerung bei Bestellungen per Vorkasse automatisiert werden. Kunden mit Vorkasse-Zahlungen erhalten automatisch in einstellbaren Abständen drei Zahlungsaufforderungen und letztendlich die Information, dass die Bestellung storniert wurde.
 
-Für jeden Schritt kann ein eigene Email Vorlage (die bei MailBeez üblichen .tpl Datei) erstellt werden und die Anzahl Tage nach dem vorhergehenden Schritt eingestellt werden.
-
-[![](http://www.mailbeez.com/wp-content/uploads/2011/05/payment_inadvanced_dunning_de.png "payment_inadvanced_dunning_de")](http://www.mailbeez.com/wp-content/uploads/2011/05/payment_inadvanced_dunning_de.png)Mehrstufiger Ablauf zur Zahlungserinnerung
-
+Für jeden Schritt kann ein eigene Email Vorlage erstellt werden und die Anzahl Tage nach dem vorhergehenden Schritt eingestellt werden.
  
 
 **Vorbereitung:**
@@ -66,6 +63,5 @@ Um Vorkasse-Bestellungen mit offener Zahlung im System erkennen zu können, müs
 
 Für eine automatische Stornierung muss es eine Bestellstatus z.B. “storniert” geben.
 
- 
 
-Das Modul kommt mit – wie von MailBeez gewohnt – leicht anpassbaren Email Vorlagen auf Englisch.
+[plugin:content-inject](/content_blocks/pro_responsive_template)

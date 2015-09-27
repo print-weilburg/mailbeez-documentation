@@ -18,7 +18,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -54,26 +54,43 @@ metadata:
 
 The Mailbeez Newsletter module represents a completely new approach to an integrated eCommerce newsletter module, offering store owners exciting Mailbeez enhancements, and the ability to create personalized, intelligent email campaigns right from the store admin area.
 
-**Responsive Newsletter**  
-In combination with the Responsive Template Manager the Newsletter will get the ability to design and send responsive Emails, read more about [Responsive Emails with MailBeez](/documentation/responsive-emails/)
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
 Sending an email newsletter from a vanilla install of any OScommerce variant system is a very unappetizing task, which is why there has, in recent years, been a proliferation of 3rd party email newsletter subscribers who have provided the tools most merchants wished their eCommerce store could provide. However, with the introduction of the Mailbeez Newsletter module, store owners finally have the tools to create email campaigns from their admin areas; campaigns that lack nothing in comparison to the offerings of feature rich 3rd party systems.
 
 As a seamless integrated module the MailBeez Newsletter Advanced Module has direct access to customers and their newsletter subscription setting. That allows your to e.g. send a newsletter campaign to all your subscribed customers without exporting or importing any data!
 
-The process of creating and editing newsletter is very easy: the intuitive visual editor allows you to create professional newsletters, which will show up best possible across different email clients. In combination with the [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/)) you will also be able to create mobil-friendly responsive newsletters which will look great e.g. on your customers iPhone.
+The process of creating and editing newsletter is very easy: the intuitive visual editor allows you to create professional newsletters, which will show up best possible across different email clients. In combination with the [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/) you will also be able to create mobil-friendly responsive newsletters which will look great e.g. on your customers iPhone.
 
+
+
+#### Free choice of Email-Server
+
+The open and conversion rates of your bulk mailings are strongly depending on the sending email server. MailBeez allows you to either send the generated emails through your store-servers email function, a SMTP Server of your choice or the certfied email servers of our partner Newsletter2Go.
+
+
+
+#### powerful segmentation rules
+
+Thanks to the seamless integration of MailBeez with your store system the newsletter advanced module has access to all existing data. The included segmentation engine allows you to build up customer segments based on purchase behaviour and other parameters (geographic, demographic) to personalize your bulk mailings!
+
+The powerful segmentation rules allow you to create a virtually endless number of targeted newsletter campaigns:
 
 
 ### Examples:
 
-The powerful segmentation rules allow you to create a virtually endless number of targeted newsletter campaigns:
+
+**Upsell / Cross-Sell**
+
+- segmentation: customers, who purchased product x, but not product y
+- coupon: free shipping within 7 days.
+
 
 **Last year's 1-time holiday shoppers**
 
 - segmentation: 1 purchase between 1st of october 2012 and 31st of december 2012
 - coupon: 10% off, valid for 14 days
-- 
+
 
 **season newsletters to all customers**
 
@@ -88,10 +105,6 @@ The powerful segmentation rules allow you to create a virtually endless number o
 
 - segmentation: customers, who purchased product x, regardless of their newsletter subscription status
 
-**Upsell / Cross-Sell**
-
-- segmentation: customers, who purchased product x, but not product y
-- coupon: free shipping within 7 days.
 
 ### Features
 
@@ -170,13 +183,13 @@ Thanks to throttling and limiting the number of emails sent per run (chunk size)
 
 For best operations we recommend following modules, which will enhance the MailBeez platform. So all other MailBeez modules will be enhanced.
 
-- [Simple Throttling](/documentation/mailbeez/filter_do_throttling_simple) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/))
+- [Simple Throttling](/documentation/mailbeez/filter_do_throttling_simple)
 - [BounceHive Bounce Handling](/documentation/mailbeez/config_bouncehive_advanced)
 - [Customer Group-Filter](/documentation/mailbeez/filter_check_group/)
 
 To create and send responsive Emails you need to install the Responsive Template Manager:
 
-- [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/) (part of [MailBeez Essentials Pack](http://www.mailbeez.com/download/mailbeez-essential-pack/))
+- [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/)
 
 ### future developments
 
@@ -186,52 +199,3 @@ To create and send responsive Emails you need to install the Responsive Template
 - automatically create product content blocks
 - personalised contents
 - Support for "prospect": Visitors can sign-up for the newsletter. Once they convert into a customer the system will recognise it. That allows to sent different newsletters to prospects and customers.
-
-## have some ideas?
-
-![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/icons/slategrey/Megaphone.png) Tell them! MailBeez is developed for merchants so your ideas, feedback and input is very important!
-
-[ My idea for the newsletter module](http://helpdesk.mailbeez.com/509106-MailBeez)
-V2.32
-- fixed bug in segmentation engine
-
-V2.31
-- fixed bug in segmentation engine
-
-V2.3
-- fixed bug in segmentation engine
-- added "min order count" as rule
-
-V2.26
-- fixed bug in segmentation engine
-
-V2.25
-- fixed an issue with prospects management
-
-V2.2
-- improved segmentation engine
-- added categories filter
-- improved products filter (blacklist now across orders)
-
-V2.1
-- added zipcode filter
-- added support for customer profiling engine
-
-V2.0
-- added extendable segmentation engine
-
-V1.4
-- added support for modified-shop 1.06 / newsletter_recipients table
-
-V1.3
-- fixed issue with groupfilter
-- improve responsive button (outlook)
-
-V1.2
-- minor fixes
-
-V1.1
-- minor changes
-
-V1.0
-- initial public release

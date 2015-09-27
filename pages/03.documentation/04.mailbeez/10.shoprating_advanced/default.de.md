@@ -18,9 +18,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'shoprating_advanced'
     category: [mailbeez]
@@ -52,7 +52,7 @@ metadata:
 #  last_modified: true
 ---
 
-Dieses Modul ist für den professionellen Einsatz der kostenfreien Erweiterung [Shopbewertungen](http://www.mailbeez.com/dokumentation/configbeez/config_shopvoting/) entwickelt worden.
+Dieses Modul ist für den professionellen Einsatz der kostenfreien Erweiterung [Shopbewertungen](/dokumentation/configbeez/config_shopvoting/) entwickelt worden.
 
 Mit dem Shopbewertungs-Modul können Kunden eine Bewertung des Shops abgeben, diese Bewertungen sind dann in der Administrations zu bearbeiten und das Ergebnis kann in der Storefront angezeigt werden.
 
@@ -64,27 +64,4 @@ Im Vergleich zur kostenlosen Version bietet das Shopbewertung Profi Module eine 
 
 Zudem können die Bewertungen auch in anderen Modulen (z.B. zur Kundenrückgewinnung) vorteilhaft integriert werden.
 
-[![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://www.mailbeez.com/images/de_shoprating_advanced_integration.png&w=250&h=350&zc=1&q=100 "real time customer ratings in MailBeez Emails")](http://www.mailbeez.com/images/de_shoprating_advanced_integration.png "real time customer ratings in MailBeez Emails")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
-
-## Shopbewertung Einfach / [Shopbewertung Profi - mit Autologin](/dokumentation/mailbeez/shoprating_advanced/ "Shopbewertung Profi")
-
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=7 "Edit") EinfachProfiKommentar Kunden automatisch um eine Bewertung bittenPRO\_YESPRO\_YESDie Shopbewertungen kommen leider nicht von alleine, also besser nachhelfen Mehrere Bestell-Status möglichPRO\_NOPRO\_YESKonfiguration auf welche Bestellstatus das Module reagiert Automatischer LoginPRO\_NOPRO\_YESDer Kunde kann sofort seine Bewertung abgeben Bestell-Nummer vor-ausfüllenPRO\_NOPRO\_YESDie Bestell-Nr wird bereits vor-ausgefüllt (konfigurierbar) Stammkunden erkennenPRO\_NOPRO\_YESUm Stammkunden nicht bei jeder Bestellung zu kontaktieren, kann eine Zeitspanne zwischen Bewertungen definiert werden, z.B. "nur alle 120 Tage um Bewertung bitten" Mehrstufige ErinnerungPRO\_NOPRO\_YESFreundliches Nachfragen kann Wunder - oder besser: doppelte so viele Bewertungen bringen (konfiguierbar bis zu 3x, erfordert Bestell-Nr) Professionelle VorlagenPRO\_NOPRO\_YESWähle aus einer Liste professioneller Vorlagen Liste der bestellten ProduktePRO\_NOPRO\_YESZur Erinnerung wird eine Liste der bestellten Produkte eingefügt (konfigurierbar) Test-ProduktePRO\_NOPRO\_YESSchon beim Versand einer Test-Email wird eine Liste angezeigt Shopbewertungen in allen oder ausgewählten MailBeez Emails anzeigenPRO\_NOPRO\_YESÜber eine Template-Variable können z.B. 3 zufällige Bewertungen mit mindestens 4 Sternen in alle (Haupttemplate) oder ausgewählte MailBeez Emails eingefügt werden. Quer-PrüfungPRO\_NOPRO\_YESPrüft ob der Kunden schon vom Standard-Modul kontaktiert wurde oder dies geblockt hat. White Label EmailsPRO\_NOPRO\_YESCopyright freie Emails## Sinnvolle Erweiterungen:
-
-[MailBeez automatisch Ausführen](/documentation/configbeez/config_cron_simple/ "Run MailBeez Automatically") damit werden Kunden voll automatisch aufgefordert
-
-[Kundengruppen Filter](/documentation/filterbeez/filter_check_group/ "Customer Group Filter") bestimmt, welche Kundengruppen eine Aufforderung erhalten soll
-
-[Musterbasierte Blacklist](/documentation/filterbeez/filter_check_pattern_blacklist/ "Pattern Blacklist") hilfreich, wenn z.B. Kunden über marketplace.amazon.de bestellen, diese dürfen nicht direkt kontaktiert werden
-Version 3.1
-- autologin improvements
-
-Version 3.0
-- support for shopvoting module
-
-Version 2.4
-- general improvements
-- updated config_social
-Version 2.31
-- compatiblity with MailBeez V2.7
-Version 2.3
-- fixed bug with new certificate handling
+[plugin:content-inject](/content_blocks/pro_responsive_template)

@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'notification_order_status'
     category: [mailbeez]
@@ -63,17 +63,12 @@ Anwendungsbeispiele:
 
 **Vorlagen Variablen**
 
+
+<!--
  Vorlagen-VariableAusgabe{$status\_date}formatiertes Datum des Bestell-Status{$status\_date\_raw}  
 {$ORDER\_STATUS\_DATE}unformatiertes Datum des Bestell-Status{$status\_id}Bestell-Status-ID{$status\_name}  
 {$ORDER\_STATUS}Bestell-Status-Name{$comments}Kommentar
-V2.3
-- added order status name as template variable
+-->
 
-V2.2
-- added configuration for sender and sender name
 
-V2.1
-- supporting multiple notifications per order (for each status one)
-
-V2.0
-- initial public version
+[plugin:content-inject](/content_blocks/pro_responsive_template)

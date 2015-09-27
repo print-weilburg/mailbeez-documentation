@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'notification_backorder'
     category: [mailbeez]
@@ -103,10 +103,9 @@ This Email is sent as soon as there is a change in the availability date!
 
 ## Reduce workload while having full control
 
-Once set up the module will work on autopilot (requires you have configured MailBeez to run automatically).
-
-Based on one or more order status to configure you decide which orders should processed by this module.
+Once set up the module will work on autopilot (requires you have configured MailBeez to run automatically). Based on one or more order status to configure you decide which orders should processed by this module.
 
 So as much control as necessary and as much automation as possible!
-V2.2
-- initial public release
+
+
+[plugin:content-inject](/content_blocks/pro_responsive_template)

@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'trustpilot_advanced_ul'
     category: [mailbeez]
@@ -51,11 +51,11 @@ metadata:
 
 **Optimieren Sie Ihre Trustpilot Partnerschaft**
 
-Automatic Feedback Service Version: [Trustpilot Profi](http://www.mailbeez.com/dokumentation/mailbeez/trustpilot_advanced/)
+Automatic Feedback Service Version: [Trustpilot Profi](/dokumentation/mailbeez/trustpilot_advanced/)
 
 **Hinweis:** Unique Links sind nicht in allen Packages und nur auf Anfrage verfügbar.
 
-# Warum Trustpilot Unique Links?
+## Warum Trustpilot Unique Links?
 
 Alternativ zum Automatic Feedback Service stellt Trustpilot Partnern auf Anfrage die Möglichkeit bereit, Kunden direkt mit "Unique Links" zur Bewertung einzuladen. Es ist somit nicht erforderlich, die Kunden-Daten an Trustpilot übergeben.
 
@@ -67,9 +67,7 @@ Das Modul bietet zudem eine Reihe von intelligenten Profi-Funktionen:
 
 Basierend auf dem MailBeez Vorlagen-System können Sie die Einladung nach Ihren eigenen Wünschen gestalten!
 
-[![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/assets/invalid_image.png&w=400&h=400&zc=1&q=100 "Eigenes Email-Layout")](https://www.mailbeez.com/images/doc/mailbeez/trustpilot_advanced_ul/de_invite.png "Eigenes Email-Layout")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
-
-Auch [responsive Emails](http://www.mailbeez.com/dokumentation/responsive-emails/) sind möglich!
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
 ## Mehrere Bestell Status
 
@@ -89,12 +87,10 @@ Das Modul wird dann automatisch prüfen, ob bereits eine neuen Einladung versend
 
 ## Mehrere Sprachen?
 
-Kein Problem! In Verbindung mit der [Erweiterung für Mehrsprachigkeit mit Responsive Visual Editor](http://www.mailbeez.com/dokumentation/configbeez/config_tmplmngr_lng/) erhalten Kunden die Einladung zur Bewertung auf Trustpilot in der passenden Sprache und auch der Link selbst führt auf die passende Trustpilot-Seite:
+Kein Problem! In Verbindung mit der [Erweiterung für Mehrsprachigkeit mit Responsive Visual Editor](/dokumentation/configbeez/config_tmplmngr_lng/) erhalten Kunden die Einladung zur Bewertung auf Trustpilot in der passenden Sprache und auch der Link selbst führt auf die passende Trustpilot-Seite:
 
 Deutsch-sprachige Kunden erhalten eine deutsche Email mit Link zu Trustpilot.de, spanisch sprechende Kunden eine Email in spanisch mit Link zu es.trustpilot.com
 
 ### Wollen Sie Ihre wertvollen Bewertungen mit Shop und Email-Marketing integrieren?
 
-Mit der [Trustpilot Integration Suite](http://www.mailbeez.com/dokumentation/mailbeez/config_trustpilot_rss_importer/) können Sie schnell und einfach Trustpilot-Bewertungen Server-seitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren
-V 2.5
-- initial public release
+Mit der [Trustpilot Integration Suite](/dokumentation/mailbeez/config_trustpilot_rss_importer/) können Sie schnell und einfach Trustpilot-Bewertungen Server-seitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren

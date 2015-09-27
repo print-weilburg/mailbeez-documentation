@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'service_db_repair_order'
     category: [mailbeez]
@@ -68,5 +68,3 @@ Funktionen:
 - Im Simulationsmodus werden die beschädigten Bestellungen aufgelistet, aber nicht repariert
 - Sehr effizientes Modul, welches vor allen weiteren Modulen ausgeführt wird
 - Zwei Betriebsarten: Bestell-Status beibehalten oder den reparierten Bestellungen einen neuen Status zuweisen
-Version 2.1:
-- initial public release

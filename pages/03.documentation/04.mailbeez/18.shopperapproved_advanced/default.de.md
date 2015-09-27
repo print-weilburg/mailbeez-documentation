@@ -17,7 +17,7 @@ summary:
 taxonomy:
     migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 # added collection selector
 module:
     code: 'shopperapproved_advanced'

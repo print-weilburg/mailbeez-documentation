@@ -52,7 +52,7 @@ metadata:
 
 **Optimieren Sie Ihre Idealo Partnerschaft**
 
-# Profi-Funktionen
+## Profi-Funktionen
 
 Die Profi-Version optimiert den Ablaufes zur Bewertungs-Aufforderung:
 
@@ -66,10 +66,8 @@ Wollen Sie Ihre häufig bestellenden Stammkunden vor eine Bewertungseinladung na
 
 Das Modul wird dann automatisch prüfen, ob bereits eine neuen Einladung versendet werden kann oder nicht.
 
-## Responsive Email-Vorlage
-
-Die Email wird optimal auf mobilen Geräten angezeigt
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
 ### Wollen Sie Ihre wertvollen Bewertungen mit Shop und Email-Marketing integrieren?
 
-Mit der [Idealo Integration Suite](http://www.mailbeez.com/dokumentation/mailbeez/config_idealo_rss_importer/) können Sie schnell und einfach Idealo-Bewertungen serverseitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren
+Mit der [Idealo Integration Suite](/dokumentation/mailbeez/config_idealo_rss_importer/) können Sie schnell und einfach Idealo-Bewertungen serverseitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren

@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -55,36 +55,9 @@ This module requires the [Mailbeez Shopauskunft Integration Suite ](/documentati
 
 If you are already using the [Mailbeez Shopauskunft module](/documentation/mailbeez/shopauskunft/ "Mailbeez Shopauskunft Module") to collect more Shopauskunft reviews for your store, then the Shopauskunfte Review Reward Coupon module is a powerful way to augment the review cycle by rewarding customers with a personalized offer coupon email after they have written a review. Fully automated and personalized (for that is the Mailbeez way!), the module offers powerful functionality to send the coupon after a preset number of reviews have been written, and of course, to alter the value of the coupon or deal you wish to offer the reviewer.
 
-**Personalized coupons to prevent code sharing **
-
-Providing standard coupon codes is a broad sword approach which can leave you open to an unwanted viral effect if your coupon gets posted around the internet. To neatly avoid this pitfall, Mailbeez automatically creates personalized coupons for each customer in your campaign, making it impossible for other customers to use the same code and benefit from the offer.
-
- 
-
-**Professional templates**  
- choose with a mouse click from a list of professional templates, which are easy to adjust:
-
-## **Installed in seconds**  
-  
+**Personalized coupons to prevent code sharing**
 
 
-As with all Mailbeez modules, installation is as simple as copying a few files into your FTP. However, as this module uses coupon functionality, please note the instructions below in order to sync your store’s coupon codes with Mailbeez.
+[plugin:content-inject](/content_blocks/pro_coupon)
 
-**Step 1: Setting up coupons for use in Mailbeez**
-
-In order to see a list of defined coupons within Mailbeez, you first have to go to your store’s coupon admin area and set up individual coupon templates for each campaign you would like to run.
-
-**Please follow the simple steps below to get started:**
-
-- **Coupon code field **- Use the naming convention, ‘template\_review\_reward’ in this entry field, not a coupon code, as Mailbeez will create the coupon codes automatically and individually for each email you send.
-- **Coupon name field** – Enter the name of the coupon for easy retrieval later, for example ‘Review Reward’
-- **Coupon dates** – Please ignore these fields, as Mailbeez will override these settings in configuring the expiration date for your campaign
-- **Uses per coupon** – Set this to ’1′
-
-**Step 2: Set up the MailBeez Modules**
-
-Once the coupon templates are set up, go back to the MailBeez Module area within your store’s admin and assign the prepared coupon templates to your Mailbeez module, which in this case is the Shopauskunft Review Reward Coupon plugin, by choosing them from the drop-down list to the right hand side.
-
-Once the coupon template(s) are assigned to the Shopauskunft Review Reward Coupon module, set MailBeez into “Simulation”-Mode and run the module. When you are happy with the results, put MailBeez back to Production mode.
-
-**NOTE** – During simulation testing, individually generated coupons will be marked with [SIM] to make them easy to distinguish and delete from your coupon area after testing with the built-in function.
+[plugin:content-inject](/content_blocks/pro_responsive_template)

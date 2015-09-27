@@ -18,7 +18,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -51,14 +51,7 @@ Wie alle MailBeez Kampagnen Module, so ist auch die Gutschein Ablauf Erinnerung 
 
 Natürlich ist das Modul so intelligent aufgebaut, dass nicht mehr gültige Gutschein ausgeschlossen werden – es werden nur Kunden kontaktiert, die ihren personalisierten Gutschein noch nicht genutzt haben.
 
-**Vorlagen-basiert für einfache Anpassung**
-
-Wie alle MailBeez Kampagnen Module, so wird auch bei diesem Module der Inhalt der Email mit Hilfe von Vorlagen generiert – diese sind einfach anpassbar, so dass das Design Ihres Online-Shops auch in den Emails angewendet werden kann.
-
-**Responsive Emails mit MailBeez?**  
-![](http://www.mailbeez.com/images/responsive.png) ([Was sind responsive Emails?](/dokumentation/responsive-emails/)) In Kombination mit der [Responsive Vorlagen Verwaltung](/dokumentation/mailbeez/config_tmplmngr) können Sie eine responsive Email Vorlage wählen und nach Ihren Wünschen anpassen.  
-Die gezeigten Design-Vorlagen sind noch nicht responsive, wir werden dies baldmöglichst anpassen (Damit MailBeez responsive Emails versenden kann, ist auf jeden Fall die [Responsive Vorlagen Verwaltung](/dokumentation/mailbeez/config_tmplmngr)) erforderlich. ****
-
+[plugin:content-inject](/content_blocks/pro_responsive_template)
  
 
 **Einstellungen**

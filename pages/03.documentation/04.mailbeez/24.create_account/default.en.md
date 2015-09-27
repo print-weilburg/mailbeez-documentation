@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'create_account'
     category: [mailbeez]
@@ -52,6 +52,9 @@ metadata:
 **A helpful module that sends out a welcome email a defined period of time after a customer has created an account.**
 
 You might be thinking that this module simply doubles up on the email that your shopping cart system already sends when a customer creates an account. However, with some creative thinking, this secondary ‘welcome’ email can be used for some really interesting ideas, like providing additional store information, or to alert the customer to current special offers. With the rise on social commerce, this email could even be exclusively tailored to attract visitors to your Facebook or Twitter pages.
+
+[plugin:content-inject](/content_blocks/pro_responsive_template)
+
 
 **Add gender for dynamic content**
 

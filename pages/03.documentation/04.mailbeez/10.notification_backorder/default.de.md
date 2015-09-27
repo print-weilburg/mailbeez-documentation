@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'notification_backorder'
     category: [mailbeez]
@@ -53,7 +53,7 @@ metadata:
 
 *Etwa alle 2 Tage fragt der Kunde jetzt nach, wann der Artikel lieferbar ist...*
 
-## Hört sich das bekannt an?
+**Hört sich das bekannt an?**
 
 Dann sollten Sie sich das Modul "Benachrichtigung Bestell-Rückstand" genauer ansehen:
 
@@ -105,10 +105,8 @@ Diese Email wird sofort versendet, wenn sich das Verfügbarkeits-Datum ändert!
 
 ## Arbeitserleichterung bei voller Kontrolle
 
-Einmal eingerichtet wird dieses Modul auf Autopilot arbeiten (erfordert, dass MailBeez entsprechend automatisiert ist).
-
-Basierend auf einem oder mehr Bestellstatus kann konfiguriert werden, welche Bestellungen verarbeitet werden können.
+Einmal eingerichtet wird dieses Modul auf Autopilot arbeiten (erfordert, dass MailBeez entsprechend automatisiert ist). Basierend auf einem oder mehr Bestellstatus kann konfiguriert werden, welche Bestellungen verarbeitet werden können.
 
 So viel Kontrolle wie nötig und so viel Automatisierung wie möglich!
-V2.2
-- initial public release
+
+[plugin:content-inject](/content_blocks/pro_responsive_template)

@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'notification_order_status'
     category: [mailbeez]
@@ -61,19 +61,13 @@ Scenarios where this module can be applied:
 - you would like to replace the default order status update email with a custom designed email
 - you would like to automatise processes depending on the order status
 
+[plugin:content-inject](/content_blocks/pro_responsive_template)
+
+
+<!--
 **template variables**
 
  Template VariableOutput{$status\_date}formated order status date{$status\_date\_raw}  
 {$ORDER\_STATUS\_DATE}raw order status date{$status\_id}status id{$status\_name}  
 {$ORDER\_STATUS}order status name{$comments}comments
-V2.3
-- added order status name as template variable
-
-V2.2
-- added configuration for sender and sender name
-
-V2.1
-- supporting multiple notifications per order (for each status one)
-
-V2.0
-- initial public version
+-->

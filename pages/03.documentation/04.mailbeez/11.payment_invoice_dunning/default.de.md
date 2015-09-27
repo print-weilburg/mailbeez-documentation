@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'payment_invoice_dunning'
     category: [mailbeez]
@@ -51,11 +51,7 @@ metadata:
 
 Mit diesem MailBeez Module kann der Geschäftsprozess des Mahnungsablaufes bei Rechnungskauf automatisiert werden. Kunden mit offenen Rechnung erhalten automatisch in einstellbaren Abständen drei Zahlungsaufforderungen und letztendlich die Information, das rechtliche Schritte eingeleitet werden. Parallel zu diesem letzten Schritt kann eine Email z.B. zum Inkasso-Unternehmen gesendet werden.
 
-![](http://www.mailbeez.com/wp-content/uploads/2011/06/payment_invoice_dunning_de.png "payment_invoice_dunning_de")Mahnwesen Rechnungskauf
-
- 
-
-Für jeden Schritt kann ein eigene Email Vorlage (die bei MailBeez üblichen .tpl Datei) erstellt werden und die Anzahl Tage nach dem vorhergehenden Schritt definiert werden.
+Für jeden Schritt kann ein eigene Email Vorlage erstellt werden und die Anzahl Tage nach dem vorhergehenden Schritt definiert werden.
 
 **Vorbereitung:**
 
@@ -67,5 +63,4 @@ Um Rechnungs-Bestellungen mit offener Zahlung im System erkennen zu können, mü
 Für die Identifikation von Bestellungen, die ein Inkasso-Verfahren (manueller Vorgang) erfordern, muss es eine Bestellstatus z.B. “Inkasso” geben.
 
  
-
-Das Modul kommt mit – wie von MailBeez gewohnt – leicht anpassbaren Email Vorlagen auf Englisch.
+[plugin:content-inject](/content_blocks/pro_responsive_template)

@@ -62,6 +62,8 @@ The module looks for newly approved reviews in store and waits a defined period 
 
 You can of course define the amount of reward per review, but only one reward is given per order.
 
+[plugin:content-inject](/content_blocks/pro_responsive_template)
+
 
 **Requirements:**
 

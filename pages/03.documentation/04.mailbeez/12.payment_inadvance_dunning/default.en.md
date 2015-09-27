@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'payment_inadvance_dunning'
     category: [mailbeez]
@@ -57,8 +57,6 @@ This advanced MailBeez multistep module automates the process of Dunning for ord
 
 For each step you can easily configure the email template, (these are called .tpl files and will hopefully familiar to you from using other Mailbeez modules) and the delay between steps. Plus, for each step you can configure the Email template (.tpl file as you know them from other MailBeez modules) and the delay *after* the step before.
 
-[![](http://www.mailbeez.com/wp-content/uploads/2011/05/payment_inadvanced_dunning_en.png "payment_inadvanced_dunning_en")](http://www.mailbeez.com/wp-content/uploads/2011/05/payment_inadvanced_dunning_en.png)Multistep Dunning Workflow
-
  
 
 **Preparation**
@@ -70,8 +68,5 @@ To identify which orders require a payment in advance before processing you just
 
 For automatic cancellation of orders you need to have an order status in your system like “canceled” for example.
 
-**requires MailBeez 2.1+**
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
- 
-
-[license\_1]

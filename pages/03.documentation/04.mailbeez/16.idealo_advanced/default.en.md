@@ -49,7 +49,7 @@ metadata:
 
 **Get most out of your Idealo Subscription**
 
-# Advanced Features
+## Advanced Features
 
 this advanced module gives you a couple of settings to streamline and improve your process of inviting customers to give a rating on Idealo:
 

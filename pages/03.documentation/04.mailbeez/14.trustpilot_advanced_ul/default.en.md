@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 module:
     code: 'trustpilot_advanced_ul'
     category: [mailbeez]
@@ -55,7 +55,7 @@ Automatic Feedback Service Edition: [Trustpilot Advanced](/documentation/mailbee
 
 **Important:** Unique Links are available only on request and for selected packages.
 
-# Why Trustpilot Unique Links?
+## Why Trustpilot Unique Links?
 
 In alternativ to Trustpilot's Automatic Feedback Service Store Owner can request to use "unique links" for inviting their customers to review the shop on Trustpilot. The "unique link" technology does no longer require Store Owners to export any customer data to Trustpilot!
 
@@ -67,9 +67,7 @@ In addition this module offers a range of intelligent features:
 
 Using the MailBeez Template system you can fully customise the Invitation to your needs!
 
-[![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/lib/scripts/timthumb/thumb.php?src=http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/assets/invalid_image.png&w=400&h=400&zc=1&q=100 "custom email layout")](https://www.mailbeez.com/images/doc/mailbeez/trustpilot_advanced_ul/en_invite.png "custom email layout")![](http://localhost/wordpress_mailbeez_EOL/wp-content/themes/awake/images/shortcodes/image_shadow.png)
-
-MailBeez supports [responsive Emails](/documentation/responsive-emails/) as well!
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
 ## multiple order status
 
@@ -94,5 +92,3 @@ English speaking customers will receive an email written in english linking to T
 ### Want to integrated your valuable ratings with your Store and Email Marketing?
 
 Using the [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/) you can easily integrate your Trustpilot-Ratings with your Store - in a way that makes this "unique fresh content" visible to search engines - and your MailBeez generated Email Marketing emails!
-V 2.5
-- initial public release

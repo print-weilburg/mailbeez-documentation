@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -57,36 +57,7 @@ Bewertungen auf Shopauskunft.de sind für Online-Shops (nahezu) Gold wert! Stati
 
 **Personaliserte Gutscheine schützen vor ungewünschter Verbreitung**
 
-Der Versand von allgemein gültigen Gutscheinen birgt das Risiko, dass diese einen ungewünschten Viralen Effekt bekommen. Um dies zu vermeiden, generiert MailBeez automatisch personalisierte Gutscheine für jeden Empfänger der Kampagne – Sie können im Gutschein System bei der Konfiguration der Gutschein-Vorlage selber wählen, wie oft dieser eingesetzt werden darf.
+[plugin:content-inject](/content_blocks/pro_coupon)
 
-**Professionelle Vorlagen**
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
-per Maus-Klick kann aus einer Reihe von professionellen Vorlagen gewählt werden:
-
-Wie alle MailBeez Kampagnen Module, so wird auch bei diesem Module der Inhalt der Email mit Hilfe von Vorlagen generiert – diese sind einfach anpassbar, so dass das Design Ihres Online-Shops auch in den Emails angewendet werden kann.
-
-## Installation
-
-Wie bei fast allen MailBeez Modulen, so ist die Installation mit dem FTP Transfer der Modul-Dateien und anschliessender Aktivierung im Admin erledigt.
-
-Um das Gutschein-System des Online-Shops mit dem Module zu verknüpfen, sind lediglich folgende Schritte erforderlich:
-
-**Schritt 1: Gutschein-Vorlagen für den Einsatz in MailBeez anlegen.**
-
-Um Gutscheinvorlagen in MailBeez Modulen auswählen zu können, müssen diese zunächst in der Gutschein Administration angelegt werden:
-
-- **Gutschein Code**- hier ist Namenskonvention: der Gutschein-Code muss mit “template\_” beginnen, als z.B. “template\_bewertung1″
-- **Gutschein Name** – Hier den Namen des Gutscheines nach eigener Wahl eingeen
-- **Gutschein Datum Felder** – Die Eingaben hier sind nicht relevant – MailBeez erzeugt diese Daten beim Generieren eines Gutscheines
-- **Anzahl Verwendungen** – nach eigenem Wunsch, z.B. “1″ konfigurieren
-
-die Gutschein-Vorlage wie gewohnt speichern.  
-**Schritt 2: Das MailBeez Modul konfigurieren**
-
-Nachdem jetzt also eine Gutschein Vorlage im System ist, wieder in die MailBeez Administration wechseln. Dort in der Modulkonfiguration die jetzt sichtbare Gutschein Vorlage aus der Drop-Down Liste wählen und die Modulkonfiguration speichern.
-
-MailBeez in den “Simulation” Mode bringen und das Modul ausführen – es werde die zur Konfiguration passenden Emails generiert.
-
-Die erzeugten Simulations Gutscheine tragen die Kennung [SIM] – dies ermöglicht die einfache Unterscheidung von Simulations Gutscheinen und “echten” Gutscheinen.
-
-Mit der integrierten Funktion “Simulations Gutscheine löschen” können diese bequem wieder aus dem System entfernt werden.

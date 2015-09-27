@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [pro,coupon]
 module:
@@ -53,34 +53,12 @@ Fully automated, personalized and complete with configurable expiry dates, the M
 
 **Auto-generated coupons**
 
-The Birthday module takes advantage of Mailbeez’s intelligent architecture by providing your store with the ability to send an individual, personalized coupon to each customer. The dynamically generated coupon in the Birthday mail is fed by a “Master Coupon” in your online store’s coupon admin area – a coupon which then feeds into the Birthday module for Mailbeez to personalize. For more information on how Mailbeez auto-generates personalized coupons, [please click here](http://www.mailbeez.com/blog/configuring-coupons-mailbeez-campaigns/ "Configuring coupons for Mailbeez Campaigns").
+[plugin:content-inject](/content_blocks/pro_coupon)
 
-**A good email starts with great content**
+[plugin:content-inject](/content_blocks/pro_responsive_template)
 
-Like all MailBeez Modules, the email content itself is taken from a template file, which can be customized without touching any code.
+<!--
 
-**Want responsive Emails with MailBeez?**  
-![](http://www.mailbeez.com/images/responsive.png) ([what are responsive emails?](/documentation/responsive-emails/)) In combination with the [responsive template manager](/documentation/mailbeez/config_tmplmngr) you are able to select a responsive email template for this module and adopt it to your design.   
-The shown themed email templates are not yet responsive, we plan to make that as soon as possible (support for responsive emails will require in any case the [responsive template manager](/documentation/mailbeez/config_tmplmngr)). ****
-
- 
-			#gallery-1 {
-				margin: auto;
-			}
-			#gallery-1 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 50%;
-			}
-			#gallery-1 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-1 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		  [![logo](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2014/06/logo-100x24.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2014/06/logo.png "logo")   [![shopgate](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2012/01/shopgate-200x175.gif)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2012/01/shopgate.gif "shopgate")  [![logo_thehive](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/08/logo_thehive-200x45.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/08/logo_thehive.png "logo_thehive")   [![logo_thehive](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/08/logo_thehive1-200x44.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/08/logo_thehive1.png "logo_thehive")  [![logo_thehive](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/08/logo_thehive2-200x44.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/08/logo_thehive2.png "logo_thehive")   [![cert](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/09/cert.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/09/cert.png "cert")  [![notification_done](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_done.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_done.png "notification_done")   [![notification_error](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_error.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_error.png "notification_error")  [![notification_warning](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_warning.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_warning.png "notification_warning")   [![notification_error_big](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_error_big.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2010/09/notification_error_big.png "notification_error_big")  [![zc_modules](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/01/zc_modules-199x105.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/01/zc_modules.png "zc_modules")   [![mailbeez_logo_4_400x100_trans](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/02/mailbeez_logo_4_400x100_trans-200x50.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/02/mailbeez_logo_4_400x100_trans.png "mailbeez_logo_4_400x100_trans")  [![info](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/05/info.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/05/info.png "info")   [![multilanguage](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/05/multilanguage.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/05/multilanguage.png "multilanguage")  [![payment_inadvance_dunning](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/06/payment_inadvance_dunning.png)](http://localhost/wordpress_mailbeez_EOL/wp-content/uploads/2011/06/payment_inadvance_dunning.png "payment_inadvance_dunning") 
 
 Just in case ‘Dave’ isn’t the name of every one of your customers, Mailbeez emails support dynamic placeholder data, so you can ensure that every email your store sends is fully personalized with the first name, full name, or a number of growing dynamic elements available from your store’s database, all through simple ‘drop in’ code snippets.
 
@@ -99,3 +77,6 @@ The Birthday module offers some handy configuration options which are detailed b
 - **Length of Coupon Code:** Sets the length of the automatically generated coupon code
 
 Questions? Ideas? Please [contact ](http://localhost/wordpress_mailbeez_EOL/about/contact/)me
+
+
+-->
