@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -61,9 +61,4 @@ Whilst Review Simple does not include the more advanced features of the [Review 
 
 Like all Mailbeez modules, even the extremely powerful Advanced modules, Review Simple is very simple to install and configure. Installation is usually a case of just transferring a few files into your FTP, whilst configuration is via the Mailbeez module controls in your store’s admin area; an environment you are already familiar very familiar with.
 
-## Review Simple vs. Review Advanced
-
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=4 "Edit")  Review Simple Review Advanced Comment Ask Customer to write a Review PRO\_YES PRO\_YES Getting more Review means increasing revenue! Secure Auto Login PRO\_NO PRO\_YES Customers are signed in automatically and can write right away Up to 3 Reminders PRO\_NO PRO\_YES flexible Workflow to increase the review rate Advanced Layouts PRO\_NO PRO\_YES allow most advanced Layouts e.g. product grids Social Sharing Services PRO\_NO PRO\_YES Allow customers to share products on Facebook etc. Products for Test-Email PRO\_NO PRO\_YES Fill the Test-Email with products – great for template development Professional Templates PRO\_NO PRO\_YES Choose from a list of professional templates Multiple Order Status PRO\_NO PRO\_YES Define a number of order status to react on White Label Emails PRO\_NO PRO\_YES Copyright free EmailsBoost your Reviews with advanced Multi-step MailBeez Module  
-[Review Reminder Advanced – with autologin](http://www.mailbeez.com//documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
-
-[visit the module now ›](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
+Boost your Reviews with advanced Multi-step MailBeez Module  [Review Reminder Advanced – with autologin](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin").

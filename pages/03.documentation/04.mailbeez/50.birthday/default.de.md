@@ -1,8 +1,8 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: MailBeez Feedback
-slug: mailbeez_feedback
-# menu: MailBeez Feedback
+title: Geburtstags-Email
+slug: birthday
+# menu: Geburtstags-Email
 date: 22-05-2010
 published: true
 publish_date: 22-05-2010
@@ -15,21 +15,21 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [core]
 module:
-    code: 'mailbeez_feedback'
-    category: [depreciated]
+    code: 'birthday'
+    category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
-    thumbnail: ''
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2010/06/birthday_cake_112.png'
     pro: ''
     cert: ''
     price: ''
-    title_en: 'MailBeez Feedback'
+    title_en: 'Birthday Greetings'
     teaser_en: ''
-    title_de: ''
-    teaser_de: ''
+    title_de: 'Geburtstags Glückwünsche'
+    teaser_de: 'Erinnere den Geburtstag deiner Kunden und sende Glückwünsche'
     author: 'MailBeez.com'
 # added collection selector
 
@@ -49,14 +49,8 @@ metadata:
 #  last_modified: true
 ---
 
-Help to improve MailBeez – this MailBeez Module sends a monthly statistic to MailBeez.com
+Dieses Module macht genau was es sagt, jedes Jahr und kostenlos!
 
-The Email contains following information:
+Um einen personalisierten Gutschein mit mobilfreundlichen (responsive) Emails zum Geburtstag zu verschicken, bitte das Modul [Geburtstags-Email – mit Gutschein](/documentation/mailbeez/coupon_birthday/ "Geburtstags-Email") als Bestandteil der Profi Tarife verwenden.
 
-- installed modules
-- total number of emails
-- your personal greeting
 
- 
-
-It is also a good example that you can use MailBeez for e.g. automatic report emails you would like to send to your manager.

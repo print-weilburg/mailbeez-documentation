@@ -1,12 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: MailBeez check for update
-slug: mailbeez_check
-# menu: MailBeez check for update
-date: 09-06-2010
+title: Birthday
+slug: birthday
+# menu: Birthday
+date: 22-05-2010
 published: true
-publish_date: 09-06-2010
-# unpublish_date: 09-06-2010
+publish_date: 22-05-2010
+# unpublish_date: 22-05-2010
 template: docs
 # theme: false
 visible: true
@@ -15,21 +15,21 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [core]
 module:
-    code: 'mailbeez_check'
-    category: [depreciated]
+    code: 'birthday'
+    category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
-    thumbnail: ''
+    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2010/06/birthday_cake_112.png'
     pro: ''
     cert: ''
     price: ''
-    title_en: 'MailBeez Check for Updates'
+    title_en: 'Birthday Greetings'
     teaser_en: ''
-    title_de: ''
-    teaser_de: ''
+    title_de: 'Geburtstags Glückwünsche'
+    teaser_de: 'Erinnere den Geburtstag deiner Kunden und sende Glückwünsche'
     author: 'MailBeez.com'
 # added collection selector
 
@@ -49,12 +49,7 @@ metadata:
 #  last_modified: true
 ---
 
-This MailBeez Module checks the MailBeez-Server for updates or new Modules and sends you an Email.
+It does what it says it does:  It sends Birthday Greetings to your customers – each year – for free.
 
-This is not a newsletter subscription. The Module runs on your server and sends an email to your email adress (can be configured).
+To include a personalized generated Coupon with the Birthday Greetings with responsive Emails please choose the [Birthday Coupon Module](/documentation/mailbeez/coupon_birthday/ "The Mailbeez Birthday Coupon Module") as part of the matching Pro Subscriptions.
 
-Intervals:
-
-- daily
-- weekly
-- monthly

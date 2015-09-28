@@ -1,8 +1,8 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Coupon Referral Honey
+title: Neukunden-Gewinnungssystem "ReferralHoney"
 slug: coupon_referral_honey
-# menu: Coupon Referral Honey
+# menu: Neukunden-Gewinnungssystem "ReferralHoney"
 date: 10-01-2012
 published: true
 publish_date: 10-01-2012
@@ -15,9 +15,9 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro,coupon]
 module:
     code: 'coupon_referral_honey'
     category: [mailbeez]
@@ -49,23 +49,37 @@ metadata:
 #  last_modified: true
 ---
 
-[Visit the MailBeez ReferralHoney Microsite for more information and screenshots](http://www.mailbeez.com/download/mailbeez-referral-honey/ "The MailBeez ReferralHoney")
+Kunden werben Kunden:
 
-**ReferralHoney is a fully automated customer referral system for the Mailbeez framework. Customers refer friends or family to your store, and get rewarded when one of their referral group makes a purchase, a cycle which truly makes every customer a potential marketeer.**
+<!--
+[Besuchen Sie die MailBeez ReferralHoney Mini-Site für mehr Informationen](/download/mailbeez-referral-honey/ "The MailBeez ReferralHoney")
+-->
 
-Take a look at the following flow to see how the ReferralHoney cycle works:
+**ReferralHoney ist ein voll automatisches Neukunden-Empfehlungssystem für MailBeez. Kunden empfehlen den Shop an Freunde oder Familie und erhalten einen Belohnungs-Gutschein, wenn ein oder mehr Freunde eine Bestellung tätigen – ein Kreislauf, der zu neuen Kunden führt!**
 
-![](http://www.mailbeez.com/wp-content/uploads/2012/01/referralhoney_flow_en.png "referralhoney_flow_en")
+So funktioniert MailBeez ReferralHoney:
 
-ReferralHoney emails a personalized coupon code link to each customer after they have placed an order in your store, which they can then share with friends, family or co-workers, in the knowledge that if one of their contacts places an order with the code, they will automatically receive a store reward. Within the initial referral email, your customers will also find a link that will take them to their own coupon code page hosted at your store’s website, a page that they can share with their contacts on Facebook, Twitter, their blog or personal website.
+![](referralflow.de.png "referralhoney_flow_de")
 
-**Automated and personalized**
+ReferralHoney gibt jedem Ihrer Kunden die Möglichkeit und einen Anreiz neue Kunden für Sie zu finden. Um die bekannte Wirkung von persönlichen Empfehlungen zu entfalten, versendet ReferralHoney eine Einladungs-Email mit einem Link zu einer personalisierten Empfehlungsseite. Der Kunde kann diese Empfehlungsseite mit einem Klick an seine Freunde, Familie, Vereinskameraden oder Kollegen weitergeben, da er weiss, dass eine Belohnung auf ihn wartet. Die Empfehlungsseite ist bereits mit Facebook, Twitter und Google+ integriert – Die Empfehlung ist also mit wenigen Klicks erledigt!
 
-A true fit and forget, fully automated and intelligent system, at its heart, ReferralHoney uses your store’s inbuilt coupon system alongside the MailBeez framework to create the basis on which codes are created, tracked, rewarded and ultimately emailed to the participants. Relying on this coupon functionality means that there is nothing to install apart from the module itself, and absolutely no tracking code to add to the front end of your site.
+Facebook: Der eingeladene Kunde kann seine persönliche Share-Page mit einem Klick auf Facebook teilen.
 
-As you may already be aware, a Mailbeez module installation is very easy, and simply requires you to drop the new files into your store’s FTP area. Most importantly, no existing store files need be altered.
+Twitter: Die persönliche Share-Page erlaubt es auch, innerhalb von Sekunden einen neuen Tweet zu senden
 
-### General Module Options:
+E-Mail: Und natürlich kann der Link zur persönlichen Share-Page auch per Email, Chat oder andere Wege an Freunde weitergegeben werden.
+
+
+**Automatisiert und personalisiert**
+
+Einrichten und vergessen: Einmal installiert wird ReferralHoney – wie alle MailBeez Module bei entsprechender Konfiguration – voll automatisch laufen und Emails, Gutschein und Belohnungen erstellen, versenden und nachverfolgen.
+Als MailBeez-Modul ist die Installation in kurzer Zeit erledigt und ausser der Individualisierung der Vorlagen und Einstellungen ist nichts am Shopsystem zu ändern!
+MailBeez ReferralHoney bietet eine Reihe von Konfigurationsmöglichkeiten, um die persönliche Marketingstrategie Ihres Shops zu unterstützen, dies kann z.B. der zeitliche Abstand des Versandes der Einladung nach der Bestellung sein, der erforderliche Bestell-Status oder auch der Wert des Empfehlungsgutscheins. Wenn es zur Belohnung der fleissigen Empfehler kommt (natürlich auch automatisch), können Sie in drei Stufen eine Staffelung einrichten. Wenn von Peters Freunden z.B. drei bestellen, kann Peter eine größere Belohnung erhalten, als wenn nur zwei bestellen.
+
+Wir empfehlen, den MailBeez Service für die Einrichtung, Konfiguration und Inbetriebnahme zu buchen.
+
+
+### Modul Optionen:
 
 **Order-Status of Customer order to start**  
  Choose the order status on which ReferralHoney will begin the referral cycle – we would recommend ‘despatched’, or your store equivalent.
@@ -91,7 +105,7 @@ As you may already be aware, a Mailbeez module installation is very easy, and si
 **Length of Coupon Code**  
  Sets the length of the automatically generated coupon code
 
-**Sender email****, Sender name**  
+**Sender email**, **Sender name**  
  Sets the from email address and name in each ReferralHoney email. Typically you would want to use your store’s most used email address and name to ensure high delivery rates.
 
  
@@ -104,9 +118,7 @@ As you may already be aware, a Mailbeez module installation is very easy, and si
 **Coupon Template – Friends Coupon for sharing**  
  Choose the coupon code template you have configured in the coupon system. This coupon will be used as template to generate a personalized, unique coupon. The coupon code must start with ‘*template\_*‘ e.g. ‘*template\_game*‘
 
-> When setting up the ReferralHoney refer a friend coupon template, please make sure to leave the usage field blank, or for example enter a number of at least 50. If we take this scenario as an example, the customer who receives the coupon to share with their friends is always marked as having used the coupon (so only their friends can use it), leaving 49 more uses available.
-> 
-> The number of usages per customer field should be set to 1 – the refer a friend coupon is automatically marked as used by the referring customer when it is sent, which makes sure the coupon is only used by newly referred customers and not the initial recipient.
+>>>>> When setting up the ReferralHoney refer a friend coupon template, please make sure to leave the usage field blank, or for example enter a number of at least 50. If we take this scenario as an example, the customer who receives the coupon to share with their friends is always marked as having used the coupon (so only their friends can use it), leaving 49 more uses available.The number of usages per customer field should be set to 1 – the refer a friend coupon is automatically marked as used by the referring customer when it is sent, which makes sure the coupon is only used by newly referred customers and not the initial recipient.
 
 **Share-Coupon: Expires after days** (same as in General Options)  
  The number of days after which the share coupon expires – calculated from the sending point of time.
@@ -147,29 +159,3 @@ You can set up to 3 levels of rewards, which means that for each level you can d
 
 **Reward-Coupon: Expires after days**  
  The number of days after which the coupon expires – calculated from the sending point of time.
-
- 
-
-## ReferralHoney vs. Online System
-
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=11 "Edit")  Online Service ReferralHoney Comment Reward customers when they find new Customers PRO\_YES PRO\_YES A simple, yet powerful way to motivate your customers to refer friends to your store Social sharing PRO\_YES PRO\_YES Easy social sharing on e.g. Facebook, Twitter Email sharing PRO\_YES PRO\_YES Customer can email their friends about the discount Analytics PRO\_YES PRO\_YES Get a full overview what is going on Personalized share coupon PRO\_NO PRO\_YES ReferralHoney generates personalized share coupons Automatic expiration date PRO\_NO PRO\_YES You configure e.g. “the share coupon is valid for 14 days” – done Personalized reward coupon PRO\_NO PRO\_YES ReferralHoney generates personalized reward coupons Reward amount depending on referred orders PRO\_NO PRO\_YES Create up to 3 levels of rewards for your customers based on the number of referred orders Protection against fake-orders PRO\_NO PRO\_YES Only approved orders based on defined order status’ will receive rewards Delayed reward PRO\_NO PRO\_YES The referrer’s reward is given after the expiration of their share coupon Support multiple languages in parallel PRO\_NO PRO\_YES Fully ready to support stores with multiple languages Data protection PRO\_NO PRO\_YES No Customer data is exported, & no transactional emails are shared with a 3rd party Integration with shop system PRO\_NO PRO\_YES ReferralHoney is 100% integrated into your eCommerce store system Price 7.5% of Sales  
- $15 min./month One-time cost Don’t pay a penny in commission or get stuck with a monthly subscription.
-V2.5
-- improvements for mailchimp compatiblity
-- option to send reward emails only to customers with referrals
-
-V2.4
-- general improvements
-- mailchimp ready
-
-V2.3
-- Bugfix
-
-V2.2
-- Bugfix
-
-V2.1
-- Bugfix
-
-V2.0
-- initial public release

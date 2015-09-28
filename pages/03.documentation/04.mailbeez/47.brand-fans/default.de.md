@@ -9,15 +9,15 @@ publish_date: 23-08-2011
 # unpublish_date: 23-08-2011
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: []
+    tag: [pro]
 # added collection selector
 
 author:
@@ -36,11 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-kommt in kürze
-
-    
-  
- Sichere Dir den Einführung Discount und abonniere den MailBeez Newsletter:  
+Diese Modul ist noch in der Ideen-Findung - bei weiterem Interesse bitte Kontakt aufnehmen 
   
   
   

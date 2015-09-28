@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -55,15 +55,11 @@ Für neue Online-Shops oder für neugierige Online-Händler – die gerne MailBe
 
 **Kunden wieder in den Shop holen**
 
-Diese kostenlose Version des Modules zur Kundenrückgewinnung hat natürlich nicht die Profi-Funktionen, welche ein ernsthafter Einsatz erfordern ([Kundenrückgewinnung Profi](/documentation/mailbeez/winback_advanced "Kundenrückgewinnung Profi")), aber dennoch ermöglicht es die automatische Kontaktaufnahme zu bereits verloren geglaubten Kunden.
+Diese kostenlose Version des Modules zur Kundenrückgewinnung hat natürlich nicht die Profi-Funktionen, welche ein ernsthafter Einsatz erfordern ([Kundenrückgewinnung Profi](/dokumentation/mailbeez/winback_advanced "Kundenrückgewinnung Profi")), aber dennoch ermöglicht es die automatische Kontaktaufnahme zu bereits verloren geglaubten Kunden.
 
 **Einfach zu installieren und konfigurieren**
 
 Das Modul “Kundenrückgewinnung einfach” ist – wie alle MailBeez Module – sehr einfach zu installieren und konfigurieren. Einfach mit FTP die Modul-Dateien übertragen, dann steht das neue Modul in der MailBeez Administration zur Konfiguration bereit.  
- Die Email Vorlagen sind wie gewohnt in .tpl Dateien definiert und können dort bearbeitet werden – für den Profi-Einsatz empfiehlt sich natürlich die Erweiterung “[Vorlagen Manager](/documentation/configbeez/config_tmplmngr/?lang=de)“.
+ Die Email Vorlagen sind wie gewohnt in .tpl Dateien definiert und können dort bearbeitet werden – für den Profi-Einsatz empfiehlt sich natürlich die Erweiterung “[Vorlagen Manager](/kocumentation/configbeez/config_tmplmngr)“.
 
-## Kundenrückgewinnung einfach vs. Profi
-
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=8 "Edit")  Einfach Profi Kommentar Kontaktiert Kunden nach einer bestimmten Zeit ohne Bestellung PRO\_YES PRO\_YES Alt-Kunden dürfen nicht in Vergessenheit geraten Personalisierte Gutschein mit Gültigkeitsdatum PRO\_NO PRO\_YES Voll konfigurierbare Gutscheine werden automatisch generiert 3 Kontakt-Schritte + endlos Schleife PRO\_NO PRO\_YES Flexibler Ablauf mit mehreren Kontaktpunkten um die Rückgewinnung zu optimieren Profi Layouts PRO\_NO PRO\_YES 100% flexibles Vorlagensystem mit z.B. Produktgittern Liste der zuletzt gekauften Produkte PRO\_NO PRO\_YES Erinnert den Kunden, was zuletzt gekauft wurde Social Sharing Services PRO\_NO PRO\_YES Kunden können Produkte direkt auf z.B. Facebook teilen Produkte in Test-Emails PRO\_NO PRO\_YES Bereits Test-Emails werden mit Beispielprodukten gefüllt – besonders hilfreich bei der Vorlagen-Entwicklung Professionelle Vorlagen PRO\_NO PRO\_YES per Mausklick auswählbare Vorlagen – können leicht selbst angepasst und erweitert werden. Mehrere Bestell-Status PRO\_NO PRO\_YES Mehr als ein Bestellstatus kann gewählt werden, um Kunden zu identifizieren Copyright-freie Emails PRO\_NO PRO\_YES Emails ohne MailBeez Copyright FusszeileDie beste Kunden-Rückgewinnungs Resultate liefert das Modul [Kundenrückgewinnung Profi mit Gutscheinen](/documentation/mailbeez/winback_advanced/ "Kundenrückgewinnung Profi")
-
-[Jetzt mehr dazu lesen ›](/documentation/mailbeez/winback_advanced/ "Kundenrückgewinnung Profi")
+Die beste Kunden-Rückgewinnungs Resultate liefert das Modul [Kundenrückgewinnung Profi mit Gutscheinen](/documentation/mailbeez/winback_advanced/ "Kundenrückgewinnung Profi") als Bestandteil der Profi-Tarife.

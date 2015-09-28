@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -55,16 +55,11 @@ Wenn ein Kunde ein Produkt bei Ihnen bestellt hat, ist der nächste logische Sch
 
 **Starke Lösung für Einsteiger**
 
-Obwohl diese einfache Version des Modules zur Bitte um Produktbewertungen natürlich nicht den Funktionsumfang von [Produktbewertungen Profi](/documentation/mailbeez/review_advanced "Produktbewertungen einfach") besitzt, erlaubt es dennoch sofort mit der automatischen Aufforderung von Kunden zur Produktbewertung zu starten und einen ersten Eindruck der Ergebnisse zu erhalten.
+Obwohl diese einfache Version des Modules zur Bitte um Produktbewertungen natürlich nicht den Funktionsumfang von [Produktbewertungen Profi](/dokumentation/mailbeez/review_advanced "Produktbewertungen einfach") besitzt, erlaubt es dennoch sofort mit der automatischen Aufforderung von Kunden zur Produktbewertung zu starten und einen ersten Eindruck der Ergebnisse zu erhalten.
 
 **Einfach zu installieren und konfigurieren**
 
 Das Modul “Produktbewertungen einfach” ist – wie alle MailBeez Module – sehr einfach zu installieren und konfigurieren. Einfach mit FTP die Modul-Dateien übertragen, dann steht das neue Modul in der MailBeez Administration zur Konfiguration bereit.  
- Die Email Vorlagen sind wie gewohnt in .tpl Dateien definiert und können dort bearbeitet werden – für den Profi-Einsatz empfiehlt sich natürlich die Erweiterung “[Vorlagen Manager](/documentation/configbeez/config_tmplmngr/?lang=de)“.
+ Die Email Vorlagen sind wie gewohnt in .tpl Dateien definiert und können dort bearbeitet werden – für den Profi-Einsatz empfiehlt sich natürlich die Erweiterung “[Vorlagen Manager](/dokumentation/configbeez/config_tmplmngr/“ als Bestandteil der Profi-Tarife.
 
-## Produktbewertungen einfach vs. Profi
-
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=9 "Edit")  Einfach Profi Kommentar Bitte Kunden um das Schreiben von Produktewertungen PRO\_YES PRO\_YES Mehr Bewertungen wirken umsatzsteigernd! Sicheres Auto-Login PRO\_NO PRO\_YES Kunden können sofort mit dem Schreiben der Bewertungen beginnen Bis zu 3 Erinnerungen PRO\_NO PRO\_YES Eine Erinnerung wirkt Wunder! Profi Layouts PRO\_NO PRO\_YES 100% flexibles Vorlagensystem mit z.B. Produktgittern Social Sharing Services PRO\_NO PRO\_YES Kunden können Produkte direkt auf z.B. Facebook teilen Produkte in Test-Emails PRO\_NO PRO\_YES Bereits Test-Emails werden mit Beispielprodukten gefüllt – besonders hilfreich bei der Vorlagen-Entwicklung Professional Templates PRO\_NO PRO\_YES per Mausklick auswählbare Vorlagen – können leicht selbst angepasst und erweitert werden. Mehrere Bestell-Status PRO\_NO PRO\_YES Mehr als ein Bestellstatus kann gewählt werden, um Kunden zu identifizieren Copyright-freie Emails PRO\_NO PRO\_YES Emails ohne MailBeez Copyright FusszeileDer Turbo-Start für Produktbewertungen mit dem Modul  
-[Produktbewertungen Profi – mit Autologin](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
-
-[Jetzt mehr dazu lesen ›](/documentation/mailbeez/review_advanced/ "Produktbewertungen einfach – Autologin")
+Der Turbo-Start für Produktbewertungen mit dem Modul [Produktbewertungen Profi – mit Autologin](/dokumentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")

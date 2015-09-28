@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -51,21 +51,13 @@ metadata:
 
 This MailBeez Module allows you to contact customers with an account but no purchase.
 
-Options are:
 
-**Set days passed after account created**  
- how many days to wait for contacting after account creating
+**Great for stores just starting out**
 
-**Set days to skip after**  
- end of timeframe
+Whilst Nopurchase Simple does not include the more advanced features of the [Nopurchase Advanced with Coupons](/documentation/mailbeez/nopurchase_advanced/ "Nopurchase Advanced"), a module we would recommend you upgrade to once you have tested Nopurchase Simple for a few days, nevertheless it will allow you to start automatically emailing customers without a purchase straight out of the box.
 
-**check for empty customer basket**  
- True: contact only, when customer basket is emtpy  
- False: contact even if products in customer basket
+**Easily installed and configured**
 
-## Nopurchase Simple vs. Nopurchase Advanced
+Like all Mailbeez modules, even the extremely powerful Advanced modules, Nopurchase Simple is very simple to install and configure. Installation is usually a case of just transferring a few files into your FTP, whilst configuration is via the Mailbeez module controls in your store’s admin area; an environment you are already familiar very familiar with.
 
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=6 "Edit")  Nopurchase Simple Nopurchase Advanced Comment Contact Customers w/o purchase PRO\_YES PRO\_YES Follow up on customers who have signed for an account, but never ordered personalized Coupons with expiration date PRO\_NO PRO\_YES fully configurable personalized coupons are added 3 different Steps + endless loop PRO\_NO PRO\_YES flexible Workflow to increase the rate of getting a first order Advanced Layouts PRO\_NO PRO\_YES allow most advanced Layouts Professional Templates PRO\_NO PRO\_YES Choose from a list of professional templates White Label Emails PRO\_NO PRO\_YES Copyright free EmailsGet the best Rates for first orders with the advanced Multi-step MailBeez Module  
-[Nopurchase Advanced with Coupons](/documentation/mailbeez/nopurchase_advanced/ "Nopurchase Advanced")
-
-[visit the module now ›](/documentation/mailbeez/nopurchase_advanced/ "nopurchase Advanced")
+Get the best Rates for first orders with the advanced Multi-step MailBeez Module  [Nopurchase Advanced with Coupons](/documentation/mailbeez/nopurchase_advanced/ "Nopurchase Advanced").

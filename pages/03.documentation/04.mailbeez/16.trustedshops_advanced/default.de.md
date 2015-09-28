@@ -1,8 +1,8 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Trustpilot Profi
-slug: trustpilot_advanced
-# menu: Trustpilot Profi
+title: Trustedshops Profi
+slug: trustedshops_advanced
+# menu: Trustedshops Profi
 date: 04-06-2013
 published: true
 publish_date: 04-06-2013
@@ -19,16 +19,16 @@ taxonomy:
     category: [docs]
     tag: [pro]
 module:
-    code: 'trustpilot_advanced'
+    code: 'trustedshops_advanced'
     category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2013/06/top_64.png'
     pro: 'pro'
     cert: 'true'
     price: '99 EUR'
-    title_en: 'Trustpilot Advanced'
+    title_en: 'Trustedshops Advanced'
     teaser_en: 'Advanced Features: Delay for international orders, multiple Order status, recognition of regular customers'
-    title_de: 'Trustpilot Profi'
+    title_de: 'Trustedshops Profi'
     teaser_de: 'Profi-Features: Verzögerung für internationale Bestellungen, Stammkunden-Erkennung und mehr'
     author: 'MailBeez.com'
 # added collection selector
@@ -49,13 +49,11 @@ metadata:
 #  last_modified: true
 ---
 
-**Optimieren Sie Ihre Trustpilot Partnerschaft**
-
-Trustpilot Unique Link Version: [Trustpilot Profi Unique Link Version](/dokumentation/mailbeez/trustpilot_advanced_ul/)
+**Optimieren Sie Ihre Trustedshops Partnerschaft**
 
 ## Profi-Funktionen
 
-Im Vergleich zum kostenfreien Trustpilot Modul, welches bereits die Integration mit dem Trustpilot Feedback Service zum Einladen von Kunden zur Abgabe von Bewertungen bietet, erlaubt die Profi-Version die Optimierung des Ablaufes zur Bewertungs-Aufforderung:
+Im Vergleich zum kostenfreien Trustedshops Modul, welches bereits die Einladen von Kunden zur Abgabe von Bewertungen bietet, erlaubt die Profi-Version die Optimierung des Ablaufes zur Bewertungs-Aufforderung:
 
 ## Mehrere Bestell Status
 
@@ -75,4 +73,4 @@ Das Modul wird dann automatisch prüfen, ob bereits eine neuen Einladung versend
 
 ### Wollen Sie Ihre wertvollen Bewertungen mit Shop und Email-Marketing integrieren?
 
-Mit der [Trustpilot Integration Suite](/dokumentation/configbeez/config_trustpilot_rss_importer/) können Sie schnell und einfach Trustpilot-Bewertungen serverseitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren
+Mit der [Trustedshops Integration Suite](/dokumentation/configbeez/config_trustedshops_rss_importer/) können Sie schnell und einfach Trustedshops-Bewertungen serverseitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren

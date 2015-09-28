@@ -63,7 +63,7 @@ in Ihrer Haupt- oder auch Inhalts-Vorlage. Der Empfänger wird dann mit Klick au
 
 ## Archiv
 
-Alle Emails werden automatisch in Text- und HTML-Version archiviert und sind komfortable über den Beez-O-Graph aber auch je Kunden im kostenfreien [BeezDesk Kunden Insight](http://www.mailbeez.com/dokumentation/configbeez/config_customer_insight/) einsehbar - So ist leicht nachvollziehbar, welche Emails den Kunden gesendet worden sind.
+Alle Emails werden automatisch in Text- und HTML-Version archiviert und sind komfortable über den Beez-O-Graph aber auch je Kunden im kostenfreien [BeezDesk Kunden Insight](/dokumentation/configbeez/config_customer_insight/) einsehbar - So ist leicht nachvollziehbar, welche Emails den Kunden gesendet worden sind.
 
 ## Für die nächste Version geplante Funktionen
 

@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -49,7 +49,7 @@ metadata:
 #  last_modified: true
 ---
 
-Dieses kostenfreie Modul bitte Kunden automatisch nach der Bestellung um Bewertung auf Trustedshops.
+Dieses kostenfreie Modul bitte Kunden automatisch nach der Bestellung um Bewertung auf Trustedshops. Für den professionellen Einsatz empfehlen wir das [Trustedshops Profi](/dokumentation/mailbeez/trustedshops_advanced) Modul als Bestandteil der Profi-Tarife!
 
 **ACHTUNG:**  
  Aufgrund verschiedener gesetzlicher Regelung weist Trustedshops darauf hin, dass dieses Modul nur an Kunden Aufforderungen zur Bewertung schicken darf, die ausdrücklich ihre Einwilligung dazu gegeben haben. Dies kann über eine separate Checkbox oder aber den Newsletter-Abo geschehen:
@@ -58,22 +58,4 @@ Dieses kostenfreie Modul bitte Kunden automatisch nach der Bestellung um Bewertu
 
 Jeder Shopbetreiber ist also selbst für den Einsatz dieses Modules verantwortlich. Falls die Einwilligung mit dem Newsletter-Abo gekoppelt werden soll, bitte MailBeez entsprechend konfigurieren. Im Bereich MailBeez > Konfiguration findet sich die Option nur an Kunden mit einem Newsletter-Abo zu verschicken.
 
-Mit der Trustedshops Integration Suite können Shopbetreiber die wertvollen Bewertungen optimial in ihren Online-Shop und in von MailBeez generierten Emails integrieren:
-
- **NEU: [Modul-Pakete im Tarif](https://apps.mailbeez.de) ab 9,99Eur pro Monat**### [ ![](http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/10/icon_328.png)Trustedshops Integration Suite](/dokumentation/configbeez/config_trustedshops_rss_importer/)
-
- MailBeez.com, V. 2.0  
- LINK\_COMPATIBILITY\_DE module: 159 EUR evtl. zzgl MwSt. Ihr Kauf wird sicher durch unseren Partner Avangate abgewickelt [Wer ist Avangate](http://www.avangate.com/de/shopper-support/) 
-
- 
-
-[button text](http://localhost/wordpress_mailbeez_EOL/wp-content/plugins/download-monitor/download.php?id=53)
-
-
-
- 
-
- 
-
- ![](http://www.mailbeez.com/wp-content/uploads/2011/09/cert.png)**24 Monate frei Updates! Jetzt kaufen und von zukünftigen Entwicklungen profitieren.**  
-Dieses Module erfordert ein personalisiertes Zertifikat, welches für einen Online-Shop gültig ist. Dieses Zertifikat wird zusammen mit den Download Informationen geliefert. Bitte unbedingt die richtige Shop URL eingeben, im Zweifelsfalle bitte VOR der Bestellung [MailBeez kontaktieren](/uber/kontakt/). 
+Mit der [Trustedshops Integration Suite](/dokumentation/configbeez/config_trustedshops_rss_importer) als Bestandteil der Profi-Tarife können Shopbetreiber die wertvollen Bewertungen optimial in ihren Online-Shop und in von MailBeez generierten Emails integrieren.

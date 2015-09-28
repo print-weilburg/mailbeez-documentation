@@ -4,7 +4,7 @@ title: Responsive Template Manager
 slug: config_tmplmngr
 routes:
     aliases:
-        - /documentation/mailbeez/config_tmplmngr
+        - /documentation/configbeez/config_tmplmngr
 # menu: Responsive Template Manager
 date: 30-06-2011
 published: true

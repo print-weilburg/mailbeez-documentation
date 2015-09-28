@@ -15,13 +15,13 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
     code: 'zc_testimonials'
     category: [mailbeez]
-    compatiblity: []
+    compatiblity: [comp_zencart]
     thumbnail: ''
     pro: ''
     cert: ''
@@ -49,4 +49,4 @@ metadata:
 #  last_modified: true
 ---
 
-Dieses Modul ist als Ergänzung zum [Zencart Testimonial Manager](http://www.zen-cart.com/downloads.php?do=file&id=299) gedacht. Es wird Ihre Kunden automatisch an die Abgabe einer Bewertung erinnern.
+Dieses Modul ist als Ergänzung zum [Zencart Testimonial Manager](http://www.zen-cart.com/downloads.php?do=file&id=299) entwickelt worden. Es wird Ihre Kunden automatisch an die Abgabe einer Bewertung erinnern.

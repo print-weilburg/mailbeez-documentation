@@ -9,13 +9,13 @@ publish_date: 05-03-2014
 # unpublish_date: 05-03-2014
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [core]
 # added collection selector
@@ -41,7 +41,7 @@ applies to: xtcommerce forks
 
 **IMPORTANT: read this documentation before activating the module**
 
-# Why
+## Why
 
 The latest release of modified-shop and Gambio contain some basic changes how newsletter subscription information is handled.
 
@@ -49,7 +49,9 @@ The latest release of modified-shop and Gambio contain some basic changes how ne
 
 Table "customers" contains a field "customers\_newsletter" (0 or 1) holding the newsletter subscription status. This status can be edited in the customer admin interface.
 
-MailBeez utilises this status for: - basic check for newsletter subscription (you can configure MailBeez for doing this) - Newsletter Advanced Module: only customer with newsletter subscription will receive an email
+MailBeez utilises this status for: 
+- basic check for newsletter subscription (you can configure MailBeez for doing this) 
+- Newsletter Advanced Module: only customer with newsletter subscription will receive an email
 
 **after:**
 
@@ -61,11 +63,11 @@ The MailBeez Framework does not check for this table.
 
 The MailBeez Newsletter Advanced module provides an adapter to use this table as a source for "prospect" lists. That allows you to both contact separately customers and prospects.
 
-# What happens?
+## What happens?
 
 When running this module the customer status from table "newsletter\_recipients" newsletter will be synchronised into the "customers" table. If there is not entry the status will be set to 0.
 
-# What data can I lose?
+## What data can be lost?
 
 When a customer is performing an "unsubscribe" the matching entry in table "newsletters\_recipients" will be deleted. So you can not tell, if a customer has unsubscribed.
 

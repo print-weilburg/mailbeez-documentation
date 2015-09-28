@@ -1,12 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: MailBeez Feedback
-slug: mailbeez_feedback
-# menu: MailBeez Feedback
-date: 22-05-2010
+title: Service: DataBase Optimize
+slug: service_db_optimize
+# menu: Service: DataBase Optimize
+date: 13-10-2010
 published: true
-publish_date: 22-05-2010
-# unpublish_date: 22-05-2010
+publish_date: 13-10-2010
+# unpublish_date: 13-10-2010
 template: docs
 # theme: false
 visible: true
@@ -15,21 +15,21 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: [core]
+    tag: [ce]
 module:
-    code: 'mailbeez_feedback'
-    category: [depreciated]
+    code: 'service_db_optimize'
+    category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: ''
     pro: ''
     cert: ''
     price: ''
-    title_en: 'MailBeez Feedback'
+    title_en: 'Service: DataBase Optimize'
     teaser_en: ''
-    title_de: ''
-    teaser_de: ''
+    title_de: 'Service: Datenbank Optimierung'
+    teaser_de: 'Optimiert automatisch die Shop-Datenbank'
     author: 'MailBeez.com'
 # added collection selector
 
@@ -49,14 +49,10 @@ metadata:
 #  last_modified: true
 ---
 
-Help to improve MailBeez – this MailBeez Module sends a monthly statistic to MailBeez.com
+This MailBeez Service Module optimizes your DataBase and sends you an Email with the result.
 
-The Email contains following information:
+Intervals:
 
-- installed modules
-- total number of emails
-- your personal greeting
-
- 
-
-It is also a good example that you can use MailBeez for e.g. automatic report emails you would like to send to your manager.
+- daily
+- weekly
+- monthly

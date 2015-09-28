@@ -197,7 +197,7 @@ For this reason, it is recommended that you leave this setting on “True” unl
 **Select the Email Engine**  
  This setting allows you to change which email engine you will use to send your MailBeez emails. It is set to “Shop” by default and will use your store’s email engine adhering to the email settings you configured in your store’s email configuration.
 
-You will need to change this setting to PHPMailer v5.2.1 if you are using the [ MailBeez BounceHive Bounce Handling module](/documentation/mailbeez/config_bouncehive_advanced/)
+You will need to change this setting to PHPMailer v5.2.1 if you are using the [ MailBeez BounceHive Bounce Handling module](/documentation/configbeez/config_bouncehive_advanced/)
 
 The remaining settings only apply if you change your email engine to PHPMailer v5.2.1. These settings are mostly self explanatory, but additional information can be found in the [ MailBeez BounceHive Bounce Handling tutorial](/documentation/tutorials/configbeez-tutorials/-bounce-handling-configuration-tutorial/)
 
@@ -380,7 +380,7 @@ The remaining configuration options are all additional configuration modules whi
 - Run MailBeez Automatically
 - Template Manager
 
-**[ Bounce Handling](/documentation/mailbeez/config_bouncehive_advanced/)**  
+**[ Bounce Handling](/documentation/configbeez/config_bouncehive_advanced/)**  
  Bounced emails add an extra level of unnecessary work for shop owners. Every time an email bounces, you must edit your email lists to ensure their removal. In a large shop, this can be a nightmarish experience. Too many bounced emails can get your account flagged as a spam sender and cause problems with your hosting account.
 
 This configuration module puts an end to all that by automatically managing your bounced emails. If an email bounces, Bounce Handling will mark the customer accordingly and avoid sending out additional emails.
@@ -390,7 +390,7 @@ This configuration module puts an end to all that by automatically managing your
 
 Once you start firing off a lot of emails, it’s a good idea to consider working with email throttling. Whether your store runs on a limited data plan involving hourly email restrictions, or you simply want to make sure that your site is still responsive to visitors even whilst the server fires off emails behind the scenes, email throttling is key, and the Mailbeez Simple Throttling module is the tool to use to achieve it.
 
-**[Run MailBeez Automatically](/documentation/mailbeez/config_cron_simple/)**  
+**[Run MailBeez Automatically](/documentation/configbeez/config_cron_simple/)**  
  If you want MailBeez to run automatically, you have two options. You may either:
 
 - Set up a cronjob to manage the automation for you
@@ -398,7 +398,7 @@ Once you start firing off a lot of emails, it’s a good idea to consider workin
 
 Without one of the above options in place, it will be up to you to manually send out your MailBeez emails by clicking the “Run” button in each module you want to run, as often as you want to run it. The Run MailBeez Automatically module is recommended because it is for many users by far the easier of the two options.
 
-**[Template Manager](/documentation/mailbeez/config_tmplmngr/)**  
+**[Template Manager](/documentation/configbeez/config_tmplmngr/)**  
  Mailbeez has developed a handy module that easily allows you to both edit and view your text changes right from the MailBeez interface within your store’s admin. Fully functional with all official (free and premium) MailBeez Modules as well as with custom built modules, the Mailbeez Template Manager makes editing a template a breeze, so much so that you may wonder how you ever lived without it!
 
 **[Mouseflow](/documentation/configbeez/config_mouseflow/)**  

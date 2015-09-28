@@ -1,12 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: MailBeez check for update
-slug: mailbeez_check
-# menu: MailBeez check for update
-date: 09-06-2010
+title: Service: Datenbank Optimierung
+slug: service_db_optimize
+# menu: Service: Datenbank Optimierung
+date: 13-10-2010
 published: true
-publish_date: 09-06-2010
-# unpublish_date: 09-06-2010
+publish_date: 13-10-2010
+# unpublish_date: 13-10-2010
 template: docs
 # theme: false
 visible: true
@@ -15,21 +15,21 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
-    tag: [core]
+    tag: [ce]
 module:
-    code: 'mailbeez_check'
-    category: [depreciated]
+    code: 'service_db_optimize'
+    category: [mailbeez]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
     thumbnail: ''
     pro: ''
     cert: ''
     price: ''
-    title_en: 'MailBeez Check for Updates'
+    title_en: 'Service: DataBase Optimize'
     teaser_en: ''
-    title_de: ''
-    teaser_de: ''
+    title_de: 'Service: Datenbank Optimierung'
+    teaser_de: 'Optimiert automatisch die Shop-Datenbank'
     author: 'MailBeez.com'
 # added collection selector
 
@@ -49,12 +49,11 @@ metadata:
 #  last_modified: true
 ---
 
-This MailBeez Module checks the MailBeez-Server for updates or new Modules and sends you an Email.
+Dieses MailBeez Service Modul optimiert regelmässig die Shop-Datenbank und schickt Ihnen eine Email mit dem Ergebnis.
 
-This is not a newsletter subscription. The Module runs on your server and sends an email to your email adress (can be configured).
+Wählbare Optimierungsintervalle sind
 
-Intervals:
+- täglich
+- wöchentlich
+- monatlich
 
-- daily
-- weekly
-- monthly

@@ -90,7 +90,7 @@ Because this is a shared setting, meaning it is used as both the sender and rece
 **Interval**  
  This setting allows you to choose the interval at which the module will check for updates. Your choices are every day, every week, or every month. By default, it is set to check for a week at a time. You should adjust this setting based on how often you plan to run the module.
 
-To run this module automatically based on the interval setting you select, you will need to either set up a cronjob on your server or Install the simple and affordable [Run MailBeez Automatically module](/documentation/mailbeez/config_cron_simple/)
+To run this module automatically based on the interval setting you select, you will need to either set up a cronjob on your server or Install the simple and affordable [Run MailBeez Automatically module](/documentation/configbeez/config_cron_simple/)
 
 When you have completed your configurations, click the “Update button”. Configuration of the module is now complete!
 

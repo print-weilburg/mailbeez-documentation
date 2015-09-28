@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -49,61 +49,15 @@ metadata:
 #  last_modified: true
 ---
 
-This Module will offer your customers to share their reviews on Facebook.
-
-![](http://www.mailbeez.com/wp-content/uploads/2010/06/facebook.png "facebook")The email contains a list of purchased products with
-
-- Image
-- direct link to Facebook sharerer
-
-Like all MailBeez Moduls the email content is taken from a template, the list of products is defined in a sub-template.
-
-The Facebook Sharer link is pointing to the review-info page where the review defined by products\_id and review\_id is displayed. Facebook is able to extract the Review-Text from this page.
-
-**Changelog**
-
-v1.1  
- Bugfix:  
- - added rewrite of img url to add absolute server path
-
-V1.0  
- initial version
-v1.1 
-Bugfix:
-- added rewrite of img url to add absolute server path
+Dieses Modul kontaktiert Kunden nach der Abgabe einer Produkt-Bewertung mit der Möglichkeit, die Bewertung mit einem Klick auf Facebook zu teilen.
 
 
-v1.2 
-optimization:
-- added early check in getAudience to avoid execution when no email to send
+Die Email beinhaltet eine Liste der Produkte mit
+- Bild
+- Link zur Facebook Teilen Seite
 
+Wie bei alle MailBeez Modulen wird der Inhalt der Email basierend auf vorlagen generiert und die Produkt-Liste ist in einer Unter-Vorlage definiert.
 
-v1.3
-- $storename, $storeurl now global (mailbeez v1.3)
-- corrected replacement of testList in send testemail
+Der Facebook Teilen Link zeigt auf die review_info Seite, auf der Anhand der products_id und review_id die Bewertung des Kunden gezeigt wird.
 
-v1.4
-- corrected path-information for zencart
-
-
-v1.5
-- removed platform incompatibility
-
-
-
-v2.0
-- new templates
-- check for approval if exists
-- compatible with "early check" setting
-
-v2.2
-- move images into module folder
-
-V2.3
-- compatibility with MailBeez V2.6
-
-V2.4
-- bugfixes
-
-V2.5
-- compatibility with Gambio
+Facebook muss in der Lage sein, den Bewertungs-Text von dieser Seite zu lesen - ggf. die Shopseite anpassen.

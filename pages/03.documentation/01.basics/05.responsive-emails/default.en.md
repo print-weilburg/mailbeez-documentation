@@ -58,7 +58,7 @@ Responsive Emails adopt to the screen size of the device. On a notebook they loo
 Supported with an intuitive, visual editor already giving your preview of different mobile devices it has never been easier to develop nice looking, responsive emails!
 
 Just upgrade your MailBeez System with the MailBeez Responsive Template Manager and you are ready to create emails that look great on your customers mobile Devices!   
-[Read more about the Responsive Template Manager](/documentation/mailbeez/config_tmplmngr)
+[Read more about the Responsive Template Manager](/documentation/configbeez/config_tmplmngr)
 
 ### devices supporting responsive emails
 

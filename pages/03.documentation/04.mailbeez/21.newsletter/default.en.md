@@ -12,7 +12,7 @@ publish_date: 11-08-2011
 # unpublish_date: 11-08-2011
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
@@ -60,7 +60,7 @@ Sending an email newsletter from a vanilla install of any OScommerce variant sys
 
 As a seamless integrated module the MailBeez Newsletter Advanced Module has direct access to customers and their newsletter subscription setting. That allows your to e.g. send a newsletter campaign to all your subscribed customers without exporting or importing any data!
 
-The process of creating and editing newsletter is very easy: the intuitive visual editor allows you to create professional newsletters, which will show up best possible across different email clients. In combination with the [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/) you will also be able to create mobil-friendly responsive newsletters which will look great e.g. on your customers iPhone.
+The process of creating and editing newsletter is very easy: the intuitive visual editor allows you to create professional newsletters, which will show up best possible across different email clients. In combination with the [Responsive Template Manager](/documentation/configbeez/config_tmplmngr/) you will also be able to create mobil-friendly responsive newsletters which will look great e.g. on your customers iPhone.
 
 
 
@@ -184,12 +184,12 @@ Thanks to throttling and limiting the number of emails sent per run (chunk size)
 For best operations we recommend following modules, which will enhance the MailBeez platform. So all other MailBeez modules will be enhanced.
 
 - [Simple Throttling](/documentation/mailbeez/filter_do_throttling_simple)
-- [BounceHive Bounce Handling](/documentation/mailbeez/config_bouncehive_advanced)
+- [BounceHive Bounce Handling](/documentation/configbeez/config_bouncehive_advanced)
 - [Customer Group-Filter](/documentation/mailbeez/filter_check_group/)
 
 To create and send responsive Emails you need to install the Responsive Template Manager:
 
-- [Responsive Template Manager](/documentation/mailbeez/config_tmplmngr/)
+- [Responsive Template Manager](/documentation/configbeez/config_tmplmngr/)
 
 ### future developments
 

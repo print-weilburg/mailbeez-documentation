@@ -9,13 +9,13 @@ publish_date: 05-03-2014
 # unpublish_date: 05-03-2014
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [core]
 # added collection selector
@@ -41,7 +41,7 @@ relevant für: xtcommerce basierende Shopsysteme
 
 **WICHTIG: Diese Dokumentation lesen, bevor das Modul ausgeführt wird!**
 
-# Warum?
+## Warum?
 
 Die aktuellen Versionen von modified-shop und Gambio haben die Verwaltung der Newsletter-Abo Informationen umstrukturiert.
 
@@ -49,7 +49,9 @@ Die aktuellen Versionen von modified-shop und Gambio haben die Verwaltung der Ne
 
 In der Tabelle "customers" enthält das Feld "customers\_newsletter" den Abo-Status (0 oder 1). Dieser Status kann in der Kunden-Administration bearbeitet werden.
 
-MailBeez nutzt diesen Status für: - allgemeiner Check, ob ein Newsletter-Abo vorliegt (falls MailBeez so konfiguriert ist) - Newsletter Profi-Modul: Nur Kunden mit Newsletter-Abo werden angeschrieben
+MailBeez nutzt diesen Status für: 
+- allgemeiner Check, ob ein Newsletter-Abo vorliegt (falls MailBeez so konfiguriert ist)
+- Newsletter Profi-Modul: Nur Kunden mit Newsletter-Abo werden angeschrieben
 
 **Jetzt:**
 
@@ -61,15 +63,15 @@ Das MailBeez Grundsystem berücksichtigt nicht die Informationen in dieser Tabel
 
 Das MailBeez Newsletter Profi System nutzt diese Tabelle als Quelle vom Typ "Interessenten". Somit können gezielt nur Kunden oder nur Interessenten angeschrieben werden.
 
-# Was passiert?
+## Was passiert?
 
 Das Modul gleicht für alle Kunden den Status aus der Tabelle "newsletter\_recipients" ab, d.h. wenn dort ein aktiver Eintrag "1" vorliegt, wird dieser in die Tabelle "customers" übernommen.
 
 Wenn kein Eintrag vorliegt, wird der Newsletter Status auf 0 gesetzt.
 
-# Was kann verloren gehen?
+## Was kann verloren gehen?
 
-Da bei einem "Unsubscribe" der Eintrag aus der Tabelle "newsletters\_recipients" gelöscht wird, ist nicht nachvollziehbar, ob ein Kunden sich ausgetragen hat.
+Da bei einem "Unsubscribe" über den Shop der Eintrag aus der Tabelle "newsletters\_recipients" gelöscht wird, ist nicht nachvollziehbar, ob ein Kunden sich ausgetragen hat.
 
 Daher sind nach dem Abgleich nur noch die Kunden für den Newsletter angemeldet, welche in der Tabelle "newsletter\_recipients" vorhanden sind.
 

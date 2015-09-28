@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 # added collection selector
@@ -40,4 +40,4 @@ metadata:
 
 Mit diesem einfachen, kostenlosen Modul können Sie Ihre Kunden automatisiert um die Abgabe einer Bewertung auf idealo.de bitten.
 
-Die [Idealo Profi Version](http://www.mailbeez.com/dokumentation/mailbeez/idealo_advanced/) erlaubt es Ihnen, u.A. mehrere Bestell-Status zu konfigurieren, mit Responsive Email-Vorlagen die Darstellung auf Mobilen Geräten zu verbessern und Stamm-Kunden zu erkennen.
+Die [Idealo Profi Version](/dokumentation/mailbeez/idealo_advanced/) erlaubt es Ihnen, u.A. mehrere Bestell-Status zu konfigurieren, mit Responsive Email-Vorlagen die Darstellung auf Mobilen Geräten zu verbessern und Stamm-Kunden zu erkennen.

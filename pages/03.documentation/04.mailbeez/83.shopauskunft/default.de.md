@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -50,9 +50,12 @@ metadata:
 ---
 
 Bewertungs Email-Modul für Deutschlands größtes Online-Shop-Bewertungsportal.
+Die [Shopauskunft Integration Suite](http://grav-local.de/dokumentation/configbeez/config_shopauskunft_integration) ist Bestandteil der Profi-Tarife.
 
-**Das Qualitäts-Siegel für Kundenvertrauen**  
-[![](http://www.shopauskunft.de/res/sa_siegel_rand_180x_20b_5df.jpg)](http://www.shopauskunft.de/retailer_process.html)SHOPAUSKUNFT verhilft Ihrem Shop mittels Kundenbewertungen zu mehr nachhaltigem Kundenvertrauen und dem damit verbundenen Umsatz.
+
+[<img src="http://www.shopauskunft.de/res/sa_siegel_rand_170x_20b_c0f.jpg" style="float:right">](http://www.shopauskunft.de/retailer_process.html)
+### Das Qualitäts-Siegel für Kundenvertrauen  
+SHOPAUSKUNFT verhilft Ihrem Shop mittels Kundenbewertungen zu mehr nachhaltigem Kundenvertrauen und dem damit verbundenen Umsatz.
 
 **Ihre Vorteile**
 
@@ -71,9 +74,7 @@ Bewertungs Email-Modul für Deutschlands größtes Online-Shop-Bewertungsportal.
 
  
 
-# Konfiguration des Modules:
-
-[![](http://www.mailbeez.com/wp-content/uploads/2011/01/config_shopauskunft-140x300.png "config_shopauskunft")](http://www.mailbeez.com/wp-content/uploads/2011/01/config_shopauskunft.png)
+### Konfiguration des Modules:
 
 **Aktiviere Shopauskunft Modul**  
  Möchten Sie Ihre Kunden zur Bewertung auf Shopauskunft.de auffordern?  
@@ -151,58 +152,3 @@ Betreff-Vorlage
 
 - (shop-root)/mailhive/mailbeez/shopauskunft/email/subject.tpl
 
-Folgend ein Screenshot der Email basierende auf den Standard-Vorlagen:
-
-[![](http://www.mailbeez.com/wp-content/uploads/2011/01/email_shopauskunft-225x300.png "email_shopauskunft")](http://www.mailbeez.com/wp-content/uploads/2011/01/email_shopauskunft.png)
-
-- - - - - -
-
- mit folgenden Premium-Modulen können Shopauskunft Enterprise Partner den Nutzen der Partnerschaft optimieren: **NEU: [Modul-Pakete im Tarif](https://apps.mailbeez.de) ab 9,99Eur pro Monat**
-
-### [  
-![](http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/02/icon_64.png)Shopauskunft Integration Suite](/dokumentation/configbeez/config_shopauskunft_integration/)
-
- MailBeez.com, V. 2.0  
-  
- LINK\_COMPATIBILITY\_DE
-
-module: 159 EUR evtl. zzgl MwSt. Ihr Kauf wird sicher durch unseren Partner Avangate abgewickelt  
-[Wer ist Avangate](http://www.avangate.com/de/shopper-support/) 
-
- 
-
-[button text](http://localhost/wordpress_mailbeez_EOL/wp-content/plugins/download-monitor/download.php?id=55)
-
-
-
- 
-
- 
-
- ![](http://www.mailbeez.com/wp-content/uploads/2011/09/cert.png)**24 Monate frei Updates! Jetzt kaufen und von zukünftigen Entwicklungen profitieren.**  
-Dieses Module erfordert ein personalisiertes Zertifikat, welches für einen Online-Shop gültig ist. Dieses Zertifikat wird zusammen mit den Download Informationen geliefert. Bitte unbedingt die richtige Shop URL eingeben, im Zweifelsfalle bitte VOR der Bestellung [MailBeez kontaktieren](/uber/kontakt/). 
-
-**NEU: [Modul-Pakete im Tarif](https://apps.mailbeez.de) ab 9,99Eur pro Monat**
-
-### [  
-![](http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/02/icon_641.png)Shopauskunft: Gutschein für Bewertungen](/dokumentation/mailbeez/coupon_review_shopauskunft/)
-
- MailBeez.com, V. 2.0  
-  
- LINK\_COMPATIBILITY\_DE
-
-module: 99 EUR evtl. zzgl MwSt. Ihr Kauf wird sicher durch unseren Partner Avangate abgewickelt  
-[Wer ist Avangate](http://www.avangate.com/de/shopper-support/) 
-
- 
-
-[button text](http://localhost/wordpress_mailbeez_EOL/wp-content/plugins/download-monitor/download.php?id=56)
-
-
-
- 
-
- 
-
- ![](http://www.mailbeez.com/wp-content/uploads/2011/09/cert.png)**24 Monate frei Updates! Jetzt kaufen und von zukünftigen Entwicklungen profitieren.**  
-Dieses Module erfordert ein personalisiertes Zertifikat, welches für einen Online-Shop gültig ist. Dieses Zertifikat wird zusammen mit den Download Informationen geliefert. Bitte unbedingt die richtige Shop URL eingeben, im Zweifelsfalle bitte VOR der Bestellung [MailBeez kontaktieren](/uber/kontakt/). 

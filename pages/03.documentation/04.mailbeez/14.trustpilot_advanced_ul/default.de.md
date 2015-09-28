@@ -93,4 +93,4 @@ Deutsch-sprachige Kunden erhalten eine deutsche Email mit Link zu Trustpilot.de,
 
 ### Wollen Sie Ihre wertvollen Bewertungen mit Shop und Email-Marketing integrieren?
 
-Mit der [Trustpilot Integration Suite](/dokumentation/mailbeez/config_trustpilot_rss_importer/) können Sie schnell und einfach Trustpilot-Bewertungen Server-seitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren
+Mit der [Trustpilot Integration Suite](/dokumentation/configbeez/config_trustpilot_rss_importer/) können Sie schnell und einfach Trustpilot-Bewertungen Server-seitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren

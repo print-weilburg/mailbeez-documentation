@@ -154,7 +154,7 @@ Falls alles funktionert, brauchen diese Einstellungen nicht bearbeitet zu werden
 **Wählen Sie das Email System**  
  Mit dieser Einstellung können Sie wählen, ob MailBeez die Email-Funktion des Shop-Systems verwendet oder den in MailBeez integrierten “PHPMailer”, welcher mit SMTP Email Accounts arbeitet.
 
-Wenn Sie die [Email Rückfläufer-Verarbeitung](/dokumentation/mailbeez/config_bouncehive_advanced/) einsetzen wollen, ist es zwingend erforderlich, dass PHPMailer Email System zu verwenden. Weitere Informationen hierzu finden Sie im [ MailBeez Email Rückfläufer-Verarbeitung Tutorial](/dokumentation/tutorials/configbeez-tutorials/-bounce-handling-configuration-tutorial/)
+Wenn Sie die [Email Rückfläufer-Verarbeitung](/dokumentation/configbeez/config_bouncehive_advanced/) einsetzen wollen, ist es zwingend erforderlich, dass PHPMailer Email System zu verwenden. Weitere Informationen hierzu finden Sie im [ MailBeez Email Rückfläufer-Verarbeitung Tutorial](/dokumentation/tutorials/configbeez-tutorials/-bounce-handling-configuration-tutorial/)
 
 ## Dashboard Konfiguration
 
@@ -260,7 +260,7 @@ Die weiteren Einstellungen sind optional und stehen nach der Installation von Pr
 - MailBeez automatisch ausführen
 - Vorlagen Verwaltung
 
-**[ BounceHive Rückläufer Verarbeitung](/dokumentation/mailbeez/config_bouncehive_advanced/)**  
+**[ BounceHive Rückläufer Verarbeitung](/dokumentation/configbeez/config_bouncehive_advanced/)**  
  Email Rückläufer (Bounces) generieren ungewünschte Arbeit für den Shop-Betreiber. Jeder Rückläufer muss gelesen werden und der Kunde mit der ungültigen Email-Adresse deaktiviert werden.  
  Zudem können Rückläufer das Risko als Spamversender eingestuft zu werden, erhöhen und auch zu Problemen mit dem Hoster führen.
 
@@ -269,7 +269,7 @@ Diese Modul automatisiert die Verarbeitung von Email Rückläufern. Diese Rückl
 **[Emailversand drosseln](/dokumentation/mailbeez/filter_do_throttling_simple/)**  
  Dieses Modul erlaubt es, die Versandrate zu kontrollieren, um ggf. Limits des Hosters einzuhalten.
 
-**[MailBeez automatisch ausführen](/dokumentation/mailbeez/config_cron_simple/)**  
+**[MailBeez automatisch ausführen](/dokumentation/configbeez/config_cron_simple/)**  
  Um die Ausführung von MailBeez zu automatisieren, gibt es folgende Möglichkeiten:
 
 - Die Einrichtung eines Cronjobs
@@ -277,7 +277,7 @@ Diese Modul automatisiert die Verarbeitung von Email Rückläufern. Diese Rückl
 
 Ohne eine dieser Möglichkeiten wird MailBeez nicht automatisiert arbeiten können, d.h. der Shopbetreiber muss täglich die Module manuell ausführen. Das Modul “MailBeez automatisch ausführen” ist schnell installiert und für viele Shopbetreiber die einfache Alternative.
 
-**[Vorlagen Verwaltung](/dokumentation/mailbeez/config_tmplmngr/)**  
+**[Vorlagen Verwaltung](/dokumentation/configbeez/config_tmplmngr/)**  
  Mit Hilfe dieses Modules können MailBeez Nutzer schnell und einfach alle Email-Vorlagen direkt im MailBeez System bearbeiten. Somit entfällt das aufwändige Arbeite mit FTP Programmen und Text-Editoren.
 
 **[Mouseflow](/dokumentation/configbeez/config_mouseflow/)**  

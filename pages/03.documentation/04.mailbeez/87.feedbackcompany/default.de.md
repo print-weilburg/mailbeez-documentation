@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -49,4 +49,7 @@ metadata:
 #  last_modified: true
 ---
 
-Rating module for The Feedback Company.
+Mit diesem einfachen, kostenlosen Modul können Sie Ihre Kunden automatisiert um die Abgabe einer Bewertung auf dem holländischen Bewertungs-Portal [The Feedback Company](https://www.feedbackcompany.nl/) bitten.
+
+
+

@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -56,11 +56,6 @@ Für neue Online-Shops oder für neugierige Online-Händler – die gerne MailBe
 **Einfach zu installieren und konfigurieren**
 
 Das Modul “Kunden ohne Kauf einfach” ist – wie alle MailBeez Module – sehr einfach zu installieren und konfigurieren. Einfach mit FTP die Modul-Dateien übertragen, dann steht das neue Modul in der MailBeez Administration zur Konfiguration bereit.  
- Die Email Vorlagen sind wie gewohnt in .tpl Dateien definiert und können dort bearbeitet werden – für den Profi-Einsatz empfiehlt sich natürlich die Erweiterung “[Vorlagen Manager](/documentation/configbeez/config_tmplmngr/?lang=de)“.
+ Die Email Vorlagen sind wie gewohnt in .tpl Dateien definiert und können dort bearbeitet werden – für den Profi-Einsatz empfiehlt sich natürlich die Erweiterung “[Vorlagen Manager](/dokumentation/configbeez/config_tmplmngr/)“ als Bestandteil der Profi Tarife.
 
-## Kunden ohne Kauf einfach vs. Profi
-
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=10 "Edit")  einfach profi Kommentar Kunden ohne Kauf kontaktieren PRO\_YES PRO\_YES Kontaktiere Kunden mit Konto aber ohne Bestellung Personalisierte Gutscheine mit Gültigkeitsdatum PRO\_NO PRO\_YES Voll konfigurierbare Gutscheine werden automatisch generiert 3 Kontakt-Schritte + endlos Schleife PRO\_NO PRO\_YES Flexibler Ablauf mit mehreren Kontaktpunkten um die Kundengewinnung zu optimieren Profi Layouts PRO\_NO PRO\_YES 100% flexibles Vorlagensystem mit z.B. Produktgittern Professionelle Vorlagen PRO\_NO PRO\_YES per Mausklick auswählbare Vorlagen – können leicht selbst angepasst und erweitert werden. Copyright-freie Emails PRO\_NO PRO\_YES Emails ohne MailBeez Copyright FusszeileDie besten Ergebnisse der Gewinnung von Kunden ohne Kauf liefert das Module  
-[Kunden ohne Kauf Profi mit Gutscheinen](/documentation/mailbeez/nopurchase_advanced/ "Kunden ohne Kauf Profi")
-
-[Jetzt mehr dazu lesen ›](/documentation/mailbeez/nopurchase_advanced/ "Kunden ohne Kauf Profi")
+Die besten Ergebnisse der Gewinnung von Kunden ohne Kauf liefert das Module [Kunden ohne Kauf Profi mit Gutscheinen](/dokumentation/mailbeez/nopurchase_advanced/ "Kunden ohne Kauf Profi").

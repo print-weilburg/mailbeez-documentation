@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -49,13 +49,12 @@ metadata:
 #  last_modified: true
 ---
 
+
+Dieses kostenfreie Modul bitte Kunden automatisch nach der Bestellung um Bewertung auf Trustpilot. Für den professionellen Einsatz empfehlen wir das [Trustpilot Profi](/dokumentation/mailbeez/trustpilot_advanced) Modul als Bestandteil der Profi-Tarife!
+
 **Haben Sie viele zufriedene Kunden, aber wenig positive Bewertungen? Trustpilot’s automatischer Feedback Service sammelt automatisch Bewertungen von Ihren Kunden.**
 
-![The Trustpilot process!](http://www.mailbeez.com/wp-content/uploads/2010/05/tp_afs-300x194-250x200.png "The Trustpilot process!")The Trustpilot process!
-
- 
-
-In enger Zusammenarbeit mit Trustpilot entwickelt und offiziell als Partner-Lösung empfohlen, erweitert das MailBeez Trustpilot Modul den Trustpilot “Automatic Feedback Service”. Das Module sammelt automatisch die erforderlichen Daten und übermittelt diese kontrolliert an Trustpilot. Trustpilot generiert daraufhin eine “1-Klick”-Email, welche dem Kunden das sofortige Schreiben einer Bewertung erlaubt – dies ergibt bis zu 10x mehr Bewertungen!
+In enger Zusammenarbeit mit Trustpilot entwickelt und offiziell als Partner-Lösung empfohlen, erweitert das MailBeez Trustpilot Modul den Trustpilot “Automatic Feedback Service”. Das Modul sammelt automatisch die erforderlichen Daten und übermittelt diese kontrolliert an Trustpilot. Trustpilot generiert daraufhin eine “1-Klick”-Email, welche dem Kunden das sofortige Schreiben einer Bewertung erlaubt – dies ergibt bis zu 10x mehr Bewertungen!
 
 **So funktioniert das System:**
 
@@ -65,34 +64,12 @@ In enger Zusammenarbeit mit Trustpilot entwickelt und offiziell als Partner-Lös
 - Das System schickt dem Kunden daraufhin eine “1-Klick” Email mit Bitte um Bewertung – der Kunde kann sofort mit dem Schreiben loslegen.
  
 
+Hinweis:
 
-Nach der Installation einfach das Module konfiguieren.
+wenn Sie mehrere Sprachen nutzen, bitte in der Email Vorlage die Zeile
 
-Bitte den [MailBeez Schnelleinstieg](/documentation/tutorials/guide-to-getting-started/?lang=de) lesen, um einen Überblick von MailBeez zu erhalten.
+```
+‘language’ => MAILBEEZ_TRUSTPILOT_LANGUAGE
+```
 
-- - - - - -
-
- Optimieren Sie die Integration mit Trustpilot: **NEU: [Modul-Pakete im Tarif](https://apps.mailbeez.de) ab 9,99Eur pro Monat**
-
-### [  
-![](http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/03/top_64.png)Trustpilot Integration Suite](/dokumentation/configbeez/config_trustpilot_rss_importer/)
-
- MailBeez.com, V. 2.3  
-  
- LINK\_COMPATIBILITY\_DE
-
-module: 159 EUR evtl. zzgl MwSt. Ihr Kauf wird sicher durch unseren Partner Avangate abgewickelt  
-[Wer ist Avangate](http://www.avangate.com/de/shopper-support/) 
-
- 
-
-[button text](http://localhost/wordpress_mailbeez_EOL/wp-content/plugins/download-monitor/download.php?id=28)
-
-
-
- 
-
- 
-
- ![](http://www.mailbeez.com/wp-content/uploads/2011/09/cert.png)**24 Monate frei Updates! Jetzt kaufen und von zukünftigen Entwicklungen profitieren.**  
-Dieses Module erfordert ein personalisiertes Zertifikat, welches für einen Online-Shop gültig ist. Dieses Zertifikat wird zusammen mit den Download Informationen geliefert. Bitte unbedingt die richtige Shop URL eingeben, im Zweifelsfalle bitte VOR der Bestellung [MailBeez kontaktieren](/uber/kontakt/). 
+anpassen, so dass die richtige Information zur Kundensprache übermittelt wird.

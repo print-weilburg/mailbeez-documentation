@@ -15,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [ce]
 module:
@@ -61,9 +61,4 @@ Whilst the free version of Winback does not give you the more advanced features 
 
 Winback Simple, like all Mailbeez modules, even the extremely powerful Advanced modules, is very simple to install and configure. Installation is usually a case of just transferring a few files into your FTP, whilst configuration is via the Mailbeez module controls in your store’s admin area; an environment you are already familiar very familiar with.
 
-## Winback Simple vs. Winback Advanced
-
-  [Edit](http://localhost/wordpress_mailbeez_EOL/wp-admin/tools.php?page=wp-table-reloaded&action=edit&table_id=5 "Edit")  Winback Simple Winback Advanced Comment Contact Customers after a defined period of time w/o purchase PRO\_YES PRO\_YES Don’t leave your customers alone personalized Coupons with expiration date PRO\_NO PRO\_YES fully configurable personalized coupons are added 3 different Steps + endless loop PRO\_NO PRO\_YES flexible Workflow to increase the winback rate Advanced Layouts PRO\_NO PRO\_YES allow most advanced Layouts e.g. product grids List of last purchased products PRO\_NO PRO\_YES Remember Customers what they have purchased Social Sharing Services PRO\_NO PRO\_YES Allow customers to share products on Facebook etc. Products for Test-Email PRO\_NO PRO\_YES Fill the Test-Email with products – great for template development Professional Templates PRO\_NO PRO\_YES Choose from a list of professional templates Multiple Order Status PRO\_NO PRO\_YES Define a number of order status to react on White Label Emails PRO\_NO PRO\_YES Copyright free EmailsGet the best Win-Back Rates with the advanced Multi-step MailBeez Module  
-[Winback Advanced with Coupons](/documentation/mailbeez/winback_advanced/ "Review Reminder Advanced – Autologin")
-
-[visit the module now ›](/documentation/mailbeez/winback_advanced/ "Winback Advanced")
+Get the best Win-Back Rates with the advanced Multi-step MailBeez Module [Winback Advanced with Coupons](/documentation/mailbeez/winback_advanced/ "Review Reminder Advanced – Autologin").

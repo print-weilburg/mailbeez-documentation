@@ -70,4 +70,4 @@ Das Modul wird dann automatisch prüfen, ob bereits eine neuen Einladung versend
 
 ### Wollen Sie Ihre wertvollen Bewertungen mit Shop und Email-Marketing integrieren?
 
-Mit der [Idealo Integration Suite](/dokumentation/mailbeez/config_idealo_rss_importer/) können Sie schnell und einfach Idealo-Bewertungen serverseitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren
+Mit der [Idealo Integration Suite](/dokumentation/configbeez/config_idealo_rss_importer/) können Sie schnell und einfach Idealo-Bewertungen serverseitig in Ihren Shop (positiver SEO Effekt durch "unique fresh content") und auch in alle von MailBeez generieren Email Marketing Emails integrieren

@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
- Boost your Reviews with [Review Reminder Advanced – with autologin](http://www.mailbeez.com//documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
+ Boost your Reviews with [Review Reminder Advanced – with autologin](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
 
 [visit the module now ›](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
 
@@ -88,6 +88,6 @@ With the [Trustpilot Integration Suite](/documentation/configbeez/config_trustpi
 
 So suddenly things make sense and nothing stops you growing your online business!
 
- Boost your Reviews with [Review Reminder Advanced – with autologin](http://www.mailbeez.com//documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
+ Boost your Reviews with [Review Reminder Advanced – with autologin](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")
 
 [visit the module now ›](/documentation/mailbeez/review_advanced/ "Review Reminder Advanced – Autologin")

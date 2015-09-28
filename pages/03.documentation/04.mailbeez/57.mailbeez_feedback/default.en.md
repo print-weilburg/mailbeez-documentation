@@ -1,15 +1,15 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: The Feedback Company
-slug: feedbackcompany
-# menu: The Feedback Company
-date: 16-12-2011
+title: MailBeez Feedback
+slug: mailbeez_feedback
+# menu: MailBeez Feedback
+date: 22-05-2010
 published: true
-publish_date: 16-12-2011
-# unpublish_date: 16-12-2011
+publish_date: 22-05-2010
+# unpublish_date: 22-05-2010
 template: docs
 # theme: false
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
@@ -17,19 +17,19 @@ summary:
 taxonomy:
     migration_status: done
     category: [docs]
-    tag: [ce]
+    tag: [core,depreciated]
 module:
-    code: 'feedbackcompany'
-    category: [mailbeez]
+    code: 'mailbeez_feedback'
+    category: [depreciated]
     compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
-    thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/05/icon_32.png'
+    thumbnail: ''
     pro: ''
     cert: ''
     price: ''
-    title_en: 'Feedbackcompany.nl'
-    teaser_en: 'Ask your customers to give a review on feedbackcompany.nl'
-    title_de: 'Feedbackcompany.nl'
-    teaser_de: 'Bitte Sie Ihre Kunden um eine Bewertung auf feedbackcompany.nl'
+    title_en: 'MailBeez Feedback'
+    teaser_en: ''
+    title_de: ''
+    teaser_de: ''
     author: 'MailBeez.com'
 # added collection selector
 
@@ -48,4 +48,12 @@ metadata:
 #  cache_enable: false
 #  last_modified: true
 ---
-This simple, free module allows you to ask your customers for a review on the dutch Portal [The Feedback Company](https://www.feedbackcompany.nl/).
+
+Help to improve MailBeez – this MailBeez Module sends a monthly statistic to MailBeez.com
+
+The Email contains following information:
+
+- installed modules
+- total number of emails
+- your personal greeting
+

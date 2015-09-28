@@ -60,7 +60,7 @@ Die Standard-Newsletter Funktion von osCommerce, Gambio, ModifiedShop & Zencart 
 
 Mit dem MailBeez Newsletter Profi-Modul wird diese Lücke geschlossen und Shopbetreiber können nun endlich zuverlässig professionelle Newsletter direkt aus dem Shopsystem versenden. Da das MailBeez Newsletter Profi Modul direkt in das Shopsystem eingebettet ist, müssen keine Daten exportiert oder importiert werden. Es kann sofort ein Newsletter an z.B. alle Kunden mit einem aktiven Newsletter-Abo versendet werden.
 
-Das Erstellen von Newslettern wird mit dem MailBeez Newsletter Profi Modul denkbar einfach gemacht: der Visuelle Editor ermöglicht das Verfassen von professionellen Newslettern, welche bestmöglich in den wichtigsten Email-Programmen dargestellt werden. In Kombination mit der [Responsive Vorlagen-Verwaltung](/dokumentation/mailbeez/config_tmplmngr) können auch mobil-freundliche Newsletter erstellt werden, welche optimal auf z.B. iPhones dargestellt werden.
+Das Erstellen von Newslettern wird mit dem MailBeez Newsletter Profi Modul denkbar einfach gemacht: der Visuelle Editor ermöglicht das Verfassen von professionellen Newslettern, welche bestmöglich in den wichtigsten Email-Programmen dargestellt werden. In Kombination mit der [Responsive Vorlagen-Verwaltung](/dokumentation/configbeez/config_tmplmngr) können auch mobil-freundliche Newsletter erstellt werden, welche optimal auf z.B. iPhones dargestellt werden.
 
 
 #### Freie Wahl des Email-Servers
@@ -182,7 +182,7 @@ Durch die Drosselung und die Begrenzung der Anzahl mit Hilfe der Stapel-Grösse 
 Für einen reibungslosen Einsatz des MailBeez Newsletter Profi Module werden folgende Erweiterungen des MailBeez Systems empfohlen - alle MailBeez Module profitieren hiervon:
 
 - [Einfache Drosselung](/dokumentation/mailbeez/filter_do_throttling_simple) 
-- [Bouncehive Rückläufer-Verarbeitung](/dokumentation/mailbeez/config_bouncehive_advanced)
+- [Bouncehive Rückläufer-Verarbeitung](/dokumentation/configbeez/config_bouncehive_advanced)
 - [Kundengruppen-Filter](/dokumentation/mailbeez/filter_check_group)
 
 
