@@ -40,7 +40,8 @@ metadata:
 
 - - - - - -
 
-MailBeez arbeitet problemlos mit *Gambio GX 2.x*.
+MailBeez arbeitet problemlos mit *Gambio GX 2.0.x* bis *GX 2.3.x*. - 
+ab *GX 2.4.x* ist Mailbeez im Shop integriert - *Zur Anleitung ab GX 2.4.x*
 
 Die Installation ist in wenigen Schritten erledigt:
 - Die neuen Dateien übertragen
