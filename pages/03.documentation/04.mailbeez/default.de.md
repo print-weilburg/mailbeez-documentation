@@ -35,6 +35,8 @@ metadata:
 #  cache_enable: false
 #  last_modified: true
 ---
+
+### Abschnitt 2
 # MailBeez Module
 
 Hier sind Sie an der richtigen Stelle, um die Welt der MailBeez Module zu entdecken! Automatisierbar, intelligent und integriert bietet MailBeez Ihnen eine Reihe von Werkzeugen, um Ihre [Kundenbeziehung](/dokumentation/tutorials/customer-life-cycle-management-and-how-mailbeez-can-help/ "Lifecycle management") zu optimieren

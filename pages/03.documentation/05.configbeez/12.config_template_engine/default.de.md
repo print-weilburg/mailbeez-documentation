@@ -1,16 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Basic Configuration
-slug: config_queen
-routes:
-    aliases:
-        - /dokumentation/installation/config_queen
-        
-# menu: Update MailBeez Framework
-date: 21-05-2010
+title: Template System
+slug: config_template_engine
+# menu: MailBeez Analytics
+date: 26-03-2012
 published: true
-publish_date: 21-05-2010
-# unpublish_date: 21-05-2010
+publish_date: 26-03-2012
+# unpublish_date: 26-03-2012
 template: docs
 # theme: false
 visible: true
@@ -19,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [core]
 # added collection selector
@@ -40,14 +36,8 @@ metadata:
 #  last_modified: true
 ---
 
-This module represents the core of the MailBeez System
+Zur Generierung der Emails nutzt MailBeez das beliebte Templatesystem "[Smarty](http://smarty.net)", welches auch in vielen Shop-Systemen zum Einsatz kommt.
 
-#### Updating MailBeez
+In diesem Modul kann der Cache des Template Systemes geleert werden.
 
-A new version of this module means: there is a new MailBeez Release!
-
-**Version 3+**: please click on the update notification and follow the instructions
-
-**below Version 3**: please download the quickstart package and follow the included update instructions.
-
-
+Nicht alle Email Programm unterstützen externe CSS Dateien, daher werden standardmässig alle CSS Angaben in Inline-CSS umgewandelt. Sollte dieses Verhalten bei selbst erstellten Email-Vorlagen stören, kann es hier deaktiviert werden.

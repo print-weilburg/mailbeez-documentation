@@ -1,16 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Basic Configuration
-slug: config_queen
-routes:
-    aliases:
-        - /dokumentation/installation/config_queen
-        
-# menu: Update MailBeez Framework
-date: 21-05-2010
-published: true
-publish_date: 21-05-2010
-# unpublish_date: 21-05-2010
+title: Idealo Integration Suite
+slug: config_idealo_integration
+# menu: Idealo Integration Suite
+date: 15-04-2015
+published: false
+publish_date: 15-04-2015
+# unpublish_date: 15-04-2015
 template: docs
 # theme: false
 visible: true
@@ -21,7 +17,7 @@ summary:
 taxonomy:
     migration_status: review
     category: [docs]
-    tag: [core]
+    tag: []
 # added collection selector
 
 author:
@@ -40,14 +36,8 @@ metadata:
 #  last_modified: true
 ---
 
-This module represents the core of the MailBeez System
+Import and Integrate your valuable Idealo Reviews
 
-#### Updating MailBeez
+## How it works
 
-A new version of this module means: there is a new MailBeez Release!
-
-**Version 3+**: please click on the update notification and follow the instructions
-
-**below Version 3**: please download the quickstart package and follow the included update instructions.
-
-
+As idealo is not offering any API the dealer notification emails for new reviews are automatically processed.

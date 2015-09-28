@@ -1,6 +1,6 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Grund-Konfigurations Modul
+title: Grund-Konfiguration
 slug: config_queen
 
 routes:
@@ -41,10 +41,14 @@ metadata:
 #  last_modified: true
 ---
 
-## Über dieses Module
-
 Diese Modul steht stellvertretende für das MailBeez Grundsystem.
 
-Eine neue Version dieses Modules bedeutet, dass es eine neue Version des MailBeez Grundsystemes gibt!
 
- **MailBeez Updaten:** Um das MailBeez Grundsystem auf die aktuelle Version zu bringen, bitte das MailBeez Installations-Paket downloaden – dieses enthält auch Update-Packs und Anweisungen für eine einfache Aktualisierung des Systemes. 
+#### MailBeez Aktualisieren
+
+
+Eine neue Version dieses Modules bedeutet, dass es eine neue Version des MailBeez Grundsystemes gibt!
+ 
+**Ab Version 3**: bitten nutzen Sie den MailBeez Updater - Klicken Sie auf den Hinweis zur neuen Version und folgen Sie dem Verlauf
+
+**Vor Version 3**: bitten laden Sie das Grundpaket und folgen Sie den dort enthaltenen Anweisungen zur Aktualisierung des MailBeez Systems

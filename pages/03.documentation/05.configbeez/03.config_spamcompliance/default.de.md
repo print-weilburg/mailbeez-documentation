@@ -1,16 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Basic Configuration
-slug: config_queen
-routes:
-    aliases:
-        - /dokumentation/installation/config_queen
-        
-# menu: Update MailBeez Framework
-date: 21-05-2010
+title: Antispam Regeln
+slug: config_spamcompliance
+# menu: Antispam Regeln
+date: 20-04-2012
 published: true
-publish_date: 21-05-2010
-# unpublish_date: 21-05-2010
+publish_date: 20-04-2012
+# unpublish_date: 20-04-2012
 template: docs
 # theme: false
 visible: true
@@ -19,7 +15,7 @@ summary:
     format: short
     size: 128
 taxonomy:
-    migration_status: review
+    migration_status: done
     category: [docs]
     tag: [core]
 # added collection selector
@@ -40,14 +36,6 @@ metadata:
 #  last_modified: true
 ---
 
-This module represents the core of the MailBeez System
+Hier können Sie konfigurieren, ob ausschliesslich Kunden mit Newsletter-Abo (Newsletter Abo Check: true) oder alle Kunden kontaktiert werden sollen.
 
-#### Updating MailBeez
-
-A new version of this module means: there is a new MailBeez Release!
-
-**Version 3+**: please click on the update notification and follow the instructions
-
-**below Version 3**: please download the quickstart package and follow the included update instructions.
-
-
+Zudem können Sie wählen, ob ein Klick auf einen Opt-Out Link in einer Email nur weitere Emails des jeweiligen Modules blockieren soll - oder bewirkt, dass generell für diesen Kunden keine Emails mehr versendet werden.
