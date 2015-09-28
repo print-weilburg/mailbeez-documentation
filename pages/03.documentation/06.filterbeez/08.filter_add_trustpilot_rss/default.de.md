@@ -38,7 +38,7 @@ metadata:
 
 Fügen Sie Ihre wertvollen Trustpilot ratings automatisch in Ihre MailBeez Email Kampagnen ein – hervorragend um die Emails zur “Kundenrückgewinnung” (Winback) und “Kunden ohne Kauf” (Nopurchase) aufzuwerten.
 
-Dieses Hilfsmodule ist Teil der [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/?lang=de "Trustpilot Integration Suite").
+Dieses Hilfsmodul ist Teil der [Trustpilot Integration Suite](/documentation/configbeez/config_trustpilot_rss_importer/?lang=de "Trustpilot Integration Suite").
 
 Mit der beiliegenden Standard Vorlage sehen die Bewertungen folgendermassen aus:
 
@@ -57,7 +57,7 @@ Mit der beiliegenden Standard Vorlage sehen die Bewertungen folgendermassen aus:
  Nur Bewertungen mit mindestens diese Anzahl Sterne anzeigen (3-5)
 
 **Zufällige Reihenfolge**  
- Zufällige Reihenfolge True) oder chronologische Reihenfolge (False)
+ Zufällige Reihenfolge (True) oder chronologische Reihenfolge (False)
 
  
 
@@ -65,7 +65,7 @@ Mit der beiliegenden Standard Vorlage sehen die Bewertungen folgendermassen aus:
 
 Modul installieren und Aktvieren – vorher den Trustpilot RSS feed Importer konfigurieren und testen.
 
-Mit folgende Platzhaltern können Sie die konfigurierte Anzahl an Bewertungen in von MailBeez generierten Emails einfügen. Die Platzhalter können an jeder beliebigen Stellen in den MailBeez Vorlagen (\*.tpl Dateien) eingefügt werden. Sollen die Bewertungen in allen Emails sichtbar sein, am besten in die Hauptvorlage einfügen
+Mit folgende Platzhaltern können Sie die konfigurierte Anzahl an Bewertungen in von MailBeez generierten E-Mails einfügen. Die Platzhalter können an jeder beliebigen Stellen in den MailBeez Vorlagen (\*.tpl Dateien) eingefügt werden. Sollen die Bewertungen in allen E-Mails sichtbar sein, am besten in die Hauptvorlage einfügen.
 
 Platzhalter für die HTML-Version der Vorlage:
 
@@ -75,13 +75,13 @@ Platzhalter für die TXT-Version der Vorlage:
 
 > `{$content.rss.trustpilot.txt}`
 
-Die Vorlage für die Darstellung der Bewertungen ist folgende Datei
+Die Vorlage für die Darstellung der Bewertungen ist folgende Template-Datei
 
 > `rss_email_html.tpl`  
 > `rss_email_txt.tpl`
 
-welche in folgendem Ordner liegt:
+Die Datei liegt in dem Ordner:
 
 > `mailhive\configbeez\config_trustpilot_rss_importer\templates`
 
-Fortgeschrittene Benutzter können auch das Daten-Object mit den Bewertungen direkt im Email Template verwenden – Anleitung hierzu finden Sie im Modul (Admin)
+Fortgeschrittene Benutzer können auch das Daten-Object mit den Bewertungen direkt im E-Mail Template verwenden – Anleitung hierzu finden Sie im Modul (Admin)
